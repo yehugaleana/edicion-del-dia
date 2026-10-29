@@ -89,7 +89,7 @@ def clean_gnews_title(title):
 def main():
     cfg = json.loads((ROOT / "feeds.json").read_text(encoding="utf-8"))
     now = dt.datetime.now(dt.timezone.utc)
-    collected, failed = [], []
+    per_source, failed = [], []
 
     for feed in cfg["feeds"]:
         try:
@@ -101,12 +101,17 @@ def main():
                     it["title"] = translate(it["title"])
                 it["source"] = feed["name"]
                 it["group"] = feed["group"]
-            collected.extend(items)
+            per_source.append(items)
         except Exception as e:  # noqa: BLE001 - queremos seguir con las demás fuentes
             failed.append({"source": feed["name"], "error": str(e)[:120]})
 
-    collected.sort(key=lambda x: x["date"] or dt.datetime.min.replace(tzinfo=dt.timezone.utc), reverse=True)
-    top = collected[: cfg["maxItems"]]
+    # Tomamos una noticia de cada fuente por turno, para que ninguna se quede fuera.
+    top = []
+    for rnd in range(cfg["perFeed"]):
+        for items in per_source:
+            if rnd < len(items) and len(top) < cfg["maxItems"]:
+                top.append(items[rnd])
+    top.sort(key=lambda x: x["date"] or dt.datetime.min.replace(tzinfo=dt.timezone.utc), reverse=True)
 
     previous = {}
     p = ROOT / "news.json"
