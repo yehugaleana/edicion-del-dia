@@ -2,7 +2,7 @@ name: Actualizar noticias
 
 on:
   schedule:
-    - cron: "0 */2 * * *"
+    - cron: "0 */2 * * *"   # cada 2 horas, en UTC
   workflow_dispatch:
 
 permissions:
@@ -16,6 +16,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - name: Instalar dependencias
+        run: pip install -q deep-translator
       - name: Descargar feeds
         run: python fetch_news.py
       - name: Guardar cambios
