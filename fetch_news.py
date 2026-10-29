@@ -77,7 +77,8 @@ def ago(d, now):
 def translate(text):
     try:
         return GoogleTranslator(source="en", target="es").translate(text)
-    except Exception:  # noqa: BLE001 - si falla la traducción, dejamos el original
+    except Exception as e:  # noqa: BLE001 - si falla la traducción, dejamos el original
+        print(f"Traducción fallida: {e}")
         return text
 
 
