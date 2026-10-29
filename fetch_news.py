@@ -1,6 +1,7 @@
-"""Descarga los feeds RSS/Atom de feeds.json y escribe news.json.
+"""Descarga los feeds de feeds.json, traduce al español lo que venga en inglés
+y escribe news.json.
 
-Si un feed falla, se omite y se registra en la sección "fallidos" de news.json,
+Si un feed falla, se omite y se registra en la sección "failed" de news.json,
 para que la página siga funcionando aunque una fuente esté caída.
 """
 import json
@@ -9,6 +10,8 @@ import datetime as dt
 import urllib.request
 import xml.etree.ElementTree as ET
 from pathlib import Path
+
+from deep_translator import GoogleTranslator
 
 ROOT = Path(__file__).parent
 UA = "Mozilla/5.0 (compatible; EdicionDelDia/1.0)"
@@ -71,6 +74,18 @@ def ago(d, now):
     return f"hace {mins // 1440} d"
 
 
+def translate(text):
+    try:
+        return GoogleTranslator(source="en", target="es").translate(text)
+    except Exception:  # noqa: BLE001 - si falla la traducción, dejamos el original
+        return text
+
+
+def clean_gnews_title(title):
+    # Google News añade " - Nombre del medio" al final del titular.
+    return title.rsplit(" - ", 1)[0] if " - " in title else title
+
+
 def main():
     cfg = json.loads((ROOT / "feeds.json").read_text(encoding="utf-8"))
     now = dt.datetime.now(dt.timezone.utc)
@@ -80,6 +95,10 @@ def main():
         try:
             items = items_from(fetch(feed["url"]))[: cfg["perFeed"]]
             for it in items:
+                if feed.get("gnews"):
+                    it["title"] = clean_gnews_title(it["title"])
+                if feed.get("lang") == "en":
+                    it["title"] = translate(it["title"])
                 it["source"] = feed["name"]
                 it["group"] = feed["group"]
             collected.extend(items)
@@ -105,15 +124,11 @@ def main():
     ]
 
     data = {
-        "edition": previous.get("edition", "Edición del mediodía"),
-        "weather": previous.get("weather", {}),
-        "events": previous.get("events", []),
-        "reminders": previous.get("reminders", []),
+        "edition": previous.get("edition", "Edición del día"),
         "source": "varias fuentes",
         "news": news,
         "updated": now.strftime("%Y-%m-%d %H:%M UTC"),
         "failed": failed,
-        "note": previous.get("note", ""),
     }
     p.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"{len(news)} noticias, {len(failed)} fuentes fallidas")
