@@ -1,131 +1,20 @@
 {
   "edition": "Edición del mediodía",
-  "weather": {
-    "now": "22°, despejado",
-    "tomorrow": "Mañana: máx. 26°, mín. 11°",
-    "sun": "Sale 7:12 · se pone 18:39"
-  },
+  "weather": { "now": "22°, despejado", "tomorrow": "Mañana: máx. 26°, mín. 11°", "sun": "Sale 7:12 · se pone 18:39" },
   "events": [
-    {
-      "title": "Reunión familiar",
-      "when": "Domingo, todo el día"
-    },
-    {
-      "title": "Clase de natación",
-      "when": "Viernes, 17:00"
-    }
+    { "title": "Reunión familiar", "when": "Domingo, todo el día" },
+    { "title": "Clase de natación", "when": "Viernes, 17:00" }
   ],
   "reminders": [
-    {
-      "title": "Cita con el barbero",
-      "due": "Vence el martes"
-    },
-    {
-      "title": "Pagar servicios",
-      "due": "Vence el viernes"
-    }
+    { "title": "Cita con el barbero", "due": "Vence el martes" },
+    { "title": "Pagar servicios", "due": "Vence el viernes" }
   ],
-  "source": "varias fuentes",
+  "source": "Ejemplo",
   "news": [
-    {
-      "title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
-      "time": "hace 1 h",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american"
-    },
-    {
-      "title": "We Won't \"Just Hang Out\"",
-      "time": "hace 1 h",
-      "source": "Hacker News",
-      "link": "https://borretti.me/article/we-wont-just-hang-out"
-    },
-    {
-      "title": "En directo: el mundo se solidariza con España mientras siguen investigaciones por letal siniestro ferroviario",
-      "time": "hace 1 h",
-      "source": "France 24 Español",
-      "link": "https://www.france24.com/es/europa/20261029-en-directo-el-mundo-se-solidariza-con-espa%C3%B1a-mientras-siguen-investigaciones-por-letal-siniestro-ferroviario"
-    },
-    {
-      "title": "Ofcom outlines ways social media can verify ages of users",
-      "time": "hace 1 h",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Ofcom outlines ways social media can verify ages of users",
-      "time": "hace 1 h",
-      "source": "BBC Tech",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Healey promises reduction in welfare bill before next election",
-      "time": "hace 1 h",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/cm5ynwkjgpz3o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Norton Coupon Codes: Up to 58% Off",
-      "time": "hace 2 h",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/norton-coupon-code/"
-    },
-    {
-      "title": "Hungryroot Coupon Codes: 30% Off This November 2026",
-      "time": "hace 2 h",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/hungryroot-promo-code/"
-    },
-    {
-      "title": "Loop Earplugs Discount Codes: 40% Off",
-      "time": "hace 2 h",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/loop-earplugs-discount-code/"
-    },
-    {
-      "title": "NZXT Discount Codes: 50% Off in November 2026",
-      "time": "hace 2 h",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/nzxt-discount-code/"
-    },
-    {
-      "title": "4 escenarios que se abren en Israel luego de que ni Netanyahu ni Eisenkot lograran mayoría absoluta en las elecciones",
-      "time": "hace 3 h",
-      "source": "BBC Mundo",
-      "link": "https://www.bbc.com/mundo/articles/c9kgje41ezpro?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Spain begins three days of mourning after train crash kills dozens",
-      "time": "hace 3 h",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "La fuga de Brasil a Estados Unidos: ¿hunde Flávio Bolsonaro al bolsonarismo?",
-      "time": "hace 4 h",
-      "source": "France 24 Español",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261029-la-fuga-de-brasil-a-estados-unidos-hunde-fl%C3%A1vio-bolsonaro-al-bolsonarismo"
-    },
-    {
-      "title": "¿Por qué la Fiscalía de Perú archivó el caso de esterilizaciones forzadas pese a reconocerlo?",
-      "time": "hace 4 h",
-      "source": "France 24 Español",
-      "link": "https://www.france24.com/es/video/20261029-por-qu%C3%A9-la-fiscal%C3%ADa-de-per%C3%BA-archiv%C3%B3-el-caso-de-esterilizaciones-forzadas-pese-a-reconocerlas"
-    }
-  ],
-  "updated": "2026-10-29 07:47 UTC",
-  "failed": [
-    {
-      "source": "DW Español",
-      "error": "syntax error: line 1, column 0"
-    },
-    {
-      "source": "El Universal",
-      "error": "HTTP Error 404: Not Found"
-    },
-    {
-      "source": "ADN40",
-      "error": "HTTP Error 404: Not Found"
-    }
+    { "title": "Titular de ejemplo uno, reemplázalo con una noticia de hoy", "time": "hace 14 min" },
+    { "title": "Titular de ejemplo dos sobre economía o tecnología", "time": "hace 28 min" },
+    { "title": "Titular de ejemplo tres sobre política nacional", "time": "hace 1 h" },
+    { "title": "Titular de ejemplo cuatro sobre el mundo", "time": "hace 1 h" }
   ],
   "note": "Datos de ejemplo. Pide que actualicemos news.json con las noticias del día."
 }
