@@ -1,0 +1,229 @@
+<meta name="claude:viewport-fit-sides" content="cover">
+<title>Edición del Día</title>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700;800&family=Inter:wght@400;500;600&display=swap">
+<style>
+  /* Estructura: tarjeta tipo periódico, con la misma jerarquía del widget
+     (fecha, día grande, titular, dos columnas, noticias y pie). */
+  :root {
+    --paper: #f2f1ec;
+    --ink: #1c1c1e;
+    --muted: #6b6b63;
+    --rule: #1c1c1e;
+    --line: rgba(28,28,30,.22);
+    --serif: 'Playfair Display', Georgia, 'Times New Roman', serif;
+    --sans: 'Inter', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif;
+    color-scheme: light;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --paper: #1a1a1c; --ink: #f2f1ec; --muted: #9a9a92; --rule: #f2f1ec; --line: rgba(242,241,236,.22);
+      color-scheme: dark;
+    }
+  }
+  :root[data-theme="dark"] {
+    --paper: #1a1a1c; --ink: #f2f1ec; --muted: #9a9a92; --rule: #f2f1ec; --line: rgba(242,241,236,.22);
+    color-scheme: dark;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: var(--sans);
+    padding-left: max(16px, env(safe-area-inset-left, 0px));
+    padding-right: max(16px, env(safe-area-inset-right, 0px));
+    padding-block: 24px;
+    min-height: 100dvh;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+  }
+  .card {
+    width: 100%;
+    max-width: 560px;
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    min-width: 0;
+  }
+  .top {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    font-size: 13px;
+    color: var(--muted);
+    font-variant-numeric: tabular-nums;
+  }
+  .day {
+    font-family: var(--serif);
+    font-weight: 800;
+    font-size: clamp(44px, 12vw, 64px);
+    line-height: 1;
+    text-align: center;
+    margin: 4px 0 0;
+    text-transform: capitalize;
+  }
+  .sub {
+    text-align: center;
+    font-size: 12px;
+    letter-spacing: .14em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin: 0;
+  }
+  .rule { height: 2px; background: var(--rule); border: 0; margin: 0; }
+  .rule.thin { height: 1px; opacity: .35; }
+  .label {
+    font-size: 10px;
+    letter-spacing: .16em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin: 0 0 6px;
+  }
+  .two {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 14px;
+    min-width: 0;
+  }
+  .events { min-width: 0; }
+  .item-title {
+    font-family: var(--serif);
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 1.2;
+    margin: 0 0 2px;
+    overflow-wrap: anywhere;
+  }
+  .item-meta { font-size: 12px; color: var(--muted); margin: 0 0 12px; }
+  .box {
+    border: 1px solid var(--line);
+    padding: 10px 12px;
+    min-width: 0;
+  }
+  .news-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px 16px;
+    min-width: 0;
+  }
+  .news-item { min-width: 0; padding-bottom: 10px; border-bottom: 1px solid var(--line); }
+  .news-item:nth-last-child(-n+2) { border-bottom: 0; }
+  .news-item h3 {
+    font-family: var(--serif);
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.25;
+    margin: 0 0 4px;
+    text-wrap: balance;
+    overflow-wrap: anywhere;
+  }
+  .news-item .meta { font-size: 11px; color: var(--muted); }
+  .news-item a { color: inherit; text-decoration: none; }
+  .news-item a:hover { text-decoration: underline; }
+  .foot {
+    border: 1px solid var(--line);
+    padding: 10px 12px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px 14px;
+    font-size: 13px;
+  }
+  .foot .k { font-size: 10px; letter-spacing: .14em; text-transform: uppercase; color: var(--muted); margin-bottom: 2px; }
+  .edition {
+    text-align: center;
+    font-size: 10px;
+    letter-spacing: .24em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin: 2px 0 0;
+  }
+  .note { font-size: 11px; color: var(--muted); text-align: center; margin: 0; }
+  .news-item.more { display: none; }
+  @media (max-width: 380px) {
+    .two, .news-grid, .foot { grid-template-columns: 1fr; }
+    .news-item:nth-last-child(-n+2) { border-bottom: 1px solid var(--line); }
+    .news-item:last-child { border-bottom: 0; }
+  }
+</style>
+
+<main class="card" id="app">
+  <div class="top">
+    <span id="date">—</span>
+    <span id="weatherNow">—</span>
+  </div>
+  <h1 class="day" id="weekday">—</h1>
+  <p class="sub" id="edition">Edición del mediodía</p>
+  <hr class="rule">
+
+  <section class="two">
+    <div class="events">
+      <p class="label">También</p>
+      <div id="events"></div>
+    </div>
+    <div>
+      <p class="label">Recordatorios</p>
+      <div class="box" id="reminders"></div>
+    </div>
+  </section>
+
+  <hr class="rule thin">
+
+  <section>
+    <p class="label" id="newsLabel">En las noticias</p>
+    <div class="news-grid" id="news"></div>
+  </section>
+
+  <div class="foot">
+    <div>
+      <div class="k">Mañana</div>
+      <div id="tomorrow">—</div>
+    </div>
+    <div>
+      <div class="k">Sol</div>
+      <div id="sun">—</div>
+    </div>
+  </div>
+
+  <p class="edition" id="edLabel">Edición del mediodía</p>
+  <p class="note" id="note"></p>
+</main>
+
+<script>
+  // Lee las noticias y el resto del contenido desde news.json, publicado junto a esta página.
+  const $ = id => document.getElementById(id);
+  const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+
+  function fillDate() {
+    const now = new Date();
+    $("date").textContent = now.toLocaleDateString("es-MX", { day: "numeric", month: "short" }).replace(/\.?$/, ".");
+    const wd = now.toLocaleDateString("es-MX", { weekday: "long" });
+    $("weekday").textContent = wd;
+  }
+
+  function render(d) {
+    $("weatherNow").textContent = d.weather?.now ?? "";
+    $("edition").textContent = d.edition ?? "";
+    $("edLabel").textContent = d.edition ?? "";
+    $("tomorrow").textContent = d.weather?.tomorrow ?? "";
+    $("sun").textContent = d.weather?.sun ?? "";
+    $("note").textContent = d.note ?? "";
+    $("newsLabel").textContent = "En las noticias · " + (d.source ?? "");
+
+    $("events").innerHTML = (d.events ?? []).map(e =>
+      `<p class="item-title">${esc(e.title)}</p><p class="item-meta">${esc(e.when)}</p>`).join("");
+
+    $("reminders").innerHTML = (d.reminders ?? []).map(r =>
+      `<p class="item-title" style="font-size:15px">${esc(r.title)}</p><p class="item-meta" style="margin-bottom:10px">${esc(r.due)}</p>`).join("");
+
+    $("news").innerHTML = (d.news ?? []).map(n =>
+      `<article class="news-item"><h3><a href="${esc(n.link || '#')}" target="_blank" rel="noopener">${esc(n.title)}</a></h3><div class="meta">${esc(n.source || '')} · ${esc(n.time)}</div></article>`).join("");
+  }
+
+  fillDate();
+  fetch("news.json", { cache: "no-store" })
+    .then(r => r.ok ? r.json() : Promise.reject(r.status))
+    .then(render)
+    .catch(() => render({ edition: "Sin conexión", news: [], events: [], reminders: [] }));
+</script>

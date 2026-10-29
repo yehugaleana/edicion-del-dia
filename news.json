@@ -1,0 +1,20 @@
+{
+  "edition": "Edición del mediodía",
+  "weather": { "now": "22°, despejado", "tomorrow": "Mañana: máx. 26°, mín. 11°", "sun": "Sale 7:12 · se pone 18:39" },
+  "events": [
+    { "title": "Reunión familiar", "when": "Domingo, todo el día" },
+    { "title": "Clase de natación", "when": "Viernes, 17:00" }
+  ],
+  "reminders": [
+    { "title": "Cita con el barbero", "due": "Vence el martes" },
+    { "title": "Pagar servicios", "due": "Vence el viernes" }
+  ],
+  "source": "Ejemplo",
+  "news": [
+    { "title": "Titular de ejemplo uno, reemplázalo con una noticia de hoy", "time": "hace 14 min" },
+    { "title": "Titular de ejemplo dos sobre economía o tecnología", "time": "hace 28 min" },
+    { "title": "Titular de ejemplo tres sobre política nacional", "time": "hace 1 h" },
+    { "title": "Titular de ejemplo cuatro sobre el mundo", "time": "hace 1 h" }
+  ],
+  "note": "Datos de ejemplo. Pide que actualicemos news.json con las noticias del día."
+}

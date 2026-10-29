@@ -1,0 +1,18 @@
+{
+  "feeds": [
+    { "name": "Ars Technica", "url": "https://feeds.arstechnica.com/arstechnica/index", "group": "Tecnología (app original)" },
+    { "name": "MacRumors", "url": "https://feeds.macrumors.com/MacRumors-All", "group": "Tecnología (app original)" },
+    { "name": "Wired", "url": "https://www.wired.com/feed/rss", "group": "Tecnología (app original)" },
+    { "name": "Hacker News", "url": "https://news.ycombinator.com/rss", "group": "Tecnología (app original)" },
+    { "name": "BBC News", "url": "https://feeds.bbci.co.uk/news/rss.xml", "group": "Internacional (app original)" },
+    { "name": "BBC Tech", "url": "https://feeds.bbci.co.uk/news/technology/rss.xml", "group": "Tecnología (app original)" },
+    { "name": "The Verge", "url": "https://www.theverge.com/rss/index.xml", "group": "Tecnología (app original)" },
+    { "name": "BBC Mundo", "url": "https://feeds.bbci.co.uk/mundo/rss.xml", "group": "Español internacional" },
+    { "name": "DW Español", "url": "https://rss.dw.com/rdf/rss-es-all", "group": "Español internacional" },
+    { "name": "France 24 Español", "url": "https://www.france24.com/es/rss", "group": "Español internacional" },
+    { "name": "El Universal", "url": "https://www.eluniversal.com.mx/rss.xml", "group": "México" },
+    { "name": "ADN40", "url": "https://adn40.mx/rss.xml", "group": "México" }
+  ],
+  "perFeed": 4,
+  "maxItems": 14
+}
