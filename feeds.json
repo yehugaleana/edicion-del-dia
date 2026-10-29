@@ -8,7 +8,7 @@
     { "name": "BBC Tech", "url": "https://feeds.bbci.co.uk/news/technology/rss.xml", "group": "Tecnología (app original)", "lang": "en" },
     { "name": "The Verge", "url": "https://www.theverge.com/rss/index.xml", "group": "Tecnología (app original)", "lang": "en" },
     { "name": "BBC Mundo", "url": "https://feeds.bbci.co.uk/mundo/rss.xml", "group": "Español internacional", "lang": "es" },
-    { "name": "DW Español", "url": "https://rss.dw.com/xml/rss-es-all", "group": "Español internacional", "lang": "es" },
+    { "name": "DW Español", "url": "https://news.google.com/rss/search?q=site:dw.com/es&hl=es-419&gl=MX&ceid=MX:es-419", "group": "Español internacional", "lang": "es", "gnews": true },
     { "name": "France 24 Español", "url": "https://www.france24.com/es/rss", "group": "Español internacional", "lang": "es" },
     { "name": "El Universal", "url": "https://news.google.com/rss/search?q=site:eluniversal.com.mx&hl=es-419&gl=MX&ceid=MX:es-419", "group": "México", "lang": "es", "gnews": true },
     { "name": "ADN40", "url": "https://news.google.com/rss/search?q=site:adn40.mx&hl=es-419&gl=MX&ceid=MX:es-419", "group": "México", "lang": "es", "gnews": true }
