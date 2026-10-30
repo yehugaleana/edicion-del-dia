@@ -3,80 +3,80 @@
   "source": "varias fuentes",
   "news": [
     {
+      "title": "Crypto worth billions frozen after suspected Binance hack",
+      "time": "hace 12 min",
+      "source": "BBC Tech",
+      "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Informe desde Caracas: Delcy Rodríguez anuncia elecciones en Venezuela, pero no confirma fecha",
+      "time": "hace 32 min",
+      "source": "France 24 Español",
+      "link": "https://www.france24.com/es/video/20261030-informe-desde-caracas-delcy-rodr%C3%ADguez-anuncia-elecciones-en-venezuela-pero-no-confirma-fecha"
+    },
+    {
+      "title": "New Apple TV 4K and iPad Mini: RAM Amounts Revealed",
+      "time": "hace 42 min",
+      "source": "MacRumors",
+      "link": "https://www.macrumors.com/2026/10/29/new-apple-tv-4k-ipad-mini-ram-amounts/"
+    },
+    {
+      "title": "The director of Obsession put a new horror short on YouTube",
+      "time": "hace 1 h",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/streaming/1022934/curry-barker-obsession-horror-short-youtube-mama-bear"
+    },
+    {
+      "title": "\"No hay palabras para describir tanto dolor\": Urda, el pueblo que se movilizó para ayudar a las víctimas tras el accidente de trenes en España",
+      "time": "hace 2 h",
+      "source": "BBC Mundo",
+      "link": "https://www.bbc.com/mundo/articles/cwvgr021p725o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Watch: Life and career of iconic actor Sir Patrick Stewart",
+      "time": "hace 3 h",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/videos/c6qxnlxn0n15o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Reddit is moving to “a logged-in-only experience,” CEO says",
+      "time": "hace 3 h",
+      "source": "Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/"
+    },
+    {
+      "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+      "time": "hace 3 h",
+      "source": "Hacker News",
+      "link": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8"
+    },
+    {
       "title": "Apple Executive Comments on New iPad Mini Lacking 120Hz Display",
-      "time": "hace 5 min",
+      "time": "hace 4 h",
       "source": "MacRumors",
       "link": "https://www.macrumors.com/2026/10/29/apple-executive-on-ipad-mini-lacking-120hz/"
     },
     {
       "title": "What to Know About China’s Top-Secret Spaceplane",
-      "time": "hace 7 min",
+      "time": "hace 4 h",
       "source": "Wired",
       "link": "https://www.wired.com/story/what-to-know-about-chinas-top-secret-spaceplane/"
     },
     {
-      "title": "Patrick Stewart has died at age 86",
-      "time": "hace 33 min",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/news/1022626/patrick-stewart-star-trek-death"
-    },
-    {
-      "title": "Windows 11 gets right-click menu improvements as PC revenue slides",
-      "time": "hace 33 min",
+      "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
+      "time": "hace 5 h",
       "source": "Ars Technica",
       "link": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/"
     },
     {
-      "title": "Muere Patrick Stewart, estrella de 'Star Trek' y 'X-Men'",
-      "time": "hace 38 min",
-      "source": "France 24 Español",
-      "link": "https://www.france24.com/es/cultura/20261029-muere-patrick-stewart-estrella-de-star-trek-y-x-men"
-    },
-    {
-      "title": "Pentagon IG refuses to investigate Starlink/Starshield slowdown in Ukraine",
-      "time": "hace 44 min",
-      "source": "Ars Technica",
-      "link": "https://arstechnica.com/tech-policy/2026/10/pentagon-ig-refuses-to-investigate-starlink-starshield-slowdown-in-ukraine/"
-    },
-    {
-      "title": "Here's a Hands-On Look at HomePod Mini 2's New Two-Tone Colors",
-      "time": "hace 47 min",
-      "source": "MacRumors",
-      "link": "https://www.macrumors.com/2026/10/29/homepod-mini-2-two-tone-colors/"
-    },
-    {
-      "title": "Patrick Stewart has died",
-      "time": "hace 1 h",
-      "source": "Hacker News",
-      "link": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html"
-    },
-    {
-      "title": "Guía visual para entender cómo fue el accidente de trenes en España que deja al menos 69 muertos",
-      "time": "hace 2 h",
-      "source": "BBC Mundo",
-      "link": "https://www.bbc.com/mundo/articles/cq98zk00pnn1o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Burnham says he wants to cut welfare bill 'as soon as we possibly can'",
-      "time": "hace 5 h",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2w4zy15nwo?at_medium=RSS&at_campaign=rss"
-    },
-    {
       "title": "Peña Nieto lamenta fallecimiento de Cuauhtémoc Cárdenas",
-      "time": "hace 5 h",
+      "time": "hace 10 h",
       "source": "El Universal",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOQW1iMFc2V0dWUmZkbnY0SXZMZGRic3E0Y2FXSk1kNTMwcWhMNklWRDFrN0lHN1lWREJpSGJjM0IzMFRvRm92MVB6Y2tKM2RpSjdPVFVFZFQ2c1pxb0VmdFRnOFZfMXp3NHpPVnhDc3YtS1lCbmwtT3FCb3dST1lna19RcHFPZ3JweTYwUFJuNXROTU9HcEpxMU9zeEVnLUx2M2lsOElfYUc3Y0ZhR09sYjIxMlFscW9Kb2lGYWdVUDdIOUhOaFZNeC1KRm1fNXpNMXROU0VYYVNNQXk3SUxyVkJteTFLZE5IZjNMMXlwdmZwclXSAYcCQVVfeXFMUDNYb2MycFl3MVNIRjlfZDZhaktmcVdiTUpaNDZ2STlGelEwakV1eTZpaG9yUFVKUGcxaTZhSTZPVk40eWt3TmdZNzE0T05TMEpGU0ZjTGFrM295RjhiVDdUQ1BMM3czdG9fTUJxS3E0TkhleVA0VG1tTWtSV0NGV0lwd2ZfQi1MVUtMcWo3aklBRHRqdVI5TTFqRjNra3Bqd1lha2RibFRNSUlWaUM3Nno1cEdqSWRkOEZqcjZLOTFuTWZnRURWNDU3N1dTUjhYaWZ3WXpJTE43b3hvQ1dGaEszMGJLZUFralNnVUV6WDRFMUZNcmttTHozWWZyR3pRM3BsVndMMHc?oc=5"
     },
     {
-      "title": "Ofcom outlines age check methods ahead of social media ban for under-16s",
-      "time": "hace 11 h",
-      "source": "BBC Tech",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss"
-    },
-    {
       "title": "España, de luto tras grave accidente de trenes: \"Van a ser horas duras y largas\"",
-      "time": "hace 11 h",
+      "time": "hace 15 h",
       "source": "DW Español",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY1Z0YkVsN1Q2Z1g2WTFyMlpZOUIxM1pwUTRQSUliWE13N24tajhNZTJJazNrUTlOeEFHU0psVlFpdEhDQ3RqeWRCNWZWWGYxVGJYb1dtU2piQzkyTTU3ZnlBLUNpNmJqTXFVMkgyQWtYVEIzS2U2YkFRSFVTWHczUi05NFRkejBVcjlqWm5NSDNocExkUkNhUHFJcU9jY2ZXOHVXR3VFTHFaajc1Rjl4R195UWnSAbQBQVVfeXFMTTR6R2ROLU96ZTRUVnNOOG10VTY3SThYbHB2N0g4VkdkNC1rLTNsNV84S2R3cWRzWXVVUV9zN1dxX01heEstak5nLVNDRHhBUkZDWDl3Nzloc3lIWmhqU2I1YUNkLXF2Q0p0aWxsYkloTExwRWN4emFOaFNEUFRBeFBoS19ETjRGbXBCT0pmS0RWVU1ISlJ1dzB2VnhPNUsxWmFTVVdhZjZqMW50cUN4Ny01Z0VP?oc=5"
     },
@@ -87,6 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNnk1eUtkRmxKRktLdW56d1JQVi1faG1ITDJERndCN3ZuX29QUkszWldTYVlZdGdUV3c1dS13azcxVVBEdXl4a1JpbDduUDRFVUxqVEx2NUJlZG5MN3FWTnhiSENEZ1k0SE1mX1NaQjNmMUVfQzE1aWlsa3NKa1p4S25GaUQtWkpWdkpSNFBsZHBxcVBlU3IzRk5xNU0xQ2hiemxKV3kxdkN5bTdJaUZzV1IwNFE2VGw3VHhUcXQ2bzZQRlVlS1JmSzRpOHUxUQ?oc=5"
     }
   ],
-  "updated": "2026-10-29 20:52 UTC",
+  "updated": "2026-10-30 01:33 UTC",
   "failed": []
 }
