@@ -3,90 +3,95 @@
   "source": "varias fuentes",
   "news": [
     {
-      "title": "How video game remakes tap the power of nostalgia",
-      "time": "hace 19 min",
-      "source": "BBC Tech",
-      "link": "https://www.bbc.co.uk/news/articles/cm9qz428nnljo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Sir Ian McKellen leads tributes to 'beloved actor' Sir Patrick Stewart after his death at 86",
-      "time": "hace 24 min",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/cm20v3029p5xo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Directo Midterms y la reñida carrera entre Donalds y Jolly por la gobernación de Florida",
-      "time": "hace 4 h",
-      "source": "France 24 Español",
-      "link": "https://www.france24.com/es/video/20261030-directo-midterms-y-la-re%C3%B1ida-carrera-entre-donalds-y-jolly-por-la-gobernaci%C3%B3n-de-florida"
-    },
-    {
-      "title": "New Apple TV 4K and iPad Mini: RAM Amounts Revealed",
-      "time": "hace 7 h",
-      "source": "MacRumors",
-      "link": "https://www.macrumors.com/2026/10/29/new-apple-tv-4k-ipad-mini-ram-amounts/"
-    },
-    {
-      "title": "The director of Obsession put a new horror short on YouTube",
-      "time": "hace 8 h",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/streaming/1022934/curry-barker-obsession-horror-short-youtube-mama-bear"
-    },
-    {
-      "title": "\"No hay palabras para describir tanto dolor\": Urda, el pueblo que se movilizó para ayudar a las víctimas tras el accidente de trenes en España",
-      "time": "hace 9 h",
-      "source": "BBC Mundo",
-      "link": "https://www.bbc.com/mundo/articles/cwvgr021p725o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Reddit is moving to “a logged-in-only experience,” CEO says",
-      "time": "hace 10 h",
-      "source": "Ars Technica",
-      "link": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/"
-    },
-    {
-      "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
-      "time": "hace 10 h",
-      "source": "Hacker News",
-      "link": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8"
-    },
-    {
-      "title": "Apple Executive Comments on New iPad Mini Lacking 120Hz Display",
-      "time": "hace 10 h",
-      "source": "MacRumors",
-      "link": "https://www.macrumors.com/2026/10/29/apple-executive-on-ipad-mini-lacking-120hz/"
-    },
-    {
-      "title": "What to Know About China’s Top-Secret Spaceplane",
-      "time": "hace 11 h",
+      "title": "People Are Creating ‘Survival Guides’ to Cope With the ‘AO3 Apocalypse’",
+      "time": "hace 34 min",
       "source": "Wired",
-      "link": "https://www.wired.com/story/what-to-know-about-chinas-top-secret-spaceplane/"
+      "link": "https://www.wired.com/story/people-are-creating-survival-guides-to-cope-with-the-ao3-apocalypse/"
     },
     {
-      "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
-      "time": "hace 11 h",
+      "title": "AI Isn't Replacing SREs. It's Deskilling Them",
+      "time": "hace 40 min",
+      "source": "Hacker News",
+      "link": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling"
+    },
+    {
+      "title": "US tech stocks see sharp falls over AI cost fears",
+      "time": "hace 45 min",
+      "source": "BBC Tech",
+      "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Google’s latest Nest Learning Thermostat is $60 off just in time for sweater weather",
+      "time": "hace 1 h",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/gadgets/1022819/google-nest-learning-thermostat-4th-gen-casio-ws-b1000-watch-deal-sale"
+    },
+    {
+      "title": "Halloween Weekend Brings Discounts on Apple Accessories and Pre-Orders",
+      "time": "hace 1 h",
+      "source": "MacRumors",
+      "link": "https://www.macrumors.com/2026/10/30/halloween-weekend-discounts/"
+    },
+    {
+      "title": "Hackeo a la empresa Binance afecta US$6.300 millones en activos digitales, en el mayor robo de criptomonedas conocido (y con impacto en América Latina)",
+      "time": "hace 1 h",
+      "source": "BBC Mundo",
+      "link": "https://www.bbc.com/mundo/articles/cvze42lk562ko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Stearns and Foster Promo Codes: $300 Off in November 2026",
+      "time": "hace 1 h",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/stearns-and-foster-promo-code/"
+    },
+    {
+      "title": "Russia Places Apple on State Surveillance Registry",
+      "time": "hace 1 h",
+      "source": "MacRumors",
+      "link": "https://www.macrumors.com/2026/10/30/apple-russian-state-surveillance-registry/"
+    },
+    {
+      "title": "GM to pay $220 million after selling customer Smart Driver data",
+      "time": "hace 2 h",
       "source": "Ars Technica",
-      "link": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/"
+      "link": "https://arstechnica.com/cars/2026/10/gm-to-pay-220-million-after-selling-customer-smart-driver-data/"
     },
     {
-      "title": "Peña Nieto lamenta fallecimiento de Cuauhtémoc Cárdenas",
-      "time": "hace 17 h",
-      "source": "El Universal",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOQW1iMFc2V0dWUmZkbnY0SXZMZGRic3E0Y2FXSk1kNTMwcWhMNklWRDFrN0lHN1lWREJpSGJjM0IzMFRvRm92MVB6Y2tKM2RpSjdPVFVFZFQ2c1pxb0VmdFRnOFZfMXp3NHpPVnhDc3YtS1lCbmwtT3FCb3dST1lna19RcHFPZ3JweTYwUFJuNXROTU9HcEpxMU9zeEVnLUx2M2lsOElfYUc3Y0ZhR09sYjIxMlFscW9Kb2lGYWdVUDdIOUhOaFZNeC1KRm1fNXpNMXROU0VYYVNNQXk3SUxyVkJteTFLZE5IZjNMMXlwdmZwclXSAYcCQVVfeXFMUDNYb2MycFl3MVNIRjlfZDZhaktmcVdiTUpaNDZ2STlGelEwakV1eTZpaG9yUFVKUGcxaTZhSTZPVk40eWt3TmdZNzE0T05TMEpGU0ZjTGFrM295RjhiVDdUQ1BMM3czdG9fTUJxS3E0TkhleVA0VG1tTWtSV0NGV0lwd2ZfQi1MVUtMcWo3aklBRHRqdVI5TTFqRjNra3Bqd1lha2RibFRNSUlWaUM3Nno1cEdqSWRkOEZqcjZLOTFuTWZnRURWNDU3N1dTUjhYaWZ3WXpJTE43b3hvQ1dGaEszMGJLZUFralNnVUV6WDRFMUZNcmttTHozWWZyR3pRM3BsVndMMHc?oc=5"
+      "title": "Hackers steal $6.3 billion from Binance in record crypto heist",
+      "time": "hace 2 h",
+      "source": "Ars Technica",
+      "link": "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/"
     },
     {
-      "title": "España, de luto tras grave accidente de trenes: \"Van a ser horas duras y largas\"",
-      "time": "hace 18 h",
+      "title": "What we know about Binance's $6.3bn hack",
+      "time": "hace 4 h",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Plataforma de criptomonedas Binance sufre ciberataque millonario y \"complejo\"",
+      "time": "hace 4 h",
       "source": "DW Español",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY1Z0YkVsN1Q2Z1g2WTFyMlpZOUIxM1pwUTRQSUliWE13N24tajhNZTJJazNrUTlOeEFHU0psVlFpdEhDQ3RqeWRCNWZWWGYxVGJYb1dtU2piQzkyTTU3ZnlBLUNpNmJqTXFVMkgyQWtYVEIzS2U2YkFRSFVTWHczUi05NFRkejBVcjlqWm5NSDNocExkUkNhUHFJcU9jY2ZXOHVXR3VFTHFaajc1Rjl4R195UWnSAbQBQVVfeXFMTTR6R2ROLU96ZTRUVnNOOG10VTY3SThYbHB2N0g4VkdkNC1rLTNsNV84S2R3cWRzWXVVUV9zN1dxX01heEstak5nLVNDRHhBUkZDWDl3Nzloc3lIWmhqU2I1YUNkLXF2Q0p0aWxsYkloTExwRWN4emFOaFNEUFRBeFBoS19ETjRGbXBCT0pmS0RWVU1ISlJ1dzB2VnhPNUsxWmFTVVdhZjZqMW50cUN4Ny01Z0VP?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdmtGSGZsdWg1aEpVU0FzRkI4R01qMWVKN256UUFtNjYwRGZqVUlDY0c2cTFQUkhTa1dCZ3JvelJfNm0za0V0WVNsUW1FeU1TdXMzcTl3MnRLaEdIR3JEMXBqUUljMW4tS2Z4Z3ZjeFV3cEJYSktnNEd4OS1UMWs4bFNEWUxCN19qMENIVzA4RzVwazJDTVVfZzJnSTdHTnBCRlBrUC1ucTU0Yzlwelo0S3NR0gGyAUFVX3lxTE14ZmlEcmJlVjE1TlowdTljYXJvZnQydEtWaTgyOWpPd1hPT2hLc3RUbWlkemRLc3BmWnM5Rzg0Vm05dTcybzVwVkJzZ1VOeWJ2NnV1d3I4UE9WUkxueDM5WWFOZ3IzMjJYM2QzWklpa0NOMFZfWGFrZlFNOTdSeWpTa1VmMHVuMUMwenBCS2VUckdIVDlzZWJNWTJvVWJjNjRReS1CUWp5b0xHMngzSUE0a3c?oc=5"
     },
     {
-      "title": "Paro nacional de transportistas EN VIVO: Capufe actualiza lista de carreteras con megabloqueos",
-      "time": "hace 2 d",
+      "title": "Declaró Taddei no poseer ningún bien inmueble ni autos",
+      "time": "hace 8 h",
+      "source": "El Universal",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUGJHc2d5XzhoUUtidmRfMXRkTWNoclVvMVJHUVNJOWNkWlkzRXB5TUY4R0l1cG81WGJ1Rm5vXzRqZ2I0c0MzQURTTmZFQ1pUMjI4clMxY01jOTczQ0V0UXNrck1RdTEyVjFxd21JMm43cGRhTFJTclZ2V19TUWxRMjRZN3dvNEREcWdvNmVvdzMxcjV6a255etIBrAFBVV95cUxOQzFnOS0zY3NnTF9PQkxPRmltaS1jaWVUQkhqTmlxZV83NFFXS2RMQ0FaMWUxbGRad0piclg4TVlxcXAyWHlNQ3RIVXpWYnpaRWRNV19EdEcxWXNoLThsbXJwdjNtd3cxWGJoOWhScHp6X0kyUk1RUmxHSE9tckdOSzhNVW5DUm1zUUEzNm5laE13TjFEM19QdHZWQ01zTnRWd3V3TEdpVUgtUkkw?oc=5"
+    },
+    {
+      "title": "Cuauhtémoc Cárdenas: su trayectoria y legado en la política mexicana",
+      "time": "hace 1 d",
       "source": "ADN40",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNnk1eUtkRmxKRktLdW56d1JQVi1faG1ITDJERndCN3ZuX29QUkszWldTYVlZdGdUV3c1dS13azcxVVBEdXl4a1JpbDduUDRFVUxqVEx2NUJlZG5MN3FWTnhiSENEZ1k0SE1mX1NaQjNmMUVfQzE1aWlsa3NKa1p4S25GaUQtWkpWdkpSNFBsZHBxcVBlU3IzRk5xNU0xQ2hiemxKV3kxdkN5bTdJaUZzV1IwNFE2VGw3VHhUcXQ2bzZQRlVlS1JmSzRpOHUxUQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNnJGek52bEotMG9sM19oNFp6WlREdnhrM2xYNUl5ekdxMWo3M0pSMzlLVXN2Y0lYcThqa3BlbEVrNk51enllcGQ0Yk41YjBDQ0haQi11WkpPalZlTXBtb04ya1JXQ0h1ZlRlZnRSa1o5NTRaOXA2dUhyNTNTWTV1M2gyZElTTHVOeHJXX0ptZkg2WktxY0JLQ3pNbFNGT0pJdHdEalVqVy1GQ28xenZtQ2UzbDhhXzlOaTN2N1E2a0xMT2x1RkE?oc=5"
     }
   ],
-  "updated": "2026-10-30 08:04 UTC",
-  "failed": []
+  "updated": "2026-10-30 16:32 UTC",
+  "failed": [
+    {
+      "source": "France 24 Español",
+      "error": "HTTP Error 403: Forbidden"
+    }
+  ]
 }
