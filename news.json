@@ -3,82 +3,82 @@
   "source": "varias fuentes",
   "news": [
     {
-      "title": "People Are Creating ‘Survival Guides’ to Cope With the ‘AO3 Apocalypse’",
-      "time": "hace 34 min",
+      "title": "Apple Says iOS 27.3 Beta Coming Next Week With Apple Intelligence on iPhone in China",
+      "time": "hace 11 min",
+      "source": "MacRumors",
+      "link": "https://www.macrumors.com/2026/10/30/apple-says-ios-27-3-beta-coming-next-week/"
+    },
+    {
+      "title": "Incertidumbre sobre el Sahara: EE. UU. y Rusia cruzan vetos en la ONU sobre la misión de la ONU",
+      "time": "hace 16 min",
+      "source": "France 24 Español",
+      "link": "https://www.france24.com/es/%C3%A1frica/20261030-incertidumbre-sobre-el-sahara-ee-uu-y-rusia-cruzan-vetos-en-la-onu-sobre-la-misi%C3%B3n-de-la-onu"
+    },
+    {
+      "title": "Exclusive details about Akai’s MPC Sample Key",
+      "time": "hace 29 min",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive"
+    },
+    {
+      "title": "How a Contractor’s Claude Agent Got Into the Pentagon",
+      "time": "hace 37 min",
       "source": "Wired",
-      "link": "https://www.wired.com/story/people-are-creating-survival-guides-to-cope-with-the-ao3-apocalypse/"
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/"
     },
     {
-      "title": "AI Isn't Replacing SREs. It's Deskilling Them",
-      "time": "hace 40 min",
-      "source": "Hacker News",
-      "link": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling"
+      "title": "Apple's Flash Storage Suppliers Are Finally 'Getting Their Revenge'",
+      "time": "hace 38 min",
+      "source": "MacRumors",
+      "link": "https://www.macrumors.com/2026/10/30/apple-flash-storage-suppliers-revenge-report/"
     },
     {
-      "title": "US tech stocks see sharp falls over AI cost fears",
-      "time": "hace 45 min",
+      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "time": "hace 43 min",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
+      "time": "hace 1 h",
+      "source": "Ars Technica",
+      "link": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/"
+    },
+    {
+      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+      "time": "hace 1 h",
       "source": "BBC Tech",
       "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Google’s latest Nest Learning Thermostat is $60 off just in time for sweater weather",
+      "title": "Over 25% of people lie to get antibiotics—and their lies aren't even good",
       "time": "hace 1 h",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/gadgets/1022819/google-nest-learning-thermostat-4th-gen-casio-ws-b1000-watch-deal-sale"
+      "source": "Ars Technica",
+      "link": "https://arstechnica.com/health/2026/10/over-25-of-people-lie-to-get-antibiotics-and-their-lies-arent-even-good/"
     },
     {
-      "title": "Halloween Weekend Brings Discounts on Apple Accessories and Pre-Orders",
-      "time": "hace 1 h",
-      "source": "MacRumors",
-      "link": "https://www.macrumors.com/2026/10/30/halloween-weekend-discounts/"
-    },
-    {
-      "title": "Hackeo a la empresa Binance afecta US$6.300 millones en activos digitales, en el mayor robo de criptomonedas conocido (y con impacto en América Latina)",
-      "time": "hace 1 h",
+      "title": "Las claves del ultimátum de Bukele a las poderosas bandas de Haití tras el secuestro de 4 militares salvadoreños",
+      "time": "hace 3 h",
       "source": "BBC Mundo",
-      "link": "https://www.bbc.com/mundo/articles/cvze42lk562ko?at_medium=RSS&at_campaign=rss"
+      "link": "https://www.bbc.com/mundo/watch/cq9vz31j8xpko?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Stearns and Foster Promo Codes: $300 Off in November 2026",
-      "time": "hace 1 h",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/stearns-and-foster-promo-code/"
-    },
-    {
-      "title": "Russia Places Apple on State Surveillance Registry",
-      "time": "hace 1 h",
-      "source": "MacRumors",
-      "link": "https://www.macrumors.com/2026/10/30/apple-russian-state-surveillance-registry/"
-    },
-    {
-      "title": "GM to pay $220 million after selling customer Smart Driver data",
-      "time": "hace 2 h",
-      "source": "Ars Technica",
-      "link": "https://arstechnica.com/cars/2026/10/gm-to-pay-220-million-after-selling-customer-smart-driver-data/"
-    },
-    {
-      "title": "Hackers steal $6.3 billion from Binance in record crypto heist",
-      "time": "hace 2 h",
-      "source": "Ars Technica",
-      "link": "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/"
-    },
-    {
-      "title": "What we know about Binance's $6.3bn hack",
+      "title": "My favourite PowerMac is a Nintendo Wii",
       "time": "hace 4 h",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss"
+      "source": "Hacker News",
+      "link": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/"
+    },
+    {
+      "title": "Sheinbaum reconoce diferencias entre AMLO y Cárdenas; limaron asperezas en 2018 tras incorporarlo a su Gabinete, cuenta",
+      "time": "hace 5 h",
+      "source": "El Universal",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZmRtQWRrZmxVZ1drOWlSdU5GZHRia1RyODNYeFlwaDVZUXhZVnNTQjZyWkktQ3ZkNFJLOHdUZFVDMUxZbEZYQ2Z3anU2OVk4M3pPUHE5X0JuQ0hoRDZrZmVTX3JmbXByMThWelAyZnhYUTN1Z05iRGdJOEZSaEpBT2Y4b3hRUWZEcjdXZkZXektiUDdHbDVJZXlWQlM4QmF0aW9xUjFITGlJZERHXzNRaUt4WjBvM2ltUTJ2NFpGMmFySVd5SllVV09GN09aT3E0dm1YSlAycHNEUVViY211RkVJY0MtNWJUWnlwTdIBgAJBVV95cUxPbkd4TUhlekMzd0FWNmNBWXNDV1pJNmNOU0VKRFVxbTA3MERZUjl6UF9WX0ZIaGdPQmd5Uk5NZTltdjJrdFEzUkJDVzVDeGtXeWVzU3ZHMkxmdU8tU19xWW9IOVAyZEVjaHpPVTNlNXREaHplMHRnTnFlWXBKbDVNMENSV3Zya21SZzZoQVZOcXk5Vmt4aEJYN0ZxeW9oMG1QV1diUjdMRWMtTzgxR2w5eVgydEV1bG9MeXFmZm1SNF9hVnhSZ0FWREpvZXBMRGs5N2N6OHdGN2NWaFdtendaclVjbGp2VEFtbGFaZ21GWjFweWVMR1R2SUIzZUZOVjV2?oc=5"
     },
     {
       "title": "Plataforma de criptomonedas Binance sufre ciberataque millonario y \"complejo\"",
-      "time": "hace 4 h",
+      "time": "hace 10 h",
       "source": "DW Español",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdmtGSGZsdWg1aEpVU0FzRkI4R01qMWVKN256UUFtNjYwRGZqVUlDY0c2cTFQUkhTa1dCZ3JvelJfNm0za0V0WVNsUW1FeU1TdXMzcTl3MnRLaEdIR3JEMXBqUUljMW4tS2Z4Z3ZjeFV3cEJYSktnNEd4OS1UMWs4bFNEWUxCN19qMENIVzA4RzVwazJDTVVfZzJnSTdHTnBCRlBrUC1ucTU0Yzlwelo0S3NR0gGyAUFVX3lxTE14ZmlEcmJlVjE1TlowdTljYXJvZnQydEtWaTgyOWpPd1hPT2hLc3RUbWlkemRLc3BmWnM5Rzg0Vm05dTcybzVwVkJzZ1VOeWJ2NnV1d3I4UE9WUkxueDM5WWFOZ3IzMjJYM2QzWklpa0NOMFZfWGFrZlFNOTdSeWpTa1VmMHVuMUMwenBCS2VUckdIVDlzZWJNWTJvVWJjNjRReS1CUWp5b0xHMngzSUE0a3c?oc=5"
-    },
-    {
-      "title": "Declaró Taddei no poseer ningún bien inmueble ni autos",
-      "time": "hace 8 h",
-      "source": "El Universal",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUGJHc2d5XzhoUUtidmRfMXRkTWNoclVvMVJHUVNJOWNkWlkzRXB5TUY4R0l1cG81WGJ1Rm5vXzRqZ2I0c0MzQURTTmZFQ1pUMjI4clMxY01jOTczQ0V0UXNrck1RdTEyVjFxd21JMm43cGRhTFJTclZ2V19TUWxRMjRZN3dvNEREcWdvNmVvdzMxcjV6a255etIBrAFBVV95cUxOQzFnOS0zY3NnTF9PQkxPRmltaS1jaWVUQkhqTmlxZV83NFFXS2RMQ0FaMWUxbGRad0piclg4TVlxcXAyWHlNQ3RIVXpWYnpaRWRNV19EdEcxWXNoLThsbXJwdjNtd3cxWGJoOWhScHp6X0kyUk1RUmxHSE9tckdOSzhNVW5DUm1zUUEzNm5laE13TjFEM19QdHZWQ01zTnRWd3V3TEdpVUgtUkkw?oc=5"
     },
     {
       "title": "Cuauhtémoc Cárdenas: su trayectoria y legado en la política mexicana",
@@ -87,11 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNnJGek52bEotMG9sM19oNFp6WlREdnhrM2xYNUl5ekdxMWo3M0pSMzlLVXN2Y0lYcThqa3BlbEVrNk51enllcGQ0Yk41YjBDQ0haQi11WkpPalZlTXBtb04ya1JXQ0h1ZlRlZnRSa1o5NTRaOXA2dUhyNTNTWTV1M2gyZElTTHVOeHJXX0ptZkg2WktxY0JLQ3pNbFNGT0pJdHdEalVqVy1GQ28xenZtQ2UzbDhhXzlOaTN2N1E2a0xMT2x1RkE?oc=5"
     }
   ],
-  "updated": "2026-10-30 16:32 UTC",
-  "failed": [
-    {
-      "source": "France 24 Español",
-      "error": "HTTP Error 403: Forbidden"
-    }
-  ]
+  "updated": "2026-10-30 21:56 UTC",
+  "failed": []
 }
