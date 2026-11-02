@@ -3,90 +3,90 @@
   "source": "varias fuentes",
   "news": [
     {
-      "title": "The 16GB Raspberry Pi 5 got another ‘unavoidable’ RAM price hike",
-      "time": "hace 6 min",
+      "title": "Midterms 2026: Trump se aleja del foco electoral a horas de unos decisivos comicios",
+      "time": "hace 5 min",
+      "source": "France 24 Español",
+      "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261102-midterms-2026-trump-se-aleja-del-foco-electoral-a-horas-de-unos-decisivos-comicios"
+    },
+    {
+      "title": "Apple is ‘not able to predict’ when it&#8217;ll have enough iPhone Duos to go around",
+      "time": "hace 21 min",
       "source": "The Verge",
-      "link": "https://www.theverge.com/tech/1024342/raspberry-pi-5-16gb-price-hike-ram"
+      "link": "https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints"
     },
     {
-      "title": "Apple TV 4K Pre-Order Discount Returns at Amazon",
-      "time": "hace 13 min",
-      "source": "MacRumors",
-      "link": "https://www.macrumors.com/2026/11/02/apple-tv-4k-pre-order/"
-    },
-    {
-      "title": "Get 25 Percent Off My Favorite Renter-Friendly Storage Lockers",
-      "time": "hace 33 min",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/mustard-made-sale-october-2026/"
-    },
-    {
-      "title": "Zoom and These Microsoft Apps Now Optimized for iPhone Duo",
-      "time": "hace 34 min",
-      "source": "MacRumors",
-      "link": "https://www.macrumors.com/2026/11/02/zoom-microsoft-apps-iphone-duo-optimized/"
-    },
-    {
-      "title": "Shop freezers in seven European countries hit by suspected cyber-attack",
-      "time": "hace 37 min",
+      "title": "Mahmood scraps settlement plans for migrant care workers",
+      "time": "hace 46 min",
       "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss"
+      "link": "https://www.bbc.co.uk/news/articles/c6lye8g4w7g1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Apple CEO Ternus Says iPhone Duo Shortages Have No End Date in Sight",
+      "time": "hace 1 h",
+      "source": "MacRumors",
+      "link": "https://www.macrumors.com/2026/11/02/iphone-duo-shortages-no-end/"
+    },
+    {
+      "title": "Apple Reports 4Q 2026 Results: $30.7B Profit on $114.5B Revenue",
+      "time": "hace 1 h",
+      "source": "MacRumors",
+      "link": "https://www.macrumors.com/2026/11/02/apple-4q-2026-earnings/"
+    },
+    {
+      "title": "How to Save $25 on Burga’s Phone Accessories With This Sale",
+      "time": "hace 1 h",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/burga-sale-november-2026/"
+    },
+    {
+      "title": "Third person dies of bird flu since virus started jumping to livestock",
+      "time": "hace 1 h",
+      "source": "Ars Technica",
+      "link": "https://arstechnica.com/health/2026/11/third-person-dies-of-bird-flu-since-virus-started-jumping-to-livestock/"
+    },
+    {
+      "title": "Googling \"Zelda\" today offers a glimpse of how search worked in 1998",
+      "time": "hace 3 h",
+      "source": "Ars Technica",
+      "link": "https://arstechnica.com/gaming/2026/11/googles-legend-of-zelda-easter-egg-transports-you-back-to-1998/"
+    },
+    {
+      "title": "Se desploma e incendia avioneta en Pachuca",
+      "time": "hace 4 h",
+      "source": "El Universal",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUlpteGdPS1BNaGhROXdEd3hMdnpncXFtQzFObUVfTWdyLXlrVXRFdHRzc1NuTWNTWDQ5QXFvRkQxLTZRNS0zM0NQclk4X2FwNlk1Q3pRbUNkMzFQOUtPSnZRN1dGNUhrcXhJU1ZteDJ0VlBoU0JCaFJIWjFxbEpLNFVLN0I1bVlUM19NcEkxOWZvSU5OU1lrWkpmdXRwRnVLQzBZUGN0SkRwWVNEZDhkMmNn0gHGAUFVX3lxTFBxREg3NmJSZjZ3UGNUTU1tU0paN2docS1YSk4zd2RrWjF4SmZqVXl1VGs4SmJMTGxRLVBTTzZzUTJyVVNSNUpkbTZyMUtPUE9nMWNXTjZEQktOWjMwR01ENGJWQnNHZTVTZHpiVmJ3UDZ6MmlnVVFxRWEzOGxyNjhhN3VpOEFWSFBtR2JuaXVubmhmVGxJaXRHb3ZlNFoySHp4UlJUNmVIQUFxYlhwQ3lnNklEUTVGVFpxRTZodXFUWlJqNVQ0UQ?oc=5"
+    },
+    {
+      "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
+      "time": "hace 4 h",
+      "source": "BBC Tech",
+      "link": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Astra can read and write weights to improve Qwen",
+      "time": "hace 4 h",
+      "source": "Hacker News",
+      "link": "https://rikiyat.github.io/blog/weight-space-programming/"
     },
     {
       "title": "\"Cerró la frontera, pero vivimos peor\": el descontento de los votantes latinos que le dieron a Trump un histórico apoyo en el sur de Texas",
-      "time": "hace 38 min",
+      "time": "hace 9 h",
       "source": "BBC Mundo",
       "link": "https://www.bbc.com/mundo/articles/c6y9315lrelzo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Emiratos Árabes Unidos apuesta por la IA de OpenAI para transformar su industria petrolera",
-      "time": "hace 39 min",
-      "source": "France 24 Español",
-      "link": "https://www.france24.com/es/programas/econom%C3%ADa/20261102-emiratos-%C3%A1rabes-unidos-apuesta-por-la-ia-de-openai-para-transformar-su-industria-petrolera"
-    },
-    {
-      "title": "This $48 e-paper display can be whatever you want it to be",
-      "time": "hace 2 h",
-      "source": "Ars Technica",
-      "link": "https://arstechnica.com/gadgets/2026/11/this-48-e-paper-display-can-be-whatever-you-want-it-to-be/"
-    },
-    {
-      "title": "Clan Taddei también se despachó con 123 mdp en la elección judicial",
-      "time": "hace 6 h",
-      "source": "El Universal",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbmFYcGxGQzgtNlNvclFIOV9feWZIeVFhb29fVTBMVlZHODFVVVIyajdMVGZYd0J1YkFtMU9NT20xeWZGMEFndFkxMEZmNlliX1JibkdwMEVaVDBQR18xUGZoNUs4MjVRVkd0RlpYVHJvd0ZtaDE2NlJGejJ4c1BIckJ4WmNmNUl4M2paWjQwOW41WTNkQ0VlZ1BXQU5UOTVJRTMtQjZoOXFMbEVnRGpTVkZrUWRCYm9IeHNUbjZLbEMyV1JKSGRxcE9nVjFKbkU1SlpqVFc0ZkRoSUs2Um1LejF4ajVySUhtZEJmRlMwQWLSAYQCQVVfeXFMTVZmOEtNWlBoUHo5NUZrMGZnTDA3ZjZGdl9LRHhnRVpYTjFIUFZJcG5iZ1BBUkJsMDFGNjF1VUJZTkplVkI3eERWWFBpNkI2T1d5dlRQaUZKRzJIeFdscDU3eE1PYVpWOGc5WWN2VF9DVnJUaXJOUmF2ZDB0V1VtX1BlZ2Q1Z2lWckhDYWNxVzUtTkVzaU4tbjVVcFVaUWdtN0lRd0ZLbHkzbVZ3QnBCUl9KVW1LNUNKVGpZdkRxNzJGMHl1UVdncEs3dlg2MWxxOXBPUWVVUGZVd1RQQkJJa3ZXMkk2OUk4eEgycHpCc1NQcFRmNGVheWxoQXJ3UEs5S2NjdEw?oc=5"
-    },
-    {
-      "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
-      "time": "hace 7 h",
-      "source": "BBC Tech",
-      "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss"
+      "title": "Irán propone reabrir el estrecho de Ormuz en dos días si EE. UU. acepta sus condiciones",
+      "time": "hace 11 h",
+      "source": "DW Español",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUUxncWNYNmM1bWhZSGVxRDRzZW5uRXpUYTF0NkJZenlrYmFETXdaU21EUngxd2tUM2JTOFZWWVNKM0lYeFBxV21XYUtDQ1ZMQ0s2NXBXM0U5cmVxc3FEN2dtTG8yY3Bfbi0zeW1Nd21kZlZCTHBZX3FseUM2Q21ubVl1dXhNbk05NGdEdUxyam9vSUdwQ1diMHQ3TXJiY1AtMkRfUXE4TFhVbzRoaFlEOTFkY0ZlaVJRT1BpZGRickdScmpWZFJJ0gHHAUFVX3lxTE9CQnpGZHhrbW02YUZKbWtRM2Q4N2RLNi1VWEJKczhQdC0tV0hIaDlCMXdVNTRKbG85aXFMTFVaTzhLeUlPVE8xQmN0QkYwN05TMDd4V1lYV053TVFxVGUwNGVadVhkSzdudlBpWGFub2FEOGlhaVdHUXUxVU1XSTEySW82eldRRzdva1hHYXZyRUxScllObHJLTlVDMzRRRFlWZFlaQUc3RFNXWE1wY1BMb29rOTcxM2NfU2JoWXJGNTBsTExicVE?oc=5"
     },
     {
       "title": "La Granja VIP: NOMBRE del granjero eliminado hoy 1 de noviembre de 2026",
-      "time": "hace 12 h",
+      "time": "hace 20 h",
       "source": "ADN40",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcTJWYkEwNTJ0VHpmd1VUM0hjZ3gyUWlBYWFBQVZaSm45RjFFbzlmLXJXajRNTGVrcllySG96MWdZSGYzVDM4Z1VBZ3lDS3h3c2xwTk5DY0VqNjdfLTNSUFJraVY1N0xKbWR1bVpIelJMb1RETHFPWktHRkRDYmE0Uloxb25TMUZSS2RlRWliUEl3Smp2Y0ZfODVseWUwaGZJRy1VNW5MVEFjU2JRazNLRUo0OEpGcnJnQnhz?oc=5"
-    },
-    {
-      "title": "España identifica a 12 extranjeros muertos en accidente ferroviario en Urda",
-      "time": "hace 12 h",
-      "source": "DW Español",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORW5xdzJTbndrRkZJbmM0TGRNVXJmb3Vab3pVc0M5bklkT0pKcUQyQy1FcWZDLWlEVDhKbkt2c0s1MGQzTVU2SGJVX3BaWE9wM1JjaldTTHY5eWFpdDhfeGtqdUh6ZC1BU0Z2ZmJGMklFMDBjOXgyZzNYU3N6MDM2cVZ6bFVONDdWLVNUcGFaQUhHU0pCQ1dJV2JoMUpqYTFIbndqNEFMMHZ4ZFRadURWdFJkTdIBswFBVV95cUxPNGw5dUFQOENNc2dHNW5PaklIMkhDRXpSSmJzYlNnRWl4VHpzc0pjTmFLdUxPYm1qQ3kxUGxGYThaalNSUkZuMXh2TUF1ZWNwUHZUSkx0N0xkZ0tmODBHT0dtcFB2b0dYRjRVUTlYS29jS0s3MHlzdXhyNXR0YW5vTWd3bVRpaFhoN2pRelVyLTBXZFprakotR2t2VGFrOHFnaVFQeFdJZXFkYjQ3QlZDZXJ5MA?oc=5"
-    },
-    {
-      "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
-      "time": "hace 22 h",
-      "source": "Hacker News",
-      "link": "https://hackerbooks.org"
-    },
-    {
-      "title": "Seabirds racing home over the ocean can get jet-lagged",
-      "time": "hace 2 d",
-      "source": "Ars Technica",
-      "link": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/"
     }
   ],
-  "updated": "2026-11-02 14:48 UTC",
+  "updated": "2026-11-02 23:18 UTC",
   "failed": []
 }
