@@ -3,76 +3,76 @@
   "source": "varias fuentes",
   "news": [
     {
-      "title": "Veterans Day Apple Watch Activity Challenge Launches November 11",
-      "time": "hace 6 min",
-      "source": "MacRumors",
-      "link": "https://www.macrumors.com/2026/11/03/apple-watch-veterans-day-challenge-2026/"
-    },
-    {
-      "title": "iPhone 18 rumors suggest a bigger battery, higher price next year",
-      "time": "hace 7 min",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/tech/1025748/apple-iphone-18-rumors-price-hike-battery"
-    },
-    {
-      "title": "Siete aviones y un crucero afectados por amenazas falsas de bomba en Europa",
-      "time": "hace 15 min",
-      "source": "France 24 Español",
-      "link": "https://www.france24.com/es/europa/20261103-siete-aviones-y-un-crucero-afectados-por-amenazas-falsas-de-bomba-en-europa"
-    },
-    {
-      "title": "iOS 27.3 Adds Vertical Tabs and Adaptive Dark Mode to Safari",
+      "title": "AMD rides data center riches to &#8216;largest and most profitable&#8217; quarter in history",
       "time": "hace 36 min",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc"
+    },
+    {
+      "title": "When will we know the results?",
+      "time": "hace 57 min",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/cq20321y2nlyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Everything New in the iOS 27.3 Beta",
+      "time": "hace 1 h",
       "source": "MacRumors",
-      "link": "https://www.macrumors.com/2026/11/03/ios-27-3-safari/"
+      "link": "https://www.macrumors.com/guide/ios-27-3-beta-features/"
     },
     {
-      "title": "Preparing for the Flipper One Kickstarter and opening pre-orders",
-      "time": "hace 52 min",
-      "source": "Hacker News",
-      "link": "https://flipper.net/pages/flipper-one"
-    },
-    {
-      "title": "Binance Says Hackers Used Well-Known Tricks to Carry Out a $6.34 Billion Heist",
+      "title": "Apple Music's New Selfie Sing Feature Lets You Record Karaoke Videos",
       "time": "hace 1 h",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/binance-says-hackers-used-well-known-tricks-to-carry-out-a-dollar634-billion-heist/"
+      "source": "MacRumors",
+      "link": "https://www.macrumors.com/2026/11/03/apple-music-selfie-sing/"
     },
     {
-      "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
+      "title": "Graduates are managing AI - but are they learning much else?",
       "time": "hace 1 h",
-      "source": "Ars Technica",
-      "link": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/"
-    },
-    {
-      "title": "Buttons are back and storage is king when it comes to car interiors",
-      "time": "hace 2 h",
-      "source": "Ars Technica",
-      "link": "https://arstechnica.com/cars/2026/11/yes-to-storage-no-to-piano-black-how-car-interior-design-is-changing/"
-    },
-    {
-      "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-      "time": "hace 4 h",
       "source": "BBC Tech",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss"
+      "link": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "The Lenovo IdeaPad Slim 5x Is Only $900 Right Now",
+      "time": "hace 3 h",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/lenovo-ideapad-slim-5x-deal-11-26/"
+    },
+    {
+      "title": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
+      "time": "hace 3 h",
+      "source": "Ars Technica",
+      "link": "https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/"
+    },
+    {
+      "title": "The Internals of PostgreSQL",
+      "time": "hace 4 h",
+      "source": "Hacker News",
+      "link": "https://www.interdb.jp/pg/index.html"
+    },
+    {
+      "title": "$1,200 Off the iPhone Duo? Here’s How Carrier Deals Actually Work",
+      "time": "hace 4 h",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/iphone-duo-carrier-deal-november-2026/"
+    },
+    {
+      "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
+      "time": "hace 5 h",
+      "source": "Ars Technica",
+      "link": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/"
     },
     {
       "title": "Diputados de Morena replican el plan Monex",
-      "time": "hace 6 h",
+      "time": "hace 11 h",
       "source": "El Universal",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVkJ1cl8zbUtfbkxyLUUyT0NvN0hjVmhCYWoyaE1XN3RWSjl5WWg0T2ttRUFzS2dLRDFEc0RTT1pLRzMxUXdlRjlPcHJoUjF4VHRCTW9rLVZ2cXZsMVRTWGVUYzNnalBaTmdpM3I2MTJUdTNFNEt1aW5mdEpsTUNDR0x2NTY4Uy1q0gGcAUFVX3lxTE9pYnFudlE1U0FMWTJiNWtJUmEtdzRzTGZkWlJXUGowZUZHZGszSXJ6MEp1ajdxVHoxNTA3ZGhCdzZsbWFhZFVlYVhPLWlnQ1VsRTRrN1dpT25ESEQtaFlhZGh2NzZWbEpqSnR0NlpsMlVDQTk2RXgyZFhvblU2bjZJQjRiM3VRNU84RGcwbC1ielAxWmZiMlBHUzZYbw?oc=5"
     },
     {
       "title": "Lula, Sheinbaum y Delcy Rodríguez no participarán en la XXX Cumbre Iberoamericana en Madrid",
-      "time": "hace 9 h",
+      "time": "hace 14 h",
       "source": "DW Español",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWFFtMmZlYnY1QUQyRENrbFJfaFAzdEEya0pkd0VQcGxqdm5XeWJXSjJqN0JGbTNBbzRHRXNOem1XMFZYLS1BY0RJb0twWE8wUk5Yc3NxakhhR3l2eDk3NWdCOXBYSHdIX1d5Q1VvUk81Z1BKMWxFb216dF9rcEFITjA1Vmw1cVRPNktQdW1ndTFZNkM2RTlyaTFwcG13ZHlUMEt6cTBTbDZqYzBObklqak5lWnlJd3QwajZLczczVUZJMDN3U0ZXeUpCeURPQdIBzgFBVV95cUxPQkFYSFNXNlNPUUZYNWhhWHlIcjI2SnhXYnFkVDVUMTZ2M0ZHYkFmYjY3b0FfRmpncndDeGV6MUc1YnlVbDdBcWdLNDdGcEw3bl9ZUGhpNDVNY1NsOG1MM2kwSHVNNzl3UjJoM2s4QV9IZEVaMDc2T0xuYVd3TXRwanpSNHRXalRueWliQ0F2R29rSEZUQ3RBSUJhQUhoRHVFSzg4UG83aXgzREg0bWk2M3lTMHlvS1FyR25kdnJRdVMzLWxhMXlfM09kN0VWQQ?oc=5"
-    },
-    {
-      "title": "How the US midterm results could unfold - as millions of Americans head to the polls",
-      "time": "hace 9 h",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Bloqueos, cierres por Día de Muertos y plantones paralizan CDMX hoy",
@@ -81,12 +81,17 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYWQ4R3VMMjBiQ3k4T2dLRVhLXzhzZ0tuVnVNU1BpdjljRTY2eUFjNF8xcDc0QjZkNVJEV0tXdFRpZzkySzlYR1l4TlEzMlg3MVdCRFhYa001MWVDVm9kWm9EQUhHRDE0T2VfcS1oNVlHbnVoOWN6YTN5MlVraU95bnFIRnpDNDFTVDRZa3Bucng4SF9CdnVzS1JPZ0FyQVM5SHpEVU5fQVFwQQ?oc=5"
     },
     {
-      "title": "EE.UU. acude a las urnas en unas elecciones de medio mandato cruciales para el futuro del gobierno de Trump",
+      "title": "Los demócratas se quedan con las primeras grandes victorias de las elecciones de medio mandato en EE.UU., cruciales para el futuro del gobierno de Trump",
       "time": "",
       "source": "BBC Mundo",
       "link": "https://www.bbc.co.uk/mundo/live/cq9vz4g97xy2t?at_medium=RSS&at_campaign=rss"
     }
   ],
-  "updated": "2026-11-03 20:24 UTC",
-  "failed": []
+  "updated": "2026-11-04 01:53 UTC",
+  "failed": [
+    {
+      "source": "France 24 Español",
+      "error": "HTTP Error 403: Forbidden"
+    }
+  ]
 }
