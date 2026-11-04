@@ -3,76 +3,70 @@
   "source": "varias fuentes",
   "news": [
     {
-      "title": "God of War Laufey delayed until May",
-      "time": "hace 1 min",
+      "title": "Qualcomm is betting big on data centers as smartphone sales sink",
+      "time": "hace 31 min",
       "source": "The Verge",
-      "link": "https://www.theverge.com/games/1026448/sony-playstation-god-of-war-laufey-delay"
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers"
     },
     {
-      "title": "macOS 27.3 Includes an Important Security Fix",
-      "time": "hace 4 min",
-      "source": "MacRumors",
-      "link": "https://www.macrumors.com/2026/11/04/macos-27-3-important-security-fix/"
-    },
-    {
-      "title": "macOS 27.3 Brings Live Activities to Macs Without Dynamic Island",
-      "time": "hace 5 min",
-      "source": "MacRumors",
-      "link": "https://www.macrumors.com/2026/11/04/macos-27-3-live-activities-in-menu-bar/"
-    },
-    {
-      "title": "Vance atribuye la derrota republicana en las elecciones de medio mandato a la guerra en Irán",
-      "time": "hace 41 min",
-      "source": "France 24 Español",
-      "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261103-en-directo-estados-unidos-midterms-elecciones-medio-mandato-congreso-gobernaciones-trump-democratas-republicanos"
-    },
-    {
-      "title": "The Results Are In: Voters Hate Data Centers",
-      "time": "hace 49 min",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/the-results-are-in-voters-hate-data-centers/"
-    },
-    {
-      "title": "\"Esto es un desastre\": republicanos indignados culpan a Trump de la estrepitosa derrota en las elecciones de mitad de mandato",
+      "title": "How 'Resident Evil' Director Zach Cregger Uses His iPhone to Make Movies",
       "time": "hace 1 h",
-      "source": "BBC Mundo",
-      "link": "https://www.bbc.com/mundo/articles/c3dxw0kxkgd2o?at_medium=RSS&at_campaign=rss"
+      "source": "MacRumors",
+      "link": "https://www.macrumors.com/2026/11/04/zach-cregger-iphone-resident-evil/"
     },
     {
-      "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
+      "title": "Irán se burla del varapalo electoral de Trump: \"Hablaron de un cambio de régimen, lo hicimos realidad\"",
+      "time": "hace 1 h",
+      "source": "France 24 Español",
+      "link": "https://www.france24.com/es/medio-oriente/20261104-ir%C3%A1n-se-burla-del-varapalo-electoral-de-trump-hablaron-de-un-cambio-de-r%C3%A9gimen-lo-hicimos-realidad"
+    },
+    {
+      "title": "HomePod Mini 2's Amount of RAM Confirmed",
+      "time": "hace 1 h",
+      "source": "MacRumors",
+      "link": "https://www.macrumors.com/2026/11/04/homepod-mini-2-ram/"
+    },
+    {
+      "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
       "time": "hace 1 h",
       "source": "BBC Tech",
-      "link": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss"
+      "link": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Binance says hackers who stole billions in crypto spent months planning heist",
+      "title": "VMware releases vSphere Express for virtualization on up to 128 cores",
       "time": "hace 1 h",
       "source": "Ars Technica",
-      "link": "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/"
+      "link": "https://arstechnica.com/information-technology/2026/11/vmware-releases-vsphere-express-for-virtualization-on-up-to-128-cores/"
     },
     {
-      "title": "What I learned driving the Slate electric truck prototype",
-      "time": "hace 2 h",
+      "title": "AMD's record quarter: Data center business doubles, while gaming craters",
+      "time": "hace 1 h",
       "source": "Ars Technica",
-      "link": "https://arstechnica.com/cars/2026/11/what-i-learned-driving-the-slate-electric-truck-prototype/"
+      "link": "https://arstechnica.com/gadgets/2026/11/amds-record-quarter-data-center-business-doubles-while-gaming-craters/"
     },
     {
-      "title": "ASF amplía investigación por corrupción en el INE con contrataciones del IFE y adquisiciones desde el 2000",
-      "time": "hace 3 h",
-      "source": "El Universal",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWEVPaFVBNjkzQnF0ZDRBV3VzclJ4WDVQSlItazBuMHFkaUhFVm1leWpfd3IzZ0QzS0EzdlRqV3VlNjI0UWRXVkFDd0VpSGFkWnpDTW5FM2hlemlndndGWHB4eTVSQVc3NmJPeU54TlJVNmZJb0UyRngxRUtzdUpZWVpKZFdUSW5BS09pVVJYTUg2bjFBc2dtT1pZaktZNnNtYjFVQlFNbW5iTnBoZXkzY01FYmZsQ05aRGc1VGd4OU93MVVQV2gzenpOMGw4cEY3RVFmcm9yLUgwdWc4RHB3dHU1UExUTm92UjNJczJ3dnVvS1J3TnljZGRWRdIBjwJBVV95cUxOcHBTQ2RBVXdvd19VRUlDdnF2bVdCdUU2WU1tWnk2X1hsTmFYZnJyc0dWcGVTWEFzZWFqUW0yZTF2RG1tN1FnOW85NWVYSFZqVlNhUlRUYnd2R0xjaGRCbkVFTktXTndkMXZlaFZBRHd6RXlZUWxSalRVTWVHcG1hNldJQy1vblpJbGl2TFBHLTBBRGFkX0E5OFVoOUhySm1LOXlYTXFRckFkT1BUR3dyMFNiSFNYeXdjMl8tRTBFQjZJU0Vpb0szQUtwQW41WjdGODVqYlhKdHQ4QUFaZm9seVU4VGUyRDYwSGd0SzgxRkVGZm0xVkNtM25BSDdBUF9uVWVSOWZ1MW1CcmRaWDA0?oc=5"
+      "title": "‘We Have No Shared Reality’: Two Political Influencers on the Future of Politics Online",
+      "time": "hace 2 h",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/wired-world-fair-2026-cj-pearson-and-kat-abughazaleh/"
     },
     {
-      "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
+      "title": "Residential proxies detected on White House network",
+      "time": "hace 2 h",
+      "source": "Hacker News",
+      "link": "https://layer3intel.com/blog/residential-proxies-white-house-network"
+    },
+    {
+      "title": "Bowen: Trump's loss limits powers at home, but it will likely be different abroad",
       "time": "hace 4 h",
       "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss"
+      "link": "https://www.bbc.co.uk/news/articles/crkg7wj8g201o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "title": "5 razones que explican la abrumadora derrota del Partido Republicano",
       "time": "hace 5 h",
-      "source": "Hacker News",
-      "link": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability"
+      "source": "BBC Mundo",
+      "link": "https://www.bbc.com/mundo/articles/cq5yn4l3pjv0o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "La Casa Blanca recuerda que Trump \"todavía es presidente\" pese a la derrota en las legislativas",
@@ -81,12 +75,18 @@
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPLTMyR0FPeUlvU0xfbFBZcUh1OEl4MzJiRU1KanpCZTdqZVVGZFp6WHVnOFZkS0J1M3NiOVlmbDhpeW02QS1EQ0s1ejZXd1ZiV3pKMU1Xd0pEb203RHk2OUtNYmFWU3lFQ2NmcEhCd1p2aUxqVFgtV0xpRGZMYUxqOGlIWVNDd1VpNThFSzlWQTBnV0FBZXdzT1FOQ3pwdExLcEI1d3Z2eHRQMXBPRmw0bXJsMWRxZU05SWVaVUw0eHBsRXBZR29vRFdnekpDSjA?oc=5"
     },
     {
-      "title": "Bloqueos, cierres por Día de Muertos y plantones paralizan CDMX hoy",
-      "time": "hace 2 d",
+      "title": "ASF amplía investigación por corrupción en el INE con contrataciones del IFE y adquisiciones desde el 2000",
+      "time": "hace 8 h",
+      "source": "El Universal",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWEVPaFVBNjkzQnF0ZDRBV3VzclJ4WDVQSlItazBuMHFkaUhFVm1leWpfd3IzZ0QzS0EzdlRqV3VlNjI0UWRXVkFDd0VpSGFkWnpDTW5FM2hlemlndndGWHB4eTVSQVc3NmJPeU54TlJVNmZJb0UyRngxRUtzdUpZWVpKZFdUSW5BS09pVVJYTUg2bjFBc2dtT1pZaktZNnNtYjFVQlFNbW5iTnBoZXkzY01FYmZsQ05aRGc1VGd4OU93MVVQV2gzenpOMGw4cEY3RVFmcm9yLUgwdWc4RHB3dHU1UExUTm92UjNJczJ3dnVvS1J3TnljZGRWRdIBjwJBVV95cUxOcHBTQ2RBVXdvd19VRUlDdnF2bVdCdUU2WU1tWnk2X1hsTmFYZnJyc0dWcGVTWEFzZWFqUW0yZTF2RG1tN1FnOW85NWVYSFZqVlNhUlRUYnd2R0xjaGRCbkVFTktXTndkMXZlaFZBRHd6RXlZUWxSalRVTWVHcG1hNldJQy1vblpJbGl2TFBHLTBBRGFkX0E5OFVoOUhySm1LOXlYTXFRckFkT1BUR3dyMFNiSFNYeXdjMl8tRTBFQjZJU0Vpb0szQUtwQW41WjdGODVqYlhKdHQ4QUFaZm9seVU4VGUyRDYwSGd0SzgxRkVGZm0xVkNtM25BSDdBUF9uVWVSOWZ1MW1CcmRaWDA0?oc=5"
+    },
+    {
+      "title": "Elecciones intermedias EUA: ¿Quiénes ganaron las 36 gubernaturas en juego?",
+      "time": "hace 18 h",
       "source": "ADN40",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYWQ4R3VMMjBiQ3k4T2dLRVhLXzhzZ0tuVnVNU1BpdjljRTY2eUFjNF8xcDc0QjZkNVJEV0tXdFRpZzkySzlYR1l4TlEzMlg3MVdCRFhYa001MWVDVm9kWm9EQUhHRDE0T2VfcS1oNVlHbnVoOWN6YTN5MlVraU95bnFIRnpDNDFTVDRZa3Bucng4SF9CdnVzS1JPZ0FyQVM5SHpEVU5fQVFwQQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZHJ0a05nRXgwNHpPd2JmejdqTXFFQ1AzQzBTcHBLUjhYSl9wN2p3MGRxT0JRV2lnRm5WaE5OU3dRNU1kX3VLa1ZOQ0pXOW1wRXhmVEFoeGxKQ2JEWVNwdmlpUmJJNnN5M1dTakZqVWNaejB3MFdOYVhLOE5Kc0FTVjZKazZ5WWJMM3FWU1JtbWl4Z2RGVWtZZENGZ0pKZTdFSVA4b3RLWjNMekxIcHVlTEw5Xy11UGx0Mmc?oc=5"
     }
   ],
-  "updated": "2026-11-04 17:45 UTC",
+  "updated": "2026-11-04 23:13 UTC",
   "failed": []
 }
