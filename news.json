@@ -3,90 +3,90 @@
   "source": "varias fuentes",
   "news": [
     {
-      "title": "Qualcomm is betting big on data centers as smartphone sales sink",
-      "time": "hace 31 min",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers"
-    },
-    {
-      "title": "How 'Resident Evil' Director Zach Cregger Uses His iPhone to Make Movies",
+      "title": "\"La derrota de Trump limita su poder interno, pero no necesariamente su influencia en el mundo\"",
       "time": "hace 1 h",
-      "source": "MacRumors",
-      "link": "https://www.macrumors.com/2026/11/04/zach-cregger-iphone-resident-evil/"
+      "source": "BBC Mundo",
+      "link": "https://www.bbc.com/mundo/articles/cmy0rzyw4w59o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Irán se burla del varapalo electoral de Trump: \"Hablaron de un cambio de régimen, lo hicimos realidad\"",
+      "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+      "time": "hace 1 h",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "\"Yo voté\": electores recuerdan a las víctimas de ICE en las elecciones de EE. UU.",
       "time": "hace 1 h",
       "source": "France 24 Español",
-      "link": "https://www.france24.com/es/medio-oriente/20261104-ir%C3%A1n-se-burla-del-varapalo-electoral-de-trump-hablaron-de-un-cambio-de-r%C3%A9gimen-lo-hicimos-realidad"
+      "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261105-yo-vot%C3%A9-electores-recuerdan-a-las-v%C3%ADctimas-de-ice-en-las-elecciones-de-ee-uu"
     },
     {
-      "title": "HomePod Mini 2's Amount of RAM Confirmed",
-      "time": "hace 1 h",
+      "title": "Apple Releases Safari Technology Preview 256 With Bug Fixes and Performance Improvements",
+      "time": "hace 4 h",
       "source": "MacRumors",
-      "link": "https://www.macrumors.com/2026/11/04/homepod-mini-2-ram/"
+      "link": "https://www.macrumors.com/2026/11/04/apple-releases-safari-technology-preview-256/"
+    },
+    {
+      "title": "Apps Can Now Try to Stop You From Canceling Subscriptions",
+      "time": "hace 5 h",
+      "source": "MacRumors",
+      "link": "https://www.macrumors.com/2026/11/04/app-store-subscription-retention/"
+    },
+    {
+      "title": "Asesinan a Gabriel Rivas, regidor de Cuernavaca, Morelos",
+      "time": "hace 5 h",
+      "source": "El Universal",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdEtHeFVOaGFMS2JWcEM2OHpqRnVybE9rV28xdGhnWS1RVG1KODBQRkhaVGpfaWRTYnEzRE4zeDduOHFmeER1a1pUNTVad010ZTQ0UVlNd0VKcTRFTmdOSzZuTWRYZ2gyQ25pS3RZRU1sUnVBV0JVNXpVdEp5bkFVS1Jad1dMbmtuMXRzejQwSTc5dm9IYWxJQUxGVzNrN1VFcWpJUnZWeUR5bHJhWGE4X2NPOGhwT1VCd2Raam9yb21MODJJLXRVX3JmUEJvQ2VI0gHkAUFVX3lxTE9PVHR3THVwNndkUVh2MUdaeWRMM1JIdndUVUh5djUzQzljQTg2X3dlLVg2WmJZaE4yRWtZYVdjcjEtY0NnMXhvTFpET0t3TVg0UFFQWVpXbFhrNzlRenlsNC1kZUpqYmFBc21ybHBaMi00ZkUybDhQU3AtckcwLVZ2VHNQSF9pODZQUXVnMUZpem1rUFFsaDJYS1pjcnJpb3oxN3hJVWZZYmFjTjJHcVB4ajJFNmpnaHJDV2UxaDNDalVWWVNPNUEtUTd3c01NZ2tlNHo4aGlmcE9LZ1UxQlMydERnWA?oc=5"
+    },
+    {
+      "title": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
+      "time": "hace 5 h",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/"
+    },
+    {
+      "title": "Nintendo's biggest ROM chip supplier is bowing out of the business",
+      "time": "hace 6 h",
+      "source": "Ars Technica",
+      "link": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/"
+    },
+    {
+      "title": "Hackers exploited iOS and Android flaws to infect phones",
+      "time": "hace 6 h",
+      "source": "Ars Technica",
+      "link": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/"
     },
     {
       "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
-      "time": "hace 1 h",
+      "time": "hace 7 h",
       "source": "BBC Tech",
       "link": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "VMware releases vSphere Express for virtualization on up to 128 cores",
-      "time": "hace 1 h",
-      "source": "Ars Technica",
-      "link": "https://arstechnica.com/information-technology/2026/11/vmware-releases-vsphere-express-for-virtualization-on-up-to-128-cores/"
-    },
-    {
-      "title": "AMD's record quarter: Data center business doubles, while gaming craters",
-      "time": "hace 1 h",
-      "source": "Ars Technica",
-      "link": "https://arstechnica.com/gadgets/2026/11/amds-record-quarter-data-center-business-doubles-while-gaming-craters/"
-    },
-    {
-      "title": "‘We Have No Shared Reality’: Two Political Influencers on the Future of Politics Online",
-      "time": "hace 2 h",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/wired-world-fair-2026-cj-pearson-and-kat-abughazaleh/"
-    },
-    {
       "title": "Residential proxies detected on White House network",
-      "time": "hace 2 h",
+      "time": "hace 8 h",
       "source": "Hacker News",
       "link": "https://layer3intel.com/blog/residential-proxies-white-house-network"
     },
     {
-      "title": "Bowen: Trump's loss limits powers at home, but it will likely be different abroad",
-      "time": "hace 4 h",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/crkg7wj8g201o?at_medium=RSS&at_campaign=rss"
+      "title": "Nintendo’s designers strove for ‘elegance’ when remaking Ocarina of Time",
+      "time": "hace 11 h",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/games/1026380/zelda-ocarina-of-time-interview-eiji-aonuma-hidemaro-fujibayashi"
     },
     {
-      "title": "5 razones que explican la abrumadora derrota del Partido Republicano",
-      "time": "hace 5 h",
-      "source": "BBC Mundo",
-      "link": "https://www.bbc.com/mundo/articles/cq5yn4l3pjv0o?at_medium=RSS&at_campaign=rss"
+      "title": "Mega apagón CFE de dos días en Veracruz; 4 y 5 de noviembre no habrá luz en esta colonias",
+      "time": "hace 1 d",
+      "source": "ADN40",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcjBvSGhuekZmbVpUcnVWZGNJWTZJYkxpeFRxbndwZU1IWEdsVTZNQ3o5UzVVY0xlN2RuYldTckdLVHNGRHg3OHE3cHJoek9rWTYwN3dvREZiaFRQVTFRUGdyaTdIWnpHcHdwbHNadnREZG84NEViTFZyOThsZWU2UHYyeG5TZXprM1BpTFo5a0hsc2dhbjh3MElMcmxfYUdkRWFPSXdZblZ5S20tNl9oMHVtaVBHUmh6c2pBMDVhMzFvMHJRVXlN?oc=5"
     },
     {
       "title": "La Casa Blanca recuerda que Trump \"todavía es presidente\" pese a la derrota en las legislativas",
-      "time": "hace 6 h",
+      "time": "hace 1 d",
       "source": "DW Español",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPLTMyR0FPeUlvU0xfbFBZcUh1OEl4MzJiRU1KanpCZTdqZVVGZFp6WHVnOFZkS0J1M3NiOVlmbDhpeW02QS1EQ0s1ejZXd1ZiV3pKMU1Xd0pEb203RHk2OUtNYmFWU3lFQ2NmcEhCd1p2aUxqVFgtV0xpRGZMYUxqOGlIWVNDd1VpNThFSzlWQTBnV0FBZXdzT1FOQ3pwdExLcEI1d3Z2eHRQMXBPRmw0bXJsMWRxZU05SWVaVUw0eHBsRXBZR29vRFdnekpDSjA?oc=5"
-    },
-    {
-      "title": "ASF amplía investigación por corrupción en el INE con contrataciones del IFE y adquisiciones desde el 2000",
-      "time": "hace 8 h",
-      "source": "El Universal",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWEVPaFVBNjkzQnF0ZDRBV3VzclJ4WDVQSlItazBuMHFkaUhFVm1leWpfd3IzZ0QzS0EzdlRqV3VlNjI0UWRXVkFDd0VpSGFkWnpDTW5FM2hlemlndndGWHB4eTVSQVc3NmJPeU54TlJVNmZJb0UyRngxRUtzdUpZWVpKZFdUSW5BS09pVVJYTUg2bjFBc2dtT1pZaktZNnNtYjFVQlFNbW5iTnBoZXkzY01FYmZsQ05aRGc1VGd4OU93MVVQV2gzenpOMGw4cEY3RVFmcm9yLUgwdWc4RHB3dHU1UExUTm92UjNJczJ3dnVvS1J3TnljZGRWRdIBjwJBVV95cUxOcHBTQ2RBVXdvd19VRUlDdnF2bVdCdUU2WU1tWnk2X1hsTmFYZnJyc0dWcGVTWEFzZWFqUW0yZTF2RG1tN1FnOW85NWVYSFZqVlNhUlRUYnd2R0xjaGRCbkVFTktXTndkMXZlaFZBRHd6RXlZUWxSalRVTWVHcG1hNldJQy1vblpJbGl2TFBHLTBBRGFkX0E5OFVoOUhySm1LOXlYTXFRckFkT1BUR3dyMFNiSFNYeXdjMl8tRTBFQjZJU0Vpb0szQUtwQW41WjdGODVqYlhKdHQ4QUFaZm9seVU4VGUyRDYwSGd0SzgxRkVGZm0xVkNtM25BSDdBUF9uVWVSOWZ1MW1CcmRaWDA0?oc=5"
-    },
-    {
-      "title": "Elecciones intermedias EUA: ¿Quiénes ganaron las 36 gubernaturas en juego?",
-      "time": "hace 18 h",
-      "source": "ADN40",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZHJ0a05nRXgwNHpPd2JmejdqTXFFQ1AzQzBTcHBLUjhYSl9wN2p3MGRxT0JRV2lnRm5WaE5OU3dRNU1kX3VLa1ZOQ0pXOW1wRXhmVEFoeGxKQ2JEWVNwdmlpUmJJNnN5M1dTakZqVWNaejB3MFdOYVhLOE5Kc0FTVjZKazZ5WWJMM3FWU1JtbWl4Z2RGVWtZZENGZ0pKZTdFSVA4b3RLWjNMekxIcHVlTEw5Xy11UGx0Mmc?oc=5"
     }
   ],
-  "updated": "2026-11-04 23:13 UTC",
+  "updated": "2026-11-05 05:12 UTC",
   "failed": []
 }
