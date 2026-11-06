@@ -3,90 +3,90 @@
   "source": "varias fuentes",
   "news": [
     {
-      "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
-      "time": "hace 15 min",
+      "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+      "time": "hace 1 h",
+      "source": "Hacker News",
+      "link": "https://github.com/ppmpreetham/BUI"
+    },
+    {
+      "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+      "time": "hace 1 h",
       "source": "BBC Tech",
       "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Amenazas de bomba retrasan más de una veintena de vuelos en Europa",
-      "time": "hace 44 min",
+      "title": "Did a data centre revolt affect the US mid-term election results?",
+      "time": "hace 3 h",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/crvg9yyz5437o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "¿Qué factores influyeron en la victoria demócrata en las midterms en Georgia?",
+      "time": "hace 3 h",
       "source": "France 24 Español",
-      "link": "https://www.france24.com/es/video/20261106-amenazas-de-bomba-retrasan-m%C3%A1s-de-una-veintena-de-vuelos-en-europa"
+      "link": "https://www.france24.com/es/video/20261106-qu%C3%A9-factores-influyeron-en-la-victoria-dem%C3%B3crata-en-las-midterms-en-georgia"
+    },
+    {
+      "title": "Por qué el Congreso de Paraguay no aceptó la renuncia de Santiago Peña como presidente y qué supone ahora el juicio político en su contra",
+      "time": "hace 6 h",
+      "source": "BBC Mundo",
+      "link": "https://www.bbc.com/mundo/articles/crwyddpl789do?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "OpenAI is stepping back from NDAs for data center projects",
-      "time": "hace 1 h",
+      "time": "hace 8 h",
       "source": "The Verge",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda"
     },
     {
       "title": "Abaten a \"El General\", líder del Cártel Nuevo Imperio",
-      "time": "hace 1 h",
+      "time": "hace 8 h",
       "source": "El Universal",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxObXIxQU9Lek9aWG0yNjdMY010WUFCb2JzMFBzV0pfRnBKZzY1dFJWN0Z2Z1JYcktnR1ZBNE5jX2UzejJRcEVVc3B0WE1PLWFQaThTSTRWN0p0b1RpcmFPWHBGX2NhMzRMN2NvNUd6dVFEWTVLMFRiQTVuNUF1ZDYxSFhLN2d3Z1JtOWtQb19BR3FydUw0UHppczVodTA1RmlkRWF2Wnc2c05uWVE1S2NBRGVldUpDVFN3ejRVcUNGT0FmU0s5ekYyRXJjLWFFc2dDVVVMaGR5UUR6V2k1MlRXcUM4WEYyU3BaQmUtT0xWdHFNMnEwYUhRRV9USkc?oc=5"
     },
     {
       "title": "Apple Surveys iPhone Duo Buyers About Crease and Camera",
-      "time": "hace 1 h",
+      "time": "hace 8 h",
       "source": "MacRumors",
       "link": "https://www.macrumors.com/2026/11/05/apple-iphone-duo-survey/"
     },
     {
       "title": "Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost",
-      "time": "hace 1 h",
+      "time": "hace 8 h",
       "source": "Ars Technica",
       "link": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/"
     },
     {
       "title": "Apple's First Touchscreen Mac is Now Arriving to Customers",
-      "time": "hace 2 h",
+      "time": "hace 10 h",
       "source": "MacRumors",
       "link": "https://www.macrumors.com/2026/11/05/touchscreen-mac-now-arriving-to-customers/"
     },
     {
       "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
-      "time": "hace 2 h",
+      "time": "hace 10 h",
       "source": "Ars Technica",
       "link": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/"
     },
     {
       "title": "6 Best VPN Services (2026), Tested and Reviewed",
-      "time": "hace 2 h",
+      "time": "hace 10 h",
       "source": "Wired",
       "link": "https://www.wired.com/gallery/best-vpn/"
     },
     {
-      "title": "Claude Code sends your email address to websites",
-      "time": "hace 3 h",
-      "source": "Hacker News",
-      "link": "https://github.com/anthropics/claude-code/issues/107757"
-    },
-    {
-      "title": "Russell Brand found guilty of rape and sexual assault",
-      "time": "hace 7 h",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/ckyvrze96y70o?at_medium=RSS&at_campaign=rss"
-    },
-    {
       "title": "Presidente de Paraguay Santiago Peña renuncia en medio de crisis bancaria",
-      "time": "hace 8 h",
+      "time": "hace 15 h",
       "source": "DW Español",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa0VlajB5WjJEbzRPOXV4N3RmbjhhZ1NacmtZUEt2ZDh6RHNHVEJacVRXQm9xMVo3OUpGWVpySTNFaG1NU2UyM1VzNk8wQnVzMWVsMHAwaXhjZkVpRHlPUnhNVi1BaHl6SHlwdGJpYnJiWnNqNWtNdFBTcGpVOHgyYUkwTk5vTVF5NVFxb0ktT3hoLXV1WTN2M3RoYUl2MllhNWNCbllWY3BQS0E3bVAwdNIBsAFBVV95cUxQM1UwZDBybWxsSV9QSXNmOUlTX2RLWlhxbHFLbWthUENxa2d2VUNMYzBDSXJwb0RTZEh3SlVMVHA4NkZFMW9aMXhIeHlkLXNLLXFOcHNMYW0zbUI2bHI1TUh0VldWZEhCdDV4ZkJ2Y0xieHdtTXVmTHk4dGFNeFVMTUJVZ1E1dU4wcnowdmVzUi02UTREZGpSR29NOGRzelZUT2RBSFJocm1mVk56YXpDbw?oc=5"
     },
     {
-      "title": "Mega apagón CFE de dos días en Veracruz; 4 y 5 de noviembre no habrá luz en esta colonias",
-      "time": "hace 2 d",
+      "title": "Calles cerradas y tráfico pesado por bloqueos en CDMX hoy",
+      "time": "hace 1 d",
       "source": "ADN40",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcjBvSGhuekZmbVpUcnVWZGNJWTZJYkxpeFRxbndwZU1IWEdsVTZNQ3o5UzVVY0xlN2RuYldTckdLVHNGRHg3OHE3cHJoek9rWTYwN3dvREZiaFRQVTFRUGdyaTdIWnpHcHdwbHNadnREZG84NEViTFZyOThsZWU2UHYyeG5TZXprM1BpTFo5a0hsc2dhbjh3MElMcmxfYUdkRWFPSXdZblZ5S20tNl9oMHVtaVBHUmh6c2pBMDVhMzFvMHJRVXlN?oc=5"
-    },
-    {
-      "title": "Crisis en Paraguay: comienza el juicio político contra Santiago Peña en el Congreso, que deja en suspenso su renuncia como presidente",
-      "time": "",
-      "source": "BBC Mundo",
-      "link": "https://www.bbc.co.uk/mundo/live/cmgr8vrv5w55t?at_medium=RSS&at_campaign=rss"
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRDNveDUwN2hxdVUyenhFSzN5RHFMRGZVRWhGUmFNcjR4LTd3TTV0VDVWY25TN01uWFN6WTgxdnQ3aTZNNXdtaXB3TGdjU1NROExCUXJQaXRhdTA5RVE0a2J4T1d3UUI2Y1VQNEV6U0pteHVpa01ua0l5d2NIS09hMzVUMVd2VV9jamZyZ1NRUS1Bel9ZTzNyZGZDZGJQUQ?oc=5"
     }
   ],
-  "updated": "2026-11-06 01:59 UTC",
+  "updated": "2026-11-06 09:14 UTC",
   "failed": []
 }
