@@ -3,76 +3,76 @@
   "source": "varias fuentes",
   "news": [
     {
-      "title": "AI is the new dating dealbreaker",
-      "time": "hace 7 min",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity"
-    },
-    {
-      "title": "AI stocks climb after trillions wiped from market values",
-      "time": "hace 7 min",
-      "source": "BBC Tech",
-      "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Brand's barrister refers himself to regulator after report he confronted journalist",
-      "time": "hace 21 min",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/c8kgee9yxvn7o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Early Black Friday Deals Kickoff With Steep Discounts on Apple Watch Ultras and More",
-      "time": "hace 24 min",
-      "source": "MacRumors",
-      "link": "https://www.macrumors.com/2026/11/06/best-apple-deals-of-the-week-11-6-26/"
-    },
-    {
-      "title": "The MacRumors Show: iOS 27.3 Looks Like a Huge Update",
-      "time": "hace 32 min",
-      "source": "MacRumors",
-      "link": "https://www.macrumors.com/2026/11/06/the-macrumors-show-ios-27-3/"
-    },
-    {
-      "title": "Crisis total en Paraguay: ¿cómo Santiago Peña ayudó a Ueno Bank a crecer?",
-      "time": "hace 33 min",
-      "source": "France 24 Español",
-      "link": "https://www.france24.com/es/programas/el-debate/20261106-crisis-total-en-paraguay-c%C3%B3mo-santiago-pe%C3%B1a-ayud%C3%B3-a-ueno-bank-a-crecer"
-    },
-    {
-      "title": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
-      "time": "hace 1 h",
+      "title": "The Cybertruck’s Death Is Actually Great News for EVs",
+      "time": "hace 12 min",
       "source": "Wired",
-      "link": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/"
+      "link": "https://www.wired.com/story/cybertrucks-death-great-news-for-evs/"
     },
     {
-      "title": "Deus Ex",
+      "title": "En directo: Senado paraguayo aprueba la destitución de Santiago Peña tras un juicio político en ausencia",
+      "time": "hace 28 min",
+      "source": "France 24 Español",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261106-paraguay-santiago-pe%C3%B1a-pide-una-pr%C3%B3rroga-para-defenderse-del-juicio-pol%C3%ADtico"
+    },
+    {
+      "title": "Hands-On With Apple's New OLED Touchscreen MacBook Pro",
+      "time": "hace 37 min",
+      "source": "MacRumors",
+      "link": "https://www.macrumors.com/2026/11/06/oled-macbook-pro-hands-on/"
+    },
+    {
+      "title": "KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium",
+      "time": "hace 52 min",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale"
+    },
+    {
+      "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+      "time": "hace 53 min",
+      "source": "BBC Tech",
+      "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Apple Store With All-New Design Opening Soon in Southern California",
+      "time": "hace 54 min",
+      "source": "MacRumors",
+      "link": "https://www.macrumors.com/2026/11/06/apple-carlsbad-reopening-soon/"
+    },
+    {
+      "title": "Meghan's father Thomas Markle appears in court over child sex abuse material",
       "time": "hace 1 h",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+      "time": "hace 1 h",
+      "source": "Ars Technica",
+      "link": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/"
+    },
+    {
+      "title": "Earth's churning mantle may have created the Great Unconformity",
+      "time": "hace 2 h",
+      "source": "Ars Technica",
+      "link": "https://arstechnica.com/science/2026/11/earths-churning-mantle-may-have-created-the-great-unconformity/"
+    },
+    {
+      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+      "time": "hace 2 h",
       "source": "Hacker News",
-      "link": "https://www.filfre.net/2026/11/deus-ex/"
+      "link": "https://hightouch.com/blog/llm-judges-identity-resolution"
     },
     {
-      "title": "\"El INE sí se tiene que sanear\", afirma Sheinbaum",
-      "time": "hace 2 h",
+      "title": "Trabajadores del Poder Judicial realizan bloqueos, marchas y paro de labores en distintos estados",
+      "time": "hace 3 h",
       "source": "El Universal",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONzduVHVfekVmYVBJNFoxNExUbjEtc0NkQXBkal9FaWhpRlpzdHdtdGlZRllJd21DSW5zamtUejgxSUJHYXM1aXlTMFZ0OGhQRXhLeG9kQWwwSU1FRTZ1NldaLXVHcWhaT3FXdnA0Z1ZaWWs2VDdnY080YlplTl9YclVQc0dXNjNvTUJZZU00ZlNsMXpESjFiR0hDbGYzVEF6aUhoa0pUa1daTDAyQmJSRDV2REM0OTJxZGZBMEpMN3p6MmNSY1VDUUU1clJXa0E4NHNpQTR3QzhBN0JFX19HRU1nc1ZFU1lVMGtF0gH_AUFVX3lxTE04TVloYUkzY2VmcWNyRW9KTzhBeUxjTDRGakFGOUVnMHd6VDJMbnFWR2lPR0FIZVBIVHdWTk9zRUFUX2ZoMk9lX2lUbmlNbGkwWk10SmRhNWgyOG1WYUw1SDFMYlR1dW9WaGxWS2JzQWNaMkpTVnliMlZHYUVVeHMwU0x3dG9aQUsyUWZrR0NLY1Y2Nk00cXZJOHExVlZqY2FIamRGZzFJMEN6OWxCSkh2U2dwV0FHMnpfcXJoM0RXZ1duM3Zic3pFNVRySWMxVVV6dHZ1TmRQTGFtT2V3aWJRZWZHODZzbDJkMVJRWDAwY0pQZ3RkMi1reXAtc2dsdw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPckM4elhMQXNBOFp0VGZiSjcwOEFDNmtCMmFpR2NKM2hIeUpyVzd2V1JIb2lyYWdwODlzb2phMHkxaUplZHVfV0h2UElEclIwbTdJUjBFZ0dRZU5ONUtmR0xjWkIyQ0ItSmhmRkNFeHgxTzYyTDVvRFQyb1ZDRzBvc0VES3dDOEFZUjJ2dXpfa1hBcS1tLTd3Tnhick9aRkdvT0Z3Uk9aN2l5S1I3cWFlLXRHSGx3cmh3dVN1eU83Z1pKZUhHMlVvYVplYjlJdXFlNnNET2RmTkFKWXlMWmluVTg0Uk5IYWkzZjU2ZdIBgAJBVV95cUxPeEVwcUdNMjRNRU1jSjJOUHQ1YmxnZ1RIZGZaYThDc0pVT0tNQXd6THZLeldBTHJGbFpNeHl0WmVpeGh0ZWZ2akVWdmgtQTdGX1pfcDFyRlphUWFKUGNMY3NsSURXUnhDOHRhc2F6bkZFU2dsWHpvb0NnQVJhczBDajBFYXhYV1JOWDVPSXk2b284UnpyYnE1bkRrLUJTTDNEYWQtdDRQN0dfY3ZpMWdSNUlWbmpjOWljdTFlWjR1QUdpdzJDT0pxMEdvTXlQUjg2bk9ld0dROEpadVV4eFA4eTY0S0cxTzN4eXJYVnJHLXVxd2hPYlo3c042UHNjZ1NI?oc=5"
     },
     {
-      "title": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
-      "time": "hace 2 h",
-      "source": "Ars Technica",
-      "link": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/"
-    },
-    {
-      "title": "Europa señala a TikTok y exige que cambie su diseño",
-      "time": "hace 3 h",
+      "title": "Varios vuelos en Europa afectados en una nueva jornada de amenazas de bomba",
+      "time": "hace 8 h",
       "source": "DW Español",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOamlJWm9ITElWVWlLRlZtbE1oeURJTlhSQng0VnNxdDNtNXM5dm9Ecm95X1E4d0Y1OGt4VkI3SjZXOVhDQUh3d1JRTEh2bExjWWRvSmxZNGdzLWkzRDhCTVQ4OWpmRHIyQ1Y0ZUVMNzRZb0ZwZ0dmZzAtVGpHelZIUU9OSmVOT1U0VXlJWmpGMk0xRTlWZ18wT0JB0gGaAUFVX3lxTE5PVmd6UWlMWnVEVVJrNmUtNmlXbmxYcUJGTThSZmQ5WHFWMjFIazVtdlVqbENFOEVsYVotb0tiT01TMFVpTEZEb3VvckRYSnd6NXl0TGIyQ3RhYlNZaDFNVl9feFVlUk05UkxKdUNUTzV4WkJRNlUtUEFyTHlXWUNuYVZFa3R3aWw2ZExIWU1mb3VmWVlMTGFuZXc?oc=5"
-    },
-    {
-      "title": "No more Cybertrucks; Musk moves on from the angular metallic flop",
-      "time": "hace 3 h",
-      "source": "Ars Technica",
-      "link": "https://arstechnica.com/cars/2026/11/the-cybertruck-is-dead-makes-way-for-cybercab-says-elon-musk/"
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOY1kxZklpbFZqNEUtRVkxc01DYlV3cW5iTlNmQ1hYQUpjRU9FZ1ZLSGxPYzk3LTJZUDlUdXdLcndHQkF3eHRsUkMxa0p0X21sV3c4enRMUzFZS05zUnBPendNMl9sRFZuZmdlM0pyTnBtN1BOa3JZSVJUVWt1OGpCT2NKUU92R1pJSG4wZTZlb3ZQZFhvcVFMNWJqbzJTZG1ud3I4YUE1OXlDeU13TlZGdW9hY3pZdDlyNDI5Sk9md245d3R2MEhSZVFhQUN1aElKNzVrYmtSby1OM0lFMkhRTml1M05sb0hwZzhIOEZST0J3MEdBNmRv0gH3AUFVX3lxTE5jZmlfVmdGbHVjUmxYQ3dyRnJkcDJVZzdhanRqZFVjcW1xdFBHcmM5clk4NGV0T0k1MkJ4TDVSREZRMzZYZmdXZG8yemt3emlvQXUySjRxdDB5a2xYWVFZRWp5MElQLUF0akRKNzc5d1lVV2l6dnBlM2dYNXlkMnJ1R3JTWEVROVhFSC1PSGpXcEdGNkx2b1FKNWsyeWl2YVJGU2ItNm9GSE1rWkZTMGdXUi1KZDVIWlctUkdybEtwUW1GT0VKR2xvWVMzMy1zUzJOdFo5YWxxOERqM2NzWFFLaXg3Qk50d1I0bFFnb05kR0VLS1lQYlE?oc=5"
     },
     {
       "title": "Calles cerradas y tráfico pesado por bloqueos en CDMX hoy",
@@ -81,12 +81,12 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRDNveDUwN2hxdVUyenhFSzN5RHFMRGZVRWhGUmFNcjR4LTd3TTV0VDVWY25TN01uWFN6WTgxdnQ3aTZNNXdtaXB3TGdjU1NROExCUXJQaXRhdTA5RVE0a2J4T1d3UUI2Y1VQNEV6U0pteHVpa01ua0l5d2NIS09hMzVUMVd2VV9jamZyZ1NRUS1Bel9ZTzNyZGZDZGJQUQ?oc=5"
     },
     {
-      "title": "Crisis en Paraguay: el presidente Santiago Peña no va al Congreso y sus abogados lo representan en el juicio político",
+      "title": "Crisis en Paraguay: el Congreso destituye a Santiago Peña, el segundo presidente expulsado por juicio político",
       "time": "",
       "source": "BBC Mundo",
       "link": "https://www.bbc.co.uk/mundo/live/c54g11vvvemkt?at_medium=RSS&at_campaign=rss"
     }
   ],
-  "updated": "2026-11-06 17:10 UTC",
+  "updated": "2026-11-06 22:43 UTC",
   "failed": []
 }
