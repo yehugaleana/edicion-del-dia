@@ -3,34 +3,22 @@
   "source": "varias fuentes",
   "news": [
     {
-      "title": "En directo: todo listo para la misa del papa León XIV en Paysandú, Uruguay, primer país de su visita a Latinoamérica",
-      "time": "hace 10 min",
-      "source": "France 24 Español",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261107-en-directo-todo-listo-para-la-misa-del-papa-le%C3%B3n-xiv-en-paysand%C3%BA-uruguay-primer-pa%C3%ADs-de-su-visita-a-latinoam%C3%A9rica"
-    },
-    {
-      "title": "The migration that transformed Africa's languages, genes, and cultures",
-      "time": "hace 13 min",
-      "source": "Ars Technica",
-      "link": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/"
-    },
-    {
-      "title": "Best Wi-Fi Routers (2026): My Honest Picks After Testing 50+",
-      "time": "hace 28 min",
-      "source": "Wired",
-      "link": "https://www.wired.com/gallery/best-wifi-routers/"
-    },
-    {
-      "title": "Victims in rape cases must not feel like they are on trial, Burnham says",
-      "time": "hace 1 h",
+      "title": "What we know about Krakow mass shooting so far",
+      "time": "hace 6 min",
       "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/crgj99j8y998o?at_medium=RSS&at_campaign=rss"
+      "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
+      "title": "Elogio de León XIV al mate en Uruguay: \"nos enseña a compartir y a estar juntos\"",
+      "time": "hace 30 min",
+      "source": "France 24 Español",
+      "link": "https://www.france24.com/es/video/20261107-elogio-de-le%C3%B3n-xiv-al-mate-en-uruguay-nos-ense%C3%B1a-a-compartir-y-a-estar-juntos"
+    },
+    {
+      "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
       "time": "hace 1 h",
-      "source": "Ars Technica",
-      "link": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/"
+      "source": "Hacker News",
+      "link": "https://github.com/hedgerow-dev/coldframe"
     },
     {
       "title": "Policía detiene a expresidente de Paraguay",
@@ -39,44 +27,56 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSHVPNEZkRjRtMkh5NnhfYnFlcUdLeWNOaFJIMEszM0NuVXE4dUF2cG9UYTBIQ2hEQk1oZ1R6N0hOY3AyZm95Z1hBTE52WG1RdElKZkxrbEc5OGFGNmk4WTVSUGRIdFRDYXJyc0s1NXZlaVJzQTZtM2NCMG1YMFFPUXZCWmdhRjdGMVNpWmhqQlZjZjhMU3BUMjRzTXdjOFFneXp3RmhSanJKd9IBqgFBVV95cUxNMnQxOGFsUy1PNXNLTFJ3ZnRNSV8wRHlTaWtFMnVNdGpEV2JUOVY1WGpvV0poNkhiQjNYd2tydWktbW5aVmdjNHpIZXVTRjZQMG5aMzBXZ3pROEZ2MjN3ZF9IdmI2LUVkall5THRiRzJMWkhNN1Q3R2FKVEtxV1RuSXN5ZnQxNG1aU3ZfZTlHaHZqRmZIWUZTZ05fWFAyVlZDN3pYNzg4TG13UQ?oc=5"
     },
     {
-      "title": "Upload Your RAM",
-      "time": "hace 2 h",
-      "source": "Hacker News",
-      "link": "https://uploadyourram.org"
+      "title": "Early Apple Black Friday Deals on Apple Watch, MacBook Air, and More",
+      "time": "hace 3 h",
+      "source": "MacRumors",
+      "link": "https://www.macrumors.com/2026/11/07/early-apple-black-friday-deals/"
+    },
+    {
+      "title": "El expresidente de Paraguay, Santiago Peña, pasa su primera  noche bajo arresto en un cuartel militar en medio de protestas en Asunción",
+      "time": "hace 4 h",
+      "source": "BBC Mundo",
+      "link": "https://www.bbc.com/mundo/articles/c64g1nd9qvn0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Top Stories: Apple Product Launches, iOS 27.3 Beta, and More",
+      "time": "hace 4 h",
+      "source": "MacRumors",
+      "link": "https://www.macrumors.com/2026/11/07/top-stories-apple-product-launches/"
+    },
+    {
+      "title": "The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call",
+      "time": "hace 5 h",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/kernel-panic-refrigeration-hacks-internet-of-things/"
+    },
+    {
+      "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
+      "time": "hace 6 h",
+      "source": "Ars Technica",
+      "link": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/"
+    },
+    {
+      "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
+      "time": "hace 7 h",
+      "source": "Ars Technica",
+      "link": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/"
     },
     {
       "title": "Red del Clan Taddei alcanza a contratista favorito de la 4T: Loret revela nuevos videos de \"moches\" para comedor del INE",
-      "time": "hace 6 h",
+      "time": "hace 12 h",
       "source": "El Universal",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMHJxanF3VE9YNWxIT3lNXzg4TU9ZemFWWHNZOUxjTlVaU3ZIek93aExfN1JPSlFzMGJxQThSTUk0Ny1JNl9QOTRwSTU5ODFBS2tUb2pzT0s0YVdIelRrSjF6azlUVW5TSXAzcHZWQ1hSUHhVTUtNVGlRSm9WODdjdlk4bjhIMFBxUXZ6b2hHdEUwRkdDdGhsZUtmc0hHNlNybGo3clFsREJHbHJQQXhWOUhWQ0VDUTJaMHJTWHBwY09KOVRIdHBRZGJaVHE1RWo4WkRWOTRERDVQUEc5bDRTN3dWbDZKMzJMYWtPZNIBgAJBVV95cUxOSk9nNGdKVmZrZDNva3hEd251TjFUaFFGMHZhUlh3TXNDZjRvTUZDMU1EMnZXOVNkX1JEcjBqSldfeWRaWUJFSExfNHpRWm5ZYkxKYkkwbmQ0bFlnV0FEQ01zbEpRTzExMFg4WWwzMFBnZlVlcm5WSUF3NnAzSGtPenJuYk9tczN6RHF0VHQ2NjNVUjRoRUpVbXRSajZRY25tOUFtbWUzblNSeXlrQVZmOUYtLUxHMXQ1amJMUjFiVDB2am1sNmdTR3Fla012THExYmIxTGdTTFJOUlZRMHhQangxMzJlX2tBeUNkMV93ODZ5UFh4NXhmSVlfUkwyZ2p3?oc=5"
     },
     {
-      "title": "El escándalo de Ueno Bank en Paraguay se salda con la detención de Santiago Peña y con Pedro Alliana como nuevo presidente del país",
-      "time": "hace 12 h",
-      "source": "BBC Mundo",
-      "link": "https://www.bbc.com/mundo/articles/cwkg55edm8r7o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Hands-On With Apple's New OLED Touchscreen MacBook Pro",
-      "time": "hace 12 h",
-      "source": "MacRumors",
-      "link": "https://www.macrumors.com/2026/11/06/oled-macbook-pro-hands-on/"
-    },
-    {
-      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
-      "time": "hace 12 h",
+      "title": "The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance",
+      "time": "hace 17 h",
       "source": "The Verge",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation"
-    },
-    {
-      "title": "More Fun iPhone Duo Apps: 30 New Picks to Try",
-      "time": "hace 13 h",
-      "source": "MacRumors",
-      "link": "https://www.macrumors.com/2026/11/06/iphone-duo-app-suggestions/"
+      "link": "https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions"
     },
     {
       "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-      "time": "hace 14 h",
+      "time": "hace 20 h",
       "source": "BBC Tech",
       "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss"
     },
@@ -87,6 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRHFGdi05c0hyeEhvQ0lRaWNKRE1TMlZIQk5zRnhKTTZITzZZWDRrZjRHaXNtRlc2MC1rRlhiT3haVUtIVmpMajI3NlhBbHFpMGdmckZlTVRLaTRfVzVPckFlaVJsWnFpenF2Z05mYVRvMnhsZndiYkhrMTR1VjFSZUJTQ19NTjhmbFFHQmhwZnB3WjQ1cGJnb2dmUjdVM25jYmxzRFdYaEgtVjJubVVhZzE4bTgzYzItR1BtZjYxZDJ1eWxTOFBJTm9fZUdHQnVUS0ZkY2RxQThsbl9hbVNvOFhB?oc=5"
     }
   ],
-  "updated": "2026-11-07 12:28 UTC",
+  "updated": "2026-11-07 18:28 UTC",
   "failed": []
 }
