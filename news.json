@@ -3,80 +3,80 @@
   "source": "varias fuentes",
   "news": [
     {
-      "title": "El papa cierra su visita a Uruguay con un mensaje contra la violencia de género en Latinoamérica",
-      "time": "hace 13 min",
+      "title": "Las imágenes satelitales que muestran importantes obras de construcción cerca de las bases de misiles de Irán",
+      "time": "hace 32 min",
+      "source": "BBC Mundo",
+      "link": "https://www.bbc.com/mundo/articles/ck20ww726y14o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Apple Store Subscription Sign-Up Controversy Exposed",
+      "time": "hace 1 h",
+      "source": "MacRumors",
+      "link": "https://www.macrumors.com/2026/11/08/apple-store-subscription-controversy/"
+    },
+    {
+      "title": "Nvidia investiga si su director ejecutivo fue blanco de espionaje chino en una relación extramatrimonial",
+      "time": "hace 1 h",
       "source": "France 24 Español",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261108-el-papa-cierra-su-visita-a-uruguay-con-un-mensaje-contra-la-violencia-de-g%C3%A9nero-en-latinoam%C3%A9rica"
+      "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261109-nvidia-investiga-si-su-director-ejecutivo-fue-blanco-de-espionaje-chino-en-una-relaci%C3%B3n-extramatrimonial"
+    },
+    {
+      "title": "RIP, Harvest",
+      "time": "hace 2 h",
+      "source": "Hacker News",
+      "link": "https://aphyr.com/posts/427-rip-harvest"
+    },
+    {
+      "title": "Woman says Al Fayed's brother drugged and sexually abused her at Highland estate",
+      "time": "hace 3 h",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/cm2d6kk0wzw4o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
-      "time": "hace 31 min",
+      "time": "hace 5 h",
       "source": "The Verge",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia"
     },
     {
-      "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
-      "time": "hace 43 min",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
-      "time": "hace 1 h",
-      "source": "Hacker News",
-      "link": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company"
-    },
-    {
-      "title": "La coalición de Trump quedó hundida: ¿qué harán ahora los republicanos?",
-      "time": "hace 1 h",
-      "source": "BBC Mundo",
-      "link": "https://www.bbc.com/mundo/articles/c94g1nmvjygxo?at_medium=RSS&at_campaign=rss"
-    },
-    {
       "title": "Siri AI Rumored to Become 'More Like an Agent' as Early as Next Year",
-      "time": "hace 6 h",
+      "time": "hace 11 h",
       "source": "MacRumors",
       "link": "https://www.macrumors.com/2026/11/08/siri-ai-rumored-to-become-more-agentic/"
     },
     {
-      "title": "Hay trabajo en noviembre: abren vacantes en el Consulado de Estados Unidos en Guadalajara con salario de 46 mil pesos",
-      "time": "hace 6 h",
-      "source": "ADN40",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQYmROME0wcUYyTGdLNE5tQ29JZVJnalhFN1JhdC0zdXdCcW0xcmlBNFpsX2hDWU5PZ2lWZjZ1WGtfMGQ2a1VibU5BekdpV0NhdWtfNkFFaGpoS0ZhUTN5V3ZDMUNZalpORDhsdjdqbmFoNEI3X1J0YXlpSTQ5Q3dIM2paU1FENS0zbzl5N1NoYVdzZGFvUFFPZWltRjFVdzlGQ3ltZk9nclc2TGJZNGFPWl9NVGNfbjZ5MEhJRTdKamVzY1A5UWhld2RUck9GZmRWZndlOTlGRHRabmZWTW81cFJCcXpNaDktSkxQdg?oc=5"
-    },
-    {
-      "title": "Eisenkot invita al partido de Netanyahu a formar coalición de gobierno",
-      "time": "hace 7 h",
+      "title": "Israel: Eisenkot invita al partido de Benjamin Netanyahu a formar una coalición de gobierno",
+      "time": "hace 11 h",
       "source": "DW Español",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWmJ4dkZ4QWpUY0VLcEJXQ1dMVmJFc09iYlFCbjd0ZVlNb0QxMnhWczVZc2lzTmVfUlB0a0pCVTFEWGtPU1lUWGRLTk9nTzllVkJuU1R5X0lvdG9jaXFiaXBSNVZuRjJMdm1KWDRvYnQtZTlwZl9sOVRIaVp4QmVyOFJiNGUxUWtiQUZDb1NhVkNwVXU1TEl0U1daQUhqQ05meWNxdkpFVlMyTVUzSjlrMHRtTm55cVY5N2c3N2dR?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWmJ4dkZ4QWpUY0VLcEJXQ1dMVmJFc09iYlFCbjd0ZVlNb0QxMnhWczVZc2lzTmVfUlB0a0pCVTFEWGtPU1lUWGRLTk9nTzllVkJuU1R5X0lvdG9jaXFiaXBSNVZuRjJMdm1KWDRvYnQtZTlwZl9sOVRIaVp4QmVyOFJiNGUxUWtiQUZDb1NhVkNwVXU1TEl0U1daQUhqQ05meWNxdkpFVlMyTVUzSjlrMHRtTm55cVY5N2c3N2dR0gG-AUFVX3lxTE1GWHpCVVRHSWhncER6aUxmUXpWR0hrb1lsOTVyZzhYVkZqcS0tdDlRYk5nWktPbjA3eGRqckhhUnllVFlpWXY4aUdYRWVLUzZqMW1CcWRVQ0FEeVVSMGZSOTVyeTh5ZVJmbTVLS3hlVnRvV3FYVGF1UXJLSExlZHZlWmdCWWpzYl9vS3JFMEhIUXhkZDVTT2EyZmd1NmtnX0l0X3VhMVhxTE5nS2NHX0kxNktmbFh1X1FoaGQtRWc?oc=5"
     },
     {
-      "title": "Apple Taking New Approach to Developing iOS 28 and macOS 28",
-      "time": "hace 7 h",
-      "source": "MacRumors",
-      "link": "https://www.macrumors.com/2026/11/08/apple-tweaks-ios-28-development-process/"
+      "title": "“Presenten pruebas”: Luis Carlos Ugalde rechaza fraude en la elección presidencial de 2006",
+      "time": "hace 12 h",
+      "source": "ADN40",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUTE0ZVZ2VnNRc1lYTjM0VDVPOU5GLXUyVTN4elFSV1FQUDBUUWkzYWZpaGlEN0U2anAzX2pHU2wyU2NzQ21JaXdycW1iMTFpcFVVb3lwTHpDUVgyWVJlVTh1bExZSTFweXJzcGlUU1dMN3RtRVc4eG1uazJ2cTRyNTdGU01vcEJKcUxlU1FwenhEX2NFMzBNcmlHMGtRU3hyd2ZBSks5T2o4eFhkN0I0YkpHX2RMaVdjQlZvWjdJMWpiS21NNy04VQ?oc=5"
     },
     {
       "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
-      "time": "hace 7 h",
+      "time": "hace 13 h",
       "source": "BBC Tech",
       "link": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Physicists listened to electrical noise to crack a superconductor mystery",
-      "time": "hace 11 h",
+      "time": "hace 16 h",
       "source": "Ars Technica",
       "link": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/"
     },
     {
       "title": "8 Best Computer Speakers (2026) After Testing 30 Pairs",
-      "time": "hace 11 h",
+      "time": "hace 16 h",
       "source": "Wired",
       "link": "https://www.wired.com/gallery/best-computer-speakers/"
     },
     {
       "title": "Investigan secuestro de edil de Río Bravo en San Luis Potosí; policía ubica el hecho en Zacatecas",
-      "time": "hace 15 h",
+      "time": "hace 21 h",
       "source": "El Universal",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOU01sLTFUZ2VVOXdUZ2l6MXk2UXU4ZmNzOF83M1B0MWZuVURab013ZjlxMzVBZXdEVXNQZVUxeXlyWTNBd1Y2d0Q2NlhfNjBDYmpFY1ZNSF9yUVE0WVJoSUROZWdhSEU4MEQzT2dseGZ1UjMyenZITW1qc2dLN2d0MEF5UDVwMTBhb3RLRDBHNmcwZUMtdEZ5WTRPR19kemFnNk5zeUQ3d1d1Ym5FaE1YT3JEN096eENBYllDclBSNk12TjlqcVRHQnJXU2FQaURtQnfSAeYBQVVfeXFMTnRNSzdBNGs2RGRqQVJ3V3lqdGpfcmZ0NUVSRWZJaXltVmt2djZ6YnN2aERQZlJXa2xGQklUbUpXUTJCT1NveDVLUGV6eXhMcE9GR1pDUFNvYUhuYTA4eEJ6dzUtZXhZWW45Vnh6dVh1eEoySV9vNXVzWFV2X1FnNDMyai1EeDk0V1NYeVJPZDFlc05MSWtHM2NpbERtajduVlFGZWlyOVFBc1psblVQang0OUVfNUhfcGxycTVjc0pVV0lWN05ManN0c1lUYWpkYTZreVR5NTJ3a1lnS0w3SXZTdi1zcFE?oc=5"
     },
@@ -87,6 +87,6 @@
       "link": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/"
     }
   ],
-  "updated": "2026-11-08 23:26 UTC",
+  "updated": "2026-11-09 04:43 UTC",
   "failed": []
 }
