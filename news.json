@@ -3,90 +3,90 @@
   "source": "varias fuentes",
   "news": [
     {
-      "title": "Disable Touch on MacBook Pro PROLED XDR and When Using Sidecar",
-      "time": "hace 1 min",
-      "source": "MacRumors",
-      "link": "https://www.macrumors.com/how-to/disable-touch-macbook-pro-proled-xdr-sidecar/"
-    },
-    {
-      "title": "Anker's Early Black Friday Sale Surprises With Mystery Boxes and Big Discounts",
-      "time": "hace 11 min",
-      "source": "MacRumors",
-      "link": "https://www.macrumors.com/2026/11/10/ankers-early-black-friday/"
-    },
-    {
-      "title": "Trump y la migración tras el voto de castigo: ¿mano dura o distensión?",
-      "time": "hace 49 min",
-      "source": "France 24 Español",
-      "link": "https://www.france24.com/es/programas/migrantes/20261110-trump-y-la-migraci%C3%B3n-tras-el-voto-de-castigo-mano-dura-o-distensi%C3%B3n"
-    },
-    {
-      "title": "US military aircraft leave second UK base",
-      "time": "hace 51 min",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/c32l4lw12z7po?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
-      "time": "hace 1 h",
-      "source": "Ars Technica",
-      "link": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/"
-    },
-    {
-      "title": "Kitchen Gear From Our Place Is Steeply Discounted",
-      "time": "hace 1 h",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/our-place-sale-november-2026/"
-    },
-    {
-      "title": "Nvidia has a Jensen Huang problem—and no obvious successor",
-      "time": "hace 1 h",
-      "source": "Ars Technica",
-      "link": "https://arstechnica.com/gadgets/2026/11/nvidia-has-a-jensen-huang-problem-and-no-obvious-successor/"
-    },
-    {
-      "title": "Anthropic heads for lower than expected $1.3 trillion valuation in stock market debut",
-      "time": "hace 1 h",
+      "title": "Nvidia hires major US law firm to investigate Jensen Huang affair",
+      "time": "hace 6 min",
       "source": "BBC Tech",
-      "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss"
+      "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Por qué México recauda tan pocos impuestos (y cómo financia su creciente Estado de bienestar)",
+      "title": "Best Early Amazon Black Friday Deals (2026)",
+      "time": "hace 9 min",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/amazon-black-friday-november-2026-early-deals/"
+    },
+    {
+      "title": "The VR Disney Plus app on Meta Quest now has 3D movies",
+      "time": "hace 44 min",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies"
+    },
+    {
+      "title": "iFixit's PROLED MacBook Pro Teardown Reveals Logo LEDs",
+      "time": "hace 49 min",
+      "source": "MacRumors",
+      "link": "https://www.macrumors.com/2026/11/10/ifixit-proled-macbook-pro-teardown/"
+    },
+    {
+      "title": "Democrats oppose plan to stack FCC with Republicans, plan probes of Chairman Carr",
+      "time": "hace 56 min",
+      "source": "Ars Technica",
+      "link": "https://arstechnica.com/tech-policy/2026/11/democrats-oppose-plan-to-stack-fcc-with-republicans-plan-probes-of-chairman-carr/"
+    },
+    {
+      "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+      "time": "hace 1 h",
+      "source": "Ars Technica",
+      "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/"
+    },
+    {
+      "title": "Ucrania, Rusia y Estados Unidos empiezan nuevas negociaciones tripartitas en Abu Dabi",
+      "time": "hace 1 h",
+      "source": "France 24 Español",
+      "link": "https://www.france24.com/es/video/20261110-ucrania-rusia-y-estados-unidos-empiezan-nuevas-negociaciones-tripartitas-en-abu-dabi"
+    },
+    {
+      "title": "\"No tengo noticias de mi dinero\": los millones de paraguayos afectados por la crisis del Ueno Bank que reclaman la devolución de sus ahorros",
       "time": "hace 2 h",
       "source": "BBC Mundo",
-      "link": "https://www.bbc.com/mundo/articles/cm4g109r03npo?at_medium=RSS&at_campaign=rss"
+      "link": "https://www.bbc.com/mundo/articles/c977p7pn0m0mo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "AlphaProof Code",
+      "title": "10 Free iPhone Duo Apps Worth Downloading",
+      "time": "hace 2 h",
+      "source": "MacRumors",
+      "link": "https://www.macrumors.com/2026/11/10/free-iphone-duo-apps/"
+    },
+    {
+      "title": "US Army soldier suspected of spying for Russia arrested in UK",
+      "time": "hace 2 h",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Toyota brand Scion is back and it's going to sell a kei truck in America",
       "time": "hace 3 h",
       "source": "Hacker News",
-      "link": "https://deepmind.google/blog/introducing-alphaproof-code/"
+      "link": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/"
     },
     {
-      "title": "Mayoría demócrata en EE. UU. podría dificultar la estrategia de Trump hacia Venezuela",
-      "time": "hace 5 h",
+      "title": "UNAM dispone de 100 mil vacunas gratuitas contra Covid, influenza, sarampión y neumococo",
+      "time": "hace 4 h",
+      "source": "El Universal",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTjliSmxBNDQtZTlpdjN6a294Y1BPZ0pQX19FRFhNVEY2bG41VThSZXpQdFgtWHpiNlJHNUE2X0lYY0l6b21kQUxfeFlfQi1CQkJyWE1oalUxYlJCRG1xZUpiRHdOeGktOWZIRW8wX01mUW0xRkVZWlN0WjNNUHlrLWNnQ3I3d296alEwTV9wenlMSXZ6Q2FKdUVqemxsZGNMQ1F6ZGVRODhWM0loeHFEWi1uQU5xbmIwMXFuSG5YYzlObkJ3V2VyUWN4T203d01vUm9xVEdvczFZNnlucWZfZjJCXzZnOVplWnfSAf4BQVVfeXFMUEdBaGdUQWg5Q0pkYmZ6akhvOUlVbkNIazE3dDBiT3ZCeFUzcWpQQjRObWE2V185bFlCZFdLbmxGby1YWnMxTFNqeGRWODQxNTRNNDQ0OUFzMGtheXhGWUpCRV85bE00M1dOUUJ6ZDY3VlFJU25mbkRmYVFUYmZtTGRLVWRzb19MbHpHMDBuMWtHY0EteE9Ka2p1V0ZSZ1ZSamFrYWZ6MGVPay14OElrNnhkRG1LMzViak5IcWJJRUpjb2VkTVlhckppbWdfeU8zWmNiN3pKZDJacmhnNlB0QmJtbGNCdkNCZWVpSTR1S21sLXE5VVMxUW9RZE1hTmc?oc=5"
+    },
+    {
+      "title": "Hegseth planta cara al intento de destitución y defiende la guerra impulsada contra Irán",
+      "time": "hace 7 h",
       "source": "DW Español",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOWdkV2J0eUJDVUc3Ui16UW1idHYwbEJQbVFfc1J1d3BZN1VsWDdzWGYtYThPQm9hajVLTVllNWhOMUtTclFFeU1FZ0tYZVN1U0RZNFZxc0F2aWRuMUpiSWllWmdCQlUtX1lUcGF1cTFPVzBwd08yR0RDR1N0NnhXZ1pvQVU4T1hNZUJDb0lqcUVUd3pHTjFlRUpQRXkxaHdOWGJ2cDEwalgyNHJqSUlETmRIMnkwblM4R2lyVXRncm9YZ2w4MmluR2FZdVBLQjJnQXhiVGlB0gHWAUFVX3lxTE1LWi1ZdGo1WW5KeFZvbzF5YmVxWXVMSENrS2pqcHN5dTczdVBITW1xQVphZE82bTZFSTNiM0k5aWVTSG9hLXVFM3BwUGZLTU5tTjVVMnBoYkJMUndyYm9rejVGcm0ybWRTOURHYkcxV1EzMDkzaU9xZ3BHNS1JSEM0aEdjSVNTR2NaS2dZMzIxcEg5eS0yUlZJOGpsdHdIV2g4VnBUUHZVa2JkMWYtcHBkQTM2TEVVVmp1Z2UtNkFKcmlPaUxlNWVvU01JMy1vYjRraTd5aXc?oc=5"
-    },
-    {
-      "title": "The Verge’s 2026 holiday gift guide for moms",
-      "time": "hace 15 h",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/gadgets/1021621/best-gifts-for-mom-2026"
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWkp0TmF0ZkZMcVNpc3JmWmFJRUg2VFFtTDNWTk9rd1RjeHdEbktENldjZFVjMG1oSVlNY0ZOdGd3bmVmQWNxRXFrUzQ1bi1mdWJ3eGpWaW9rZEJwQWZzYWI0Z0x4SElDYmxGcnBaMC1OdV9jeWRDejAyTXFveDlUVjFDRWNrTFJaR01odXVIT3N2TVNh0gGUAUFVX3lxTE03alpOUFVvZmFGZkllcHJmOW02cVliejRSenYyay15VTByaFhFZXJ2UXdqbU1BRkp4RUhrZFRTdkNqRHV6ZWc1cDlWX1Y0ck92TWg3RlNVVXBLa1h6SlFJQ3hqYm84QTBNcWp0OENSTHJNZ0lhT0ZSYkY0cnNfRGdjTnFXZGp4cHJmOHdMUWRlQmFoZ0Y?oc=5"
     },
     {
       "title": "Miguel Ángel Almaraz, alcalde de Río Bravo, Tamaulipas, detalló cómo huyó de sus captores",
       "time": "hace 1 d",
       "source": "ADN40",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNaXU5aTY4Ujk4eWNEZlJkSk1fSHFCRmRmN3lUOTJZMmc1dU1tS05JTjZWN193QnBhVDZmaER2RnBiUzdtZGVxcDBrMlJBYkxIVmJEWHU3bDlCdWNxdFpuSTYwa0VRQ1BIZ19hdC1sNTNGRHJ3WTF4MU9mMk41UHNDQ0dhcEZPcHpKSU9mTWdqdHE5N2R5NjhXckpkcnptZTVoNWJpYU81cHE0ejNZREJsc0sxdC1zZnlRUlNfaHpIb1gzRjQxVjdlM1hQb0w0WFU1akVtMWhYM1pSREFoX2hXekZIUEFfbmxjandiM2oxSXhMcEk?oc=5"
-    },
-    {
-      "title": "VIDEO Desfile de modas en la Catedral de Puebla desata polémica",
-      "time": "hace 1 d",
-      "source": "El Universal",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRUNLank1QjdQejk2V1VmM3ZFbzhYZlhhOS1NU0NRcERUaDNJbVN4UVYyekhpWFV0S2dJVTVTeERvOWJwU0oyc3V4ZUo0QVFwZ2dOVG1LakxpSE83b1d3Z3QyVnltS1V3TnZFZVhCd0xMcERwM2ZhTkJyUEN2NzFlTk5oeUNfanV3dlpSbFBZUy15eVdFcjF5SUZiT1RpUDIyQjJhV2ZLWWF3RVhKdm95bEtiTDJTTzd4YUluUWF5aDFKWXVfd1l4ODlVSmhSNVlUTTVGNHNXRXBPZGZXcHFWakdxZVIwQkXSAfsBQVVfeXFMUDlIUk1vTHNrRDdvTHIyOHhCdnZKdVIzZHRWa3d4TjVOVU5DeUxVRU5RRFFiYjFpVmZHUnBNS2h5b0tyanU0VmpUN1BWV1Q5VEFGd0hqTFY3dEJjRWRNTkhVVzdtQmFpNE5rc2MtRXBKVGE4R201LUVwd1FZNG8yc20ycGhuc0xjcG83eEU5SEVWTlc0WDlmUFlLQmtmMUNmdFRid3NXR0RReFprbHhadmtneDFiYVpIa2hoRFI3aDNsb3JRX1VoNGF4TG9tQVVUZlFkNWlTNUp0eHF1clZYc09BY1lvR0NwazlYemdNaXBxeUN4aXRsX0R3ZlU?oc=5"
     }
   ],
-  "updated": "2026-11-10 16:06 UTC",
+  "updated": "2026-11-10 22:51 UTC",
   "failed": []
 }
