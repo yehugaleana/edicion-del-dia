@@ -3,82 +3,82 @@
   "source": "varias fuentes",
   "news": [
     {
+      "title": "The Best Early Black Friday MacBook Air Deal: $200 Off",
+      "time": "hace 8 min",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/early-black-friday-macbook-air-deal/"
+    },
+    {
+      "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+      "time": "hace 1 h",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor"
+    },
+    {
+      "title": "¿Por qué están siendo amenazados con falsos ataques sectores de la cotidianidad de Europa?",
+      "time": "hace 1 h",
+      "source": "France 24 Español",
+      "link": "https://www.france24.com/es/video/20261112-por-qu%C3%A9-est%C3%A1n-siendo-amenazados-con-falsos-ataques-sectores-de-la-cotidianidad-de-europa"
+    },
+    {
+      "title": "Detienen en EU a exfuncionario del gobierno de Durazo en Sonora por desvío de más de 65 mdp",
+      "time": "hace 3 h",
+      "source": "El Universal",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQR3dnLURPcVg3VjUybzJMUnFNYU9ZeGZXbFFkdjd4emlibnFWTmxnMXNJSW9JSUhuQ3JkZWw3a3Y5d1pseGRsQXI4YlNHdTUzRmFKZzRGZTZyc2NZbnVORUJ0VWg2WUxUSk5JbVQyVGpWamJMX1ZodzZjZWN1VXQ2UWlPWTQ4VXUxdEdKTHRWZU0zUkJObjdJZDY3VTZ1LWtDZENLdEs2TlBWVEYxVUFzTWFLLXFocW9lZFlUZUhlN0E2dnRHdUhwa29ZdW1GUGFQb0VQaXVXQThqeHBCaVhCLTZGMNIB9wFBVV95cUxNM2wyQ1ZKTU9pemhjV2RBS01pVHAyU1dfQVI1VHRWWVVzNEV4RUtZSC05LUN5MUJMeWVKX0ZZNXQ1VnlxQ0dYNHM0Ty0xeTJZdS1DVnJYN0JWMlFzWXV5YV9pRnE4blFFVk5CT3hpWGZvMkppOFpRNm8yclNlclJFMy1SM2tKckZ5RnM4ZWZ3c0tmWHk2MndMZXhiSkJveEx6NUo0ejV3NnlHT1hiVmVQOEtBVHczV0EwZmNkd2p3ZmI5LW5jTlI3Y05aZkJTdGxiWUFQQm9MSENBeTZ3N2dtVGlkQl9FUlZXMU4tNW5kczliOW82QjVv?oc=5"
+    },
+    {
+      "title": "Some under-25s should get less benefits, Milburn review to say",
+      "time": "hace 3 h",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "CEO Jensen Huang's job is suddenly on the line at Nvidia",
+      "time": "hace 3 h",
+      "source": "Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/"
+    },
+    {
+      "title": "93% of paint splatters are valid Perl programs (2019)",
+      "time": "hace 4 h",
+      "source": "Hacker News",
+      "link": "https://www.mcmillen.dev/sigbovik/"
+    },
+    {
+      "title": "Apple on Fatal Vehicle Crash Near Apple Park: 'Our Hearts Are Broken'",
+      "time": "hace 5 h",
+      "source": "MacRumors",
+      "link": "https://www.macrumors.com/2026/11/11/apple-statement-on-fatal-crash/"
+    },
+    {
       "title": "Apple Invites App Updated With Two New Features",
-      "time": "hace 2 min",
+      "time": "hace 5 h",
       "source": "MacRumors",
       "link": "https://www.macrumors.com/2026/11/11/apple-invites-gets-two-new-features/"
     },
     {
-      "title": "El 'ministerio del Noviazgo' en Brasil: Lula y su promesa de que todo el mundo va a tener pareja",
-      "time": "hace 8 min",
-      "source": "France 24 Español",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261111-el-ministerio-del-noviazgo-en-brasil-lula-y-su-promesa-de-que-todo-el-mundo-va-a-tener-pareja"
-    },
-    {
-      "title": "Author says there were 'real concerns' about David Walliams within publishing industry",
-      "time": "hace 23 min",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/c95y15830k77o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "T-Mobile illegally imposed 50 GB cap on low-income home Internet plan, NY says",
-      "time": "hace 31 min",
+      "title": "T-Mobile illegally imposed 50GB cap on low-income home Internet plan, NY says",
+      "time": "hace 6 h",
       "source": "Ars Technica",
       "link": "https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/"
     },
     {
-      "title": "Anduril says its first satellite can see adversaries maneuver in orbital night",
-      "time": "hace 41 min",
-      "source": "Ars Technica",
-      "link": "https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/"
-    },
-    {
-      "title": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
-      "time": "hace 1 h",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/"
-    },
-    {
-      "title": "Google Says Gemini App Rolling Out on Apple CarPlay Starting Today",
-      "time": "hace 1 h",
-      "source": "MacRumors",
-      "link": "https://www.macrumors.com/2026/11/11/google-gemini-apple-carplay/"
-    },
-    {
-      "title": "AWS Finally Built Its Own AWS Emulator",
-      "time": "hace 2 h",
-      "source": "Hacker News",
-      "link": "https://github.com/aws/aws-emulator"
-    },
-    {
       "title": "\"En el Vaticano hay una guerra entre dos bandos en la que los abusos sexuales se han convertido en un arma, y eso es suicida\"",
-      "time": "hace 2 h",
+      "time": "hace 8 h",
       "source": "BBC Mundo",
       "link": "https://www.bbc.com/mundo/articles/cm75pk2zx53xo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Loot boxes, influencers, and addictive features face an EU crackdown",
-      "time": "hace 2 h",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection"
-    },
-    {
-      "title": "Sheinbaum pide investigar contratos por 25 mil mdp de Corporativo Kosmos de Landsmanas",
-      "time": "hace 4 h",
-      "source": "El Universal",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOTGYwU2dHYUM0RERfYWdJeTd4UUZ6RUlUWXFnWWJEY1lDNXZsdGY2dTBqZDBXVmVOajlxVTgtTW56VnNNWmhYbDNMcEt0TEdwbWtkTnhGRTI3enhiZTdBb0FZcVJqdTFfX0MySF9NQVEteVZtaXItNlJOX3IxVDd4Q2w3SDgyaUpKRUFSbkdXMmhPMm4tUGVjLWhJaXJEbTk3X0ljUWR3dVlLQldORHczekdpM2ItSFNqUFFxVnlIUlpYNHVKQl9vSDF3RXlMVmRYdUk4bzQ2QVdxbFBNSU9fbTVHdG1hMGNESzQ5dnFRcld0Y1FRaFdR0gGLAkFVX3lxTE5FRDJOZ2pZbGhKSzRXVzJodDh2MmM2akpyLTdVMUNybVBTaGtSWGUyYk9fRzZwVE5FWXNac3BOVGlOaVA4MnZveGJNNkJrRHJfV1Fua2k4aGpaMW9aZFRhOFZEcWdLUmdpNVlsb3ZXUzFHQXBlT3YtQ21MeV9kV00xR2NyYmN2SlYyMHF5OGNvYUdUS2tWUTExeGgtb1VZSjRuMUFMUGlLZHFwZDBZbkl6N056ekhwNmNuU1lzNmxLaFdRN0VzRHFnOHVPVG5hendGVWlMcmhpYUVFWkxuY0tIOUoxSlZnckV6TzJfc0hOWDNpamFxV2RRTWVyc3BXbUJnRHgwdGFVYmQtVQ?oc=5"
+      "title": "Argentina se vuelca con León XIV y rompe todos los récords de asistencia a las misas papales",
+      "time": "hace 12 h",
+      "source": "DW Español",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUU82NFRXSmxkb1NUa3BicEVicm9mNTNncllHR0Q4NnZXVWFhaWpfNUE0akp1eEdiTmV3eVZNNF9vZjNmaWszRjRoRlJmbkNOajc5TEVVNWlHbWJLckg5dG9Vd2Y3dUt2dHBraS1nUk14U3ZkclpSYXZHVzZwRXdWWkNfRTBLUGlnTlhBSzRMeWZ3ZnBkY3M5RElmdmY3UV9FM181SHdhYnNRSDNUVVJ1TEduMGFCNldqODJ1YXU4R3VzRmYxMnfSAcYBQVVfeXFMTXZjamVXZkk5LUszZFp1c2FFTDNjSzIwbDUtNktJTzZ1R1RsZmIyMjZMTmdocEJCeUwtVGRUM2JmMldIVDFGQXNBVnNyS3BsUkhuVFYzZk5pMGZEN3BDMFlzOXNDUHF1NThYeTZIVmg4bXhyT0U5T1FlUUtvTTNFeVhJTnBhV1lHbTUtdi1wcmlMcS04ajM3UTU4SlZCd3loc1cyejAzamlUcHhDSDV1UUJGZWVRdC1laXoteVU2QzNkZnV1Q0tB?oc=5"
     },
     {
       "title": "New Indian mega library rocked by scandal over 'AI-generated books'",
-      "time": "hace 9 h",
+      "time": "hace 15 h",
       "source": "BBC Tech",
       "link": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "México impide paso a nueva caravana migratoria hacia EE.UU.",
-      "time": "hace 16 h",
-      "source": "DW Español",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUDFQZUZkZmRLeUdSTGZ4aG9OOTVrTEhpZURWNlVPeU1LNHlkbzhvd3VzS3NOTHhqclQ5NzkxM1U1eXdvcEtwWlV0NWs0YVJacXVKSVN4TThpSk5nMVl4VTdHV2tENU12UUdnQ3pJcjN2NUdHdDd6NnI1SkZWZVVIYXJ1djRaN2NQUS14SGVORVNjdEtPcksxQnplVdIBmwFBVV95cUxOTTJ3N0g2MlVNNF9OM2kxZTMtN3BXdU9tWDVyUm1NcDdtNTlaYTVmME1PR3RqUDQzM1NZSmY2dTJIdkllMG5xaHprNGxvVThWTGNPWWFYaFRPOGFnMnZQeFBEVlRMOV9VWHVrLXU2cUZEM2NQQXN3ekQwYnU0d3JWUkM0VlQ4VEJRVGMtaURwLWt6VDNxVlNvUXI2SQ?oc=5"
     },
     {
       "title": "Miguel Ángel Almaraz, alcalde de Río Bravo, Tamaulipas, detalló cómo huyó de sus captores",
@@ -87,6 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNaXU5aTY4Ujk4eWNEZlJkSk1fSHFCRmRmN3lUOTJZMmc1dU1tS05JTjZWN193QnBhVDZmaER2RnBiUzdtZGVxcDBrMlJBYkxIVmJEWHU3bDlCdWNxdFpuSTYwa0VRQ1BIZ19hdC1sNTNGRHJ3WTF4MU9mMk41UHNDQ0dhcEZPcHpKSU9mTWdqdHE5N2R5NjhXckpkcnptZTVoNWJpYU81cHE0ejNZREJsc0sxdC1zZnlRUlNfaHpIb1gzRjQxVjdlM1hQb0w0WFU1akVtMWhYM1pSREFoX2hXekZIUEFfbmxjandiM2oxSXhMcEk?oc=5"
     }
   ],
-  "updated": "2026-11-11 21:03 UTC",
+  "updated": "2026-11-12 02:41 UTC",
   "failed": []
 }
