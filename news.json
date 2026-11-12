@@ -3,90 +3,90 @@
   "source": "varias fuentes",
   "news": [
     {
-      "title": "De las finanzas a las sospechas de espionaje: ¿quién es Alice Huang, la mujer en el centro del escándalo de Nvidia?",
-      "time": "hace 5 min",
-      "source": "France 24 Español",
-      "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261112-de-las-finanzas-a-las-sospechas-de-espionaje-qui%C3%A9n-es-alice-huang-la-mujer-en-el-centro-del-esc%C3%A1ndalo-de-nvidia"
-    },
-    {
-      "title": "Best Open Earbuds (2026): Shokz, Bose, Soundcore, and More",
-      "time": "hace 9 min",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/best-open-earbuds/"
-    },
-    {
-      "title": "Review: Apple's M6 iMac is pricey, but it's still a good choice for a clean desk",
-      "time": "hace 10 min",
-      "source": "Ars Technica",
-      "link": "https://arstechnica.com/features/2026/11/review-apples-m6-imac-is-pricey-but-its-still-a-good-choice-for-a-clean-desk/"
-    },
-    {
-      "title": "4 claves del escándalo de los supuestos \"sexocontratos\" por el que se investiga al expresidente de Colombia Gustavo Petro",
+      "title": "Escasez de dermatólogos en Francia: pacientes desesperados por conseguir cita",
       "time": "hace 12 min",
-      "source": "BBC Mundo",
-      "link": "https://www.bbc.com/mundo/articles/cr3wg62qwjz9o?at_medium=RSS&at_campaign=rss"
+      "source": "France 24 Español",
+      "link": "https://www.france24.com/es/programas/francia-en-foco/20261112-escasez-de-dermat%C3%B3logos-en-francia-pacientes-desesperados-por-conseguir-cita"
     },
     {
-      "title": "Some under-25s should get fewer benefits, Milburn review to say",
+      "title": "Apple Continues to Move Up iPhone Duo Delivery Dates",
+      "time": "hace 17 min",
+      "source": "MacRumors",
+      "link": "https://www.macrumors.com/2026/11/12/iphone-duo-delivery-dates-continue-to-move-up/"
+    },
+    {
+      "title": "Here are the 25 original Xbox games you can now play on PC",
       "time": "hace 18 min",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Anthropic IPO",
-      "time": "hace 24 min",
-      "source": "Hacker News",
-      "link": "https://ipo.anthropic.com/us/"
-    },
-    {
-      "title": "Who could replace Jensen Huang as Nvidia's chief executive?",
-      "time": "hace 50 min",
-      "source": "BBC Tech",
-      "link": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Ring confirms its camera drone won’t have manual controls after crashing on CBS News",
-      "time": "hace 59 min",
       "source": "The Verge",
-      "link": "https://www.theverge.com/tech/1031817/ring-drone-cam-manual-flight-controls"
+      "link": "https://www.theverge.com/games/1032321/microsoft-xbox-original-games-pc-backwards-compatibility"
     },
     {
-      "title": "Apple Support Community Deserved a Proper Goodbye",
-      "time": "hace 7 h",
+      "title": "Apple Explains How HomeView Keeps Camera Data Private",
+      "time": "hace 29 min",
       "source": "MacRumors",
-      "link": "https://www.macrumors.com/2026/11/11/apple-support-community-deserved-a-proper-goodbye/"
+      "link": "https://www.macrumors.com/2026/11/12/apple-homeview-secure-exclaves/"
     },
     {
-      "title": "Asesinan a Eduardo Valdovinos, aspirante a coordinador de la 4T en Lázaro Cárdenas, Michoacán",
-      "time": "hace 8 h",
-      "source": "El Universal",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNcWxVa3NreWhWcU9acjZ2M0hyREhONHAtbmpDRE5JS3lHbzF4eENYbWZSWndzQ015a1RDNEZDR0pvdnRxb251QVNRYTViNVk2QjctWTZqRzlDRGNoaEJoaGh3YlM3dHFuWTA0d0VnLXUxVk5FYy1aTV9wOFhPX3ZfbER4c1ZwV0RqbUxLTDUxZlV2M0NzS0pMWkIzUXBzZ1hfcjJ6UG02Z05NZi1rNzl0WXNybHpjc184bWp4NDhWMEMza0R0aVEtR0JyZnZCWHVPLTNNU0l2eTdSdVJYaEpad3UzQWdlcWNRM2tDTWNLZHBIeDZfa1J6aXJzZWx2UVRqeW8xNkxaSldlcnJ0WS1V?oc=5"
+      "title": "Jensen Huang Didn’t Name His Own Replacement as One of Tech’s Most Powerful Women",
+      "time": "hace 43 min",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/jensen-huang-colette-kress-replacement-powerful-women-in-tech/"
     },
     {
-      "title": "Demócratas conquistan Misisipi y amplían mayoría en el Senado de Estados Unidos",
-      "time": "hace 11 h",
-      "source": "DW Español",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWjR4N3NycjZmVmlBdHpZYXEzdUdrRGVmd2FJTFI2b1lvTWV5VlJyY3FMY1FmU1Y5V2lzNEF1MmZOMzcwWU42bUtkVXFBSDVPNzhLNkZqN3IyMGRMcWZhTFBTZXpFTnZBWWJLeDhqSkxFZ0NMYU5TaFJZWVppYUtJaFd0VXU3Sm10YXY5WGswb0hmYklha0xOdUZuaXhpblQ5VHY3R1UwQ2haOHVhdmFJM0J1V0hiZmFjZ3ctSTFrNnZ0dnE1N3fSAcYBQVVfeXFMT2xLbmZZdmVQdjQwNnlxbFlJOGhtRS1UYVJNRWlSU3B1NlhQdUZQTnFPSTgtNVVGbmdtWlBoa2ZnYjhSSzNHM0laNE51bVRzNER1UjIxQXBmUGd4T2ZveHdURlpmNVlIUHNtdWZnRUdSMXNzR2JSaEluNVA3SVJBejB4dnJ0SkkyNGVuelN0bWR3aGI4MFNtRTNKcl9vNmpiVm16U052UmFCcjVraHF0LThLQkRpMGNJdUNubmVBeXJrcE41TEJB?oc=5"
-    },
-    {
-      "title": "CEO Jensen Huang's job is suddenly on the line at Nvidia",
-      "time": "hace 13 h",
+      "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
+      "time": "hace 1 h",
       "source": "Ars Technica",
-      "link": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/"
+      "link": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/"
     },
     {
-      "title": "Apple on Fatal Vehicle Crash Near Apple Park: 'Our Hearts Are Broken'",
-      "time": "hace 14 h",
-      "source": "MacRumors",
-      "link": "https://www.macrumors.com/2026/11/11/apple-statement-on-fatal-crash/"
+      "title": "The Elder Scrolls' most obscure adventure gets a 4K PC makeover",
+      "time": "hace 1 h",
+      "source": "Ars Technica",
+      "link": "https://arstechnica.com/gaming/2026/11/the-elder-scrolls-most-obscure-adventure-gets-a-4k-pc-makeover/"
+    },
+    {
+      "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+      "time": "hace 4 h",
+      "source": "BBC Tech",
+      "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Zoe Kleinman: How AI visionary Jensen Huang was undone by his own bad decisions",
+      "time": "hace 4 h",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "En gráficos: cómo funcionaba Ueno Bank y las razones detrás del colapso que desató una crisis en Paraguay",
+      "time": "hace 5 h",
+      "source": "BBC Mundo",
+      "link": "https://www.bbc.com/mundo/articles/cm4gneqkg3dno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Jensen Huang abandona Nvidia en plena polémica y desata incertidumbre sobre el futuro de la IA",
+      "time": "hace 7 h",
+      "source": "DW Español",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMEdwVi1oRlJzZTU0NGF1TGhWdEVQV3d2OGJidXdPYlMzR0Y3Y0RmZ0taeEZaMUNzNHhmRWV5dmo4NTNydG5wUmNHckF4MEpZNU1XLUpuSjY0bkV5dUlhOS1CNjZYQWxLc25MSWFYb2RpT2FXcEthS1hrdjRrbGd3Qmhib3U2Vko3VEZUallNNmhwd9IBkgFBVV95cUxNaXJrbXR4VHVzaGl5djg5a0lEWDNTUzNWX2pGNDlCZHZ3ZGNmaHp2am9DTldMUTVXZzRRMmlmaENwTDdfUkdZbTJtZDg2czJXaENZWkthS2VfbHpJb2JXNXp1aThNVS12eEMxWmdGeXo2QzhUR2RZRGZZckFKb1BkNHlNb21jYWNUOVVVMDVmeDJYUQ?oc=5"
+    },
+    {
+      "title": "Jensen Huang resigns",
+      "time": "hace 7 h",
+      "source": "Hacker News",
+      "link": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f"
+    },
+    {
+      "title": "Se han pagado 1.2 mil mdd por la cancelación del aeropuerto de Texcoco",
+      "time": "hace 10 h",
+      "source": "El Universal",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYU9vSC1jbjNaS2JSU1NFaDJpbWNzMUxmcFZPam1Cdkc5NkxGR29QUUphWDNab2RyWTJRTEpHOFFkamttT1FSaXF0MVZtQW4za2g1dHJ3SFlwRmFyUTdSZ3JCZmoyNXYtWlZobE1KOFdUMDVLTmthR2xoUmZ2Z2k3UHVjQ2VTQnl1RUt1TlVDcEJlelpQV25FaUV3RnV0UGZudDdwV2tMWnNHVVZlRGfSAcIBQVVfeXFMUExELUh4dGNhOVhBVEUtU2R6Z1IxN0lNdDE4OEhZLTdGa1ZUUGhQYmFxWnRDdW5ZOVA3RlA0ZmkzbmZTYkUwRi1Mcm9wN1RqZ2ZwSFRXWHdaa2R1T2htVEhOZVV5anhOdndIRjVvYjRlWm13UnhtZ0Z3S0s0bUtzOUZhUV9RaV9yM3JJTjRqTWNzRXlwSURzN3FxWDdTajdfODFyM3dUVTJRemRFNjRKMGItS1lRem5OeWhmUW1hWklLVHc?oc=5"
     },
     {
       "title": "Miguel Ángel Almaraz, alcalde de Río Bravo, Tamaulipas, detalló cómo huyó de sus captores",
-      "time": "hace 2 d",
+      "time": "hace 3 d",
       "source": "ADN40",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNaXU5aTY4Ujk4eWNEZlJkSk1fSHFCRmRmN3lUOTJZMmc1dU1tS05JTjZWN193QnBhVDZmaER2RnBiUzdtZGVxcDBrMlJBYkxIVmJEWHU3bDlCdWNxdFpuSTYwa0VRQ1BIZ19hdC1sNTNGRHJ3WTF4MU9mMk41UHNDQ0dhcEZPcHpKSU9mTWdqdHE5N2R5NjhXckpkcnptZTVoNWJpYU81cHE0ejNZREJsc0sxdC1zZnlRUlNfaHpIb1gzRjQxVjdlM1hQb0w0WFU1akVtMWhYM1pSREFoX2hXekZIUEFfbmxjandiM2oxSXhMcEk?oc=5"
     }
   ],
-  "updated": "2026-11-12 12:11 UTC",
+  "updated": "2026-11-12 21:18 UTC",
   "failed": []
 }
