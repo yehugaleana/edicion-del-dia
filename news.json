@@ -3,90 +3,90 @@
   "source": "varias fuentes",
   "news": [
     {
-      "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
-      "time": "hace 29 min",
-      "source": "BBC Tech",
-      "link": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "España entra en campaña: ¿llega el final de la era Pedro Sánchez?",
-      "time": "hace 47 min",
-      "source": "France 24 Español",
-      "link": "https://www.france24.com/es/europa/20261113-espa%C3%B1a-entra-en-campa%C3%B1a-llega-el-final-de-la-era-pedro-s%C3%A1nchez"
-    },
-    {
-      "title": "‘Bring Back THE Boss’: Nvidia Employees Petition for Jensen Huang’s Return",
-      "time": "hace 1 h",
+      "title": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
+      "time": "hace 6 min",
       "source": "Wired",
-      "link": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/"
+      "link": "https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/"
+    },
+    {
+      "title": "What we know so far about the Microsoft outage",
+      "time": "hace 8 min",
+      "source": "BBC Tech",
+      "link": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "What we know about the global outage",
+      "time": "hace 58 min",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Apple Launches Two Products Today",
+      "time": "hace 1 h",
+      "source": "MacRumors",
+      "link": "https://www.macrumors.com/2026/11/13/apple-launches-two-products-today/"
+    },
+    {
+      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+      "time": "hace 1 h",
+      "source": "Hacker News",
+      "link": "https://status.claude.com/incidents/nn11wk485zfn"
+    },
+    {
+      "title": "Una falla en Microsoft deja fuera de servicio en todo el mundo el correo electrónico de Outlook y otras plataformas",
+      "time": "hace 4 h",
+      "source": "BBC Mundo",
+      "link": "https://www.bbc.com/mundo/articles/cm20v6ed340wo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Informe desde Antigua: vuelven a Guatemala restos del nobel de literatura Miguel Ángel Asturias",
+      "time": "hace 5 h",
+      "source": "France 24 Español",
+      "link": "https://www.france24.com/es/video/20261113-informe-desde-antigua-vuelven-a-guatemala-restos-del-nobel-de-literatura-miguel-%C3%A1ngel-asturias"
     },
     {
       "title": "Donald Trump really wants Tim Cook to run Nvidia",
-      "time": "hace 1 h",
+      "time": "hace 11 h",
       "source": "The Verge",
       "link": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang"
     },
     {
       "title": "Hands-On With the New Apple TV 4K and Siri AI",
-      "time": "hace 1 h",
+      "time": "hace 11 h",
       "source": "MacRumors",
       "link": "https://www.macrumors.com/2026/11/12/apple-tv-4k-siri-hands-on/"
     },
     {
-      "title": "Siri AI Coming to Older Apple TV 4K Models in tvOS 27.2.1",
-      "time": "hace 2 h",
-      "source": "MacRumors",
-      "link": "https://www.macrumors.com/2026/11/12/siri-ai-tvos-27-2-1/"
-    },
-    {
-      "title": "En enfrentamiento abaten a dos criminales en Ocotlán, Jalisco; una mujer fue herida en el fuego cruzado",
-      "time": "hace 2 h",
-      "source": "El Universal",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdEM5SEt2R0M2QTFrcC13N3FVV2EyOHNqZFVfMFl5TFNPbDJYXzFJWlNXdGpJWUU2bTFtaHdtNjl2NzJuM0JOMllkZW55YWlKQUJodW9HRFJmaVAwU0lLM3pLZ29LeWNMclJIWUxkRFNmYk1TalNMWXJGNlJBWC1IX3VwcU5FYk5seWFPRF9WZEVaUy1mbHdUZktIZlJUZldvS3Bvc2ZyNU4wc0pUUTB2Y05GM0hJdlBjSHltQnNveDZTTTNRak1TN092NjBFWkpMTlRTSTZZdw?oc=5"
-    },
-    {
-      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-      "time": "hace 2 h",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "In reversal, American Cancer Society urges prostate cancer tests for all men",
-      "time": "hace 3 h",
+      "title": "In reversal, American Cancer Society urges routine prostate cancer screening",
+      "time": "hace 12 h",
       "source": "Ars Technica",
       "link": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/"
     },
     {
       "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-      "time": "hace 3 h",
+      "time": "hace 13 h",
       "source": "Ars Technica",
       "link": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/"
     },
     {
-      "title": "En gráficos: cómo funcionaba Ueno Bank y las razones detrás del colapso que desató una crisis en Paraguay",
-      "time": "hace 10 h",
-      "source": "BBC Mundo",
-      "link": "https://www.bbc.com/mundo/articles/cm4gneqkg3dno?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Jensen Huang abandona Nvidia en plena polémica y desata incertidumbre sobre el futuro de la IA",
-      "time": "hace 11 h",
+      "title": "Putin no hará concesiones para poner fin a la guerra rusa en Ucrania",
+      "time": "hace 14 h",
       "source": "DW Español",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMEdwVi1oRlJzZTU0NGF1TGhWdEVQV3d2OGJidXdPYlMzR0Y3Y0RmZ0taeEZaMUNzNHhmRWV5dmo4NTNydG5wUmNHckF4MEpZNU1XLUpuSjY0bkV5dUlhOS1CNjZYQWxLc25MSWFYb2RpT2FXcEthS1hrdjRrbGd3Qmhib3U2Vko3VEZUallNNmhwd9IBkgFBVV95cUxNaXJrbXR4VHVzaGl5djg5a0lEWDNTUzNWX2pGNDlCZHZ3ZGNmaHp2am9DTldMUTVXZzRRMmlmaENwTDdfUkdZbTJtZDg2czJXaENZWkthS2VfbHpJb2JXNXp1aThNVS12eEMxWmdGeXo2QzhUR2RZRGZZckFKb1BkNHlNb21jYWNUOVVVMDVmeDJYUQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRHVidzM1Y2Vsc09UMW9iRVNoREF4eTFIWGYxSGZ1MFk2akIwTUM5Wm9vd1JTZUpaV1JBbWZValU0eWVDUjZaU0tJRmZsZE9uYTZ1MFFkS0VLV1hIaVRkR0E5QXFMdTBWdGtaLVZSb0Z4NXpBWWtzZFUtWEtvd0liWVh3aEFFR1d0cGZFbExRa29fZ3pZb0VtLXFaVmF4aU9tV2g3MlY5V1ZpQdIBqgFBVV95cUxOTWRYUTk3ZWdYNXVfY3BQVGZ0aDFPSkxpMHRjdmdLelZEVTg4N3RsbDFnZm43VzlESEdrY2I0Z3EyYVpoRk5LWG5Ic1hDYUVUYXZ4R3A0SUo5ZjRveTI4NUJ5Mm0xamNOOEUtd3lCN2RpYWJOS0tPYk9RMkN6ZEtYOHl4blJadThyZEx2cXljQW5QczU2TlBVZTFRSkF6LVB3eWxRRzlwdTFidw?oc=5"
     },
     {
-      "title": "Jensen Huang resigns",
-      "time": "hace 12 h",
-      "source": "Hacker News",
-      "link": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f"
-    },
-    {
-      "title": "Miguel Ángel Almaraz, alcalde de Río Bravo, Tamaulipas, detalló cómo huyó de sus captores",
-      "time": "hace 3 d",
+      "title": "Suspenden clases por cortes de agua en Guadalajara: Estos son los alumnos que se quedan en casa",
+      "time": "hace 15 h",
       "source": "ADN40",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNaXU5aTY4Ujk4eWNEZlJkSk1fSHFCRmRmN3lUOTJZMmc1dU1tS05JTjZWN193QnBhVDZmaER2RnBiUzdtZGVxcDBrMlJBYkxIVmJEWHU3bDlCdWNxdFpuSTYwa0VRQ1BIZ19hdC1sNTNGRHJ3WTF4MU9mMk41UHNDQ0dhcEZPcHpKSU9mTWdqdHE5N2R5NjhXckpkcnptZTVoNWJpYU81cHE0ejNZREJsc0sxdC1zZnlRUlNfaHpIb1gzRjQxVjdlM1hQb0w0WFU1akVtMWhYM1pSREFoX2hXekZIUEFfbmxjandiM2oxSXhMcEk?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNb1Z2dTJQcUZvVWV0TGV4UG1xd3FCWTBMa1lEY3VBUFRsWEJJUFg5QVJSN1FSNFdlUE1mNmlkSzZZWmU4aHFBWmx6d1NuVEdWV0hXMm9zUEptS1dBLWRWUzZ2MC1NZHJhbDZKRjhqSjhtekVLTEtqSVlRNlN5UTVvdlEzbVM4Ylp4RHBUSFN6VXpnTmZxdEZEUjJlXy1ZemJpaFdkbnA5aF91d0pySXRwZ3ZSUzBxeFBHaWttWmVOQkFwdEVOakdhMFhkZTJTRlk?oc=5"
+    },
+    {
+      "title": "Se han pagado 1.2 mil mdd por la cancelación del aeropuerto de Texcoco",
+      "time": "hace 1 d",
+      "source": "El Universal",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYU9vSC1jbjNaS2JSU1NFaDJpbWNzMUxmcFZPam1Cdkc5NkxGR29QUUphWDNab2RyWTJRTEpHOFFkamttT1FSaXF0MVZtQW4za2g1dHJ3SFlwRmFyUTdSZ3JCZmoyNXYtWlZobE1KOFdUMDVLTmthR2xoUmZ2Z2k3UHVjQ2VTQnl1RUt1TlVDcEJlelpQV25FaUV3RnV0UGZudDdwV2tMWnNHVVZlRGfSAcIBQVVfeXFMUExELUh4dGNhOVhBVEUtU2R6Z1IxN0lNdDE4OEhZLTdGa1ZUUGhQYmFxWnRDdW5ZOVA3RlA0ZmkzbmZTYkUwRi1Mcm9wN1RqZ2ZwSFRXWHdaa2R1T2htVEhOZVV5anhOdndIRjVvYjRlWm13UnhtZ0Z3S0s0bUtzOUZhUV9RaV9yM3JJTjRqTWNzRXlwSURzN3FxWDdTajdfODFyM3dUVTJRemRFNjRKMGItS1lRem5OeWhmUW1hWklLVHc?oc=5"
     }
   ],
-  "updated": "2026-11-13 02:23 UTC",
+  "updated": "2026-11-13 11:51 UTC",
   "failed": []
 }
