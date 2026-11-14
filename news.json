@@ -3,80 +3,80 @@
   "source": "varias fuentes",
   "news": [
     {
-      "title": "What we know about the US ground stop and what to do if you're affected",
-      "time": "hace 54 min",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss"
+      "title": "Zelenski denuncia presiones de EE. UU. para ceder el Donbass a cambio de entrar en la OTAN",
+      "time": "hace 29 min",
+      "source": "France 24 Español",
+      "link": "https://www.france24.com/es/europa/20261114-zelenski-denuncia-presiones-de-ee-uu-para-ceder-el-donbass-a-cambio-de-entrar-en-la-otan"
     },
     {
-      "title": "Outlook Went Down? Microsoft May Owe You Money",
-      "time": "hace 1 h",
+      "title": "PyPI's redesigned project pages with clearer security signals are now live",
+      "time": "hace 41 min",
+      "source": "Hacker News",
+      "link": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/"
+    },
+    {
+      "title": "Apple Black Friday Starts Early: Save on Apple Watch, MacBook Air, and More",
+      "time": "hace 57 min",
+      "source": "MacRumors",
+      "link": "https://www.macrumors.com/2026/11/14/early-apple-black-friday-deals-2/"
+    },
+    {
+      "title": "Here are our favorite deals from REI’s giant Holiday Sale",
+      "time": "hace 2 h",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026"
+    },
+    {
+      "title": "Top Stories: Apple's New Software Approach, iPhone Duo-Optimized Apps, and More",
+      "time": "hace 2 h",
+      "source": "MacRumors",
+      "link": "https://www.macrumors.com/2026/11/14/top-stories-apple-new-software-approach/"
+    },
+    {
+      "title": "Young people should have legal guarantee of job or training, Milburn tells BBC",
+      "time": "hace 2 h",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Beware the New AI-Fueled Ransomware Boom",
+      "time": "hace 3 h",
       "source": "Wired",
-      "link": "https://www.wired.com/story/outlook-went-down-microsoft-may-owe-you-money/"
+      "link": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/"
+    },
+    {
+      "title": "James Webb telescope finds ice older than the star it orbits",
+      "time": "hace 4 h",
+      "source": "Ars Technica",
+      "link": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/"
+    },
+    {
+      "title": "Winemakers are learning that conservation can be good for business",
+      "time": "hace 4 h",
+      "source": "Ars Technica",
+      "link": "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/"
+    },
+    {
+      "title": "Estados Unidos propuso que Ucrania ceda territorio a Rusia a cambio de su adhesión a la OTAN",
+      "time": "hace 4 h",
+      "source": "DW Español",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUFUzMGtrY09BeDNEZWtVVHU5bHBLak1xZFYteURHdkJUbVdXaXNaY3BsZG4ta0t6b3pCVUNCR2poUVhkVmxmQ01iSmxISGYyV0NzeWtFdkVDZlhuSGhRWVZfZTBiNjBab1dpWW1BX1VhRUJTbk1VcGxXOVU1NU82bWtfTUdaV3kzcmhwUXYtUmV4WTVXX2JRTDRORFBLRHloUW9UbDN4LWZxUkdEWEM0WksxMkphcmJfRzBFM0FwOFpFSWFXUlJCMVl4UmNDY1hsZWdyUkQzMXFmZ9IB2gFBVV95cUxOcXdDcXhlZ3htS3VocFdGaTRkdU1tRXR1UUowbkhQRjh0aUYyd2N3MG5aMDZGTWZrR05RSEFGYU93bm5UelB0WjBwOW4xVW9DTlBFRGM4OU82VjdndXZNUjBsd0VjQ3hZUWhwNGFNbncxcEhFbkx4ZEtXWXQxcDZBSUQwc0p4djFPcHNoeUQ4SWVkZUE3VTEzUi1LcEpsX3RDd0hZcTdfemtub3lCWWhyZjBDMW4xN0JpZFBYSXQ0UnhTdnNNUEhBQUxvUTI0M0xUMTJRWTg5WVRUZw?oc=5"
+    },
+    {
+      "title": "Qué se sabe sobre la suspensión de vuelos en EE.UU. más grande desde el 11S",
+      "time": "hace 6 h",
+      "source": "BBC Mundo",
+      "link": "https://www.bbc.com/mundo/articles/c5n4e274kdlro?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Microsoft says services fully restored after day-long global outage",
-      "time": "hace 1 h",
+      "time": "hace 9 h",
       "source": "BBC Tech",
       "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Miles de vuelos afectados en EE.UU. por problema en centros de control",
-      "time": "hace 2 h",
-      "source": "DW Español",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRkktWW9UYjFrSUFGTXR4eUZsbUg2N1hPNFBjREpwRkFYcVdJRVVOWGFvMHZDcWg4YndrZ0U1WXVjRi1nN2lTdlU4Y0swTkVyc0dycjZUckhmVnE3eTdSMlNSdlZOdldDb2hWQm1iYi1uOFF1N3gwaWpXaHgybGZWTlhRYjUzYjJrejJxTGhOZE8teUp5TVhaVTVQNGRxd1dhSF85am9wX2wxSnV3Tk9lQtIBsAFBVV95cUxQdFhvYkhTcXBpc2JQZE9JV21sR19LUkt0NXFtZ3psV0k1OFNxUFg5eExWMnl1Ykk1MFRHV1BMMms0N2p3RVNBMVQyYUtHOHFJVUJsNFphbU1sNFFrMjBYeUlQYjVhMklZNEIwUjdtYWFibS01Y2plUl9tU05mNG5XbGoxZElmdFFDNzVLb1hHZ2RSako0MlQtcEJIVm5CeEctYVVHd0lXd3V6SnREU194Xw?oc=5"
-    },
-    {
-      "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
-      "time": "hace 2 h",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/news/1033489/faa-ground-stop"
-    },
-    {
-      "title": "Autorizan de nuevo el despegue de aviones en EE.UU. tras la falla que obligó a suspender durante horas los vuelos en todo el país",
-      "time": "hace 3 h",
-      "source": "BBC Mundo",
-      "link": "https://www.bbc.com/mundo/articles/crgqx8jpw3jvo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Colombia: el Fondo Milagro y la reconstrucción del terremoto ponen presión a De la Espriella",
-      "time": "hace 5 h",
-      "source": "France 24 Español",
-      "link": "https://www.france24.com/es/video/20261114-colombia-el-fondo-milagro-y-la-reconstrucci%C3%B3n-del-terremoto-ponen-presi%C3%B3n-a-de-la-espriella"
-    },
-    {
-      "title": "Ggml v1.0.0",
-      "time": "hace 6 h",
-      "source": "Hacker News",
-      "link": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0"
-    },
-    {
-      "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
-      "time": "hace 7 h",
-      "source": "Ars Technica",
-      "link": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/"
-    },
-    {
-      "title": "FAA has lifted its third-ever nationwide ground stop",
-      "time": "hace 9 h",
-      "source": "Ars Technica",
-      "link": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/"
-    },
-    {
-      "title": "HomeView Tidbits: Mirror, Sleep Timer, and Other Details",
-      "time": "hace 10 h",
-      "source": "MacRumors",
-      "link": "https://www.macrumors.com/2026/11/13/homeview-tidbits-2/"
-    },
-    {
-      "title": "Siri AI Still Not Enabled on HomePod Mini 2 With Latest Software Update",
-      "time": "hace 12 h",
-      "source": "MacRumors",
-      "link": "https://www.macrumors.com/2026/11/13/homepod-mini-2-still-lacks-siri-ai/"
-    },
-    {
       "title": "UIF permite a Rocha Moya acceso parcial a sus cuentas por orden de Tribunal",
-      "time": "hace 16 h",
+      "time": "hace 23 h",
       "source": "El Universal",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQYWhFb05QSGlMZUJ6LUFfd3FwMkk2LWZJLS1aRHNESU16ZDA4dUM5LUpCdW5mRFVWRTdpMzZwWlhydWVFWjdmUTdYZU1YN09KNTQ4Zm45elY0M3hSRkR1c21VTHZVY0kxYUh3Q1UxUndkQno1bS1YRV90Y2xmcG1jb2dILTV0Q050SlQ4cmRvNTlFZzhHUmUyUTc0V2Fwb3N2RFlQSnNvM3RaUUpaOHh0MjFxYUd6R0NId1FCN3FYQ25jbm9LZEFBa0g4QlJ4RXc2QjFSNTdUakw1TjdPSGJQb1hLMlRHMnV50gH8AUFVX3lxTE1Ka3NIeG5pWnZXamtnN182c3JiNkRFLWVjQUVzRzdNY090QjVVQld3UGYzOFE2QWhEaUR4R01oZ3h1ZjBUVEp1aGtWT3oxNXZfWFJ0MTJhN0l4RFR6b3VtUnFxZDdGN2xRX3F4a2sxWHFoMkdXdFg4dlVLcUVnM0E3aHZBeFFHN2ROSkNwNVYxVGllQ3ZHVHZUZVNLR1h1XzdfTk0tdmhuejF3bTcwcWJ4VTJWbFVJczZnak90QXlDOXdhUjdCUFNZam9jWG1XV3M3YmxkMVpRN1dHclNFRjk2ZTBhejBQbFE2Tmk0X2kzaTFodVFpcEtvdE41Qg?oc=5"
     },
@@ -87,6 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNb1Z2dTJQcUZvVWV0TGV4UG1xd3FCWTBMa1lEY3VBUFRsWEJJUFg5QVJSN1FSNFdlUE1mNmlkSzZZWmU4aHFBWmx6d1NuVEdWV0hXMm9zUEptS1dBLWRWUzZ2MC1NZHJhbDZKRjhqSjhtekVLTEtqSVlRNlN5UTVvdlEzbVM4Ylp4RHBUSFN6VXpnTmZxdEZEUjJlXy1ZemJpaFdkbnA5aF91d0pySXRwZ3ZSUzBxeFBHaWttWmVOQkFwdEVOakdhMFhkZTJTRlk?oc=5"
     }
   ],
-  "updated": "2026-11-14 08:37 UTC",
+  "updated": "2026-11-14 16:22 UTC",
   "failed": []
 }
