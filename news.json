@@ -3,90 +3,90 @@
   "source": "varias fuentes",
   "news": [
     {
-      "title": "Apple TV is getting video podcasts you can watch for free",
-      "time": "hace 4 min",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/entertainment/1034168/apple-tv-video-podcasts"
-    },
-    {
-      "title": "Adobe's Black Friday Sale Takes 57% Off Creative Cloud Pro for Your First Year",
-      "time": "hace 4 min",
-      "source": "MacRumors",
-      "link": "https://www.macrumors.com/2026/11/16/adobes-black-friday-sale-2026/"
-    },
-    {
-      "title": "Apple's New HomeView Smart Home Hub Has Some Issues, Say Owners",
-      "time": "hace 17 min",
-      "source": "MacRumors",
-      "link": "https://www.macrumors.com/2026/11/16/apple-homeview-smart-home-hub-has-some-issues/"
-    },
-    {
-      "title": "Lula y Sheinbaum frente a la ola de derecha en América Latina: ¿cuánto resisten?",
-      "time": "hace 18 min",
+      "title": "Macron defiende que ha hecho \"todo lo posible\" por Francia a pesar de algunos \"errores\"",
+      "time": "hace 20 min",
       "source": "France 24 Español",
-      "link": "https://www.france24.com/es/programas/en-primera-plana/20261116-lula-y-sheinbaum-frente-a-la-ola-de-derecha-en-am%C3%A9rica-latina-cu%C3%A1nto-resisten"
+      "link": "https://www.france24.com/es/francia/20261116-macron-defiende-que-ha-hecho-todo-lo-posible-por-francia-a-pesar-de-algunos-errores"
     },
     {
-      "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
-      "time": "hace 43 min",
+      "title": "Hacker behind 2022 GTA VI leaks pleads guilty",
+      "time": "hace 22 min",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj"
+    },
+    {
+      "title": "iPhone Duo Orders Will Now Arrive Before the Holidays",
+      "time": "hace 28 min",
+      "source": "MacRumors",
+      "link": "https://www.macrumors.com/2026/11/16/iphone-duo-orders-early-arrival/"
+    },
+    {
+      "title": "Hands-On With the iPhone Duo's New Face Unlock",
+      "time": "hace 31 min",
+      "source": "MacRumors",
+      "link": "https://www.macrumors.com/2026/11/16/iphone-duo-face-unlock-hands-on/"
+    },
+    {
+      "title": "The AI start-ups fixing India's broken roads and messy land records",
+      "time": "hace 32 min",
+      "source": "BBC Tech",
+      "link": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+      "time": "hace 1 h",
       "source": "Ars Technica",
-      "link": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/"
+      "link": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/"
     },
     {
-      "title": "Mercedes' clever new driving assist handles complex traffic like a champ",
-      "time": "hace 50 min",
-      "source": "Ars Technica",
-      "link": "https://arstechnica.com/cars/2026/11/mercedes-clever-new-driving-assist-handles-complex-traffic-like-a-champ/"
-    },
-    {
-      "title": "What the fuck is w2rt6byl5nf1opmc-a.com?",
-      "time": "hace 58 min",
-      "source": "Hacker News",
-      "link": "https://jack.cab/blog/siterate"
-    },
-    {
-      "title": "Russell Brand prison message 'appalling' and being investigated, No 10 says",
+      "title": "'Complete system reset' needed to get 440,000 young people into work, says major review",
       "time": "hace 1 h",
       "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/cm9d7pe8y559o?at_medium=RSS&at_campaign=rss"
+      "link": "https://www.bbc.co.uk/news/articles/c38xzy980924o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "GTA 6 hacker pleads guilty after release from secure hospital",
-      "time": "hace 1 h",
-      "source": "BBC Tech",
-      "link": "https://www.bbc.co.uk/news/articles/cq99exy89dngo?at_medium=RSS&at_campaign=rss"
+      "title": "Three small failures combined to take down Microsoft 365",
+      "time": "hace 2 h",
+      "source": "Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/"
     },
     {
-      "title": "Best Digital Photo Frames (2026): Aura, Skylight, Amazon",
+      "title": "The Bank Outage May Have Nothing to Do With Your Bank",
       "time": "hace 2 h",
       "source": "Wired",
-      "link": "https://www.wired.com/story/best-digital-photo-frames/"
+      "link": "https://www.wired.com/story/jpmorganchase-bank-outage-oh-come-on/"
     },
     {
-      "title": "\"Les molesta compartir el aire que respiran conmigo\": cómo el auge de la ultraderecha en Alemania está afectando a los migrantes latinoamericanos",
-      "time": "hace 10 h",
+      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+      "time": "hace 3 h",
+      "source": "Hacker News",
+      "link": "https://www.cs.cmu.edu/learn/"
+    },
+    {
+      "title": "Qué tan poderosas son las pandillas a las que se enfrenta Bukele en Haití",
+      "time": "hace 4 h",
       "source": "BBC Mundo",
-      "link": "https://www.bbc.com/mundo/articles/c95yn80g6l72o?at_medium=RSS&at_campaign=rss"
+      "link": "https://www.bbc.com/mundo/watch/cxj05r723gpjo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Comando armado secuestra a cinco hombres en Tecate, Baja California",
-      "time": "hace 13 h",
+      "title": "¿Cuántos mexicanos han salido de la pobreza desde el gobierno de AMLO? Esto dice el Banco Mundial",
+      "time": "hace 8 h",
       "source": "El Universal",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNclVFbkk2QjR6T3pNNXJQNTlhN3RHNjR2TU5HdzlJSThZWTBqa1FQNmZmeUc1RWV0TkRKWm1ZNTRQZXdUcU1MOGp5anNZd0xQM0Q0TXBlUGVSaUo5dHpKTG5zMDk1dGFqSHVXZFdtNk1mcHU4Q1JTZzFsczlDWkFJd2RkWU1xMERDX3pkUGE1bFV1ZXpYWVJfZFQ5ek9hdEpJZnRaU0h5QW1kMC1BUnNjblVxNkRaT2d3Ujlsb05BLXVJNUdFa01rcDNROXpoRzRtdDFlaUhEUXQ5MWhwSGtSQzlZT1RBLWltcHc0X21vclJiTXFCYXRIek9RUElsQnJWQnV1TlU3UjVfWVdW0gGgAkFVX3lxTE9QZ08zYWdLV1QwbGZUa1dGNGNiTlF0dFBpVWRFWnV4RjhKVWFSVGJ2Y2t0OHl3bURuYjlqckR2TVhUbWpTaEhleDB1U0VwdmRXVXVhaFRLZms4ZFhnN196a3g2blR1enVtajJHUldaMmNvckRzdnQ5MGx4ZHpMTVRJeDFPZ0poZGVta2RJdlRVaS1GbjEtQ0Nia01sQzktSkIzWldoLUIyU2phNXpsRVhwaVBlQWxDZ2JheHlpTFkxOHBWMUhTa1M3ZG1SQXN5Vlotb2xnNnRNcGp1clZ1bjJzdUdWQ1pJazltdEU4aDlUTEZWUnVHYm5SejBwcGc1ZFV6eWx6VXV2Q0YyazZmOTNNMGdGZUZObHpSM1Rzbm1KaQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVjVXczdBTEVBcm1wOXp4Nzlwd0xXTGFCYkxZOEdvVmlHSElhWXFMTXg1LWdVbjdlU1paanFGdVB4a28wLTJpWDhFVWR1cWY4T1AxU016QWlidkRncm9TNnN5NnZNSXRZUzFrdTZhRFhMX3RVZmdqQ1lrREVBSl82LThCRDBaWl9tZGlrQlhkX2h1THdDaXpPYzlqMlZzWWYxdUlRYUxhc2ZsMFROTzhPYnNTVU9QRkhfZGVLYkt5bW9MRGs2bFppbm1BMW5SVnPSAeMBQVVfeXFMTkRVVW1LajRWeDgwOWtMdXA4V2Y4cW1BWEEwNHhWcThLRUcydS1MZHowTi1JWU9tNE5ZUVFmUUlQYUl2ZzFpZkxheWxFTWFRa1ZCOTJKTGE1c19DZEd6em91d25BdWtVeEdPS0FhaDAtY24xV200MlJfOFVDcC1BX1Y1a0NVb1I0M19Ra2JyZnJtSVdDT3Q4WXgzZlJvTFBYc0lfbUkzbWtPcGx4djY1R3Rsa2JMZnJOVjlLMkhXTEI4cDNoRXBzMl8wLWYtX29oUmowQzZ0Uk9URTRFaGUxUHphVkk?oc=5"
     },
     {
       "title": "A los 80 años muere el capo mexicano Félix Gallardo, fundador del Cartel de Guadalajara",
-      "time": "hace 15 h",
+      "time": "hace 1 d",
       "source": "DW Español",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxON0pOR044bTRYTENlTFdRdlRMU1F6NlF5bXZ2UlJCdGtjSUpiWWpXUFFTREdJNktDaHNLT1NqenJNTmw0eXl2QU5zSXB5N3hFX1dtQTVpaTJKNlUzMFV1eXBJR20xbG1tV3RhcUZCNUNJZjVwV3JIRFVNTFY4Y3lkdVc0dUxPSjBNZWRLeVpfVVYyNGJUNkRkZUpPWHFjaEMxNnpwR3BhZkpXUU81OTdvR2NDMHR4STRrbVRV0gG7AUFVX3lxTE9HLUJJUjM3MHMxcUtRUnlCOTBOb242Z0ttMmt5ZTJlQnc0dEZ0aDhMRUxUYUdsZ3FZUjVSeTkzdUVZWTlpR1ZReDBWc0YwRXA0dW1SRkhvLVZrWUNXVnZjSF9QYU1odnlFcDhrTHNKS3ZFUWtnTmw1RFpwYmM0TW90enZxemh6a0VIUTFxMGpNM0c2T0U5dGlmVWE4VEtWc3hhZW5zNDVHZHctc0pyRE43aTBHNC1DcVRCR1U?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxON0pOR044bTRYTENlTFdRdlRMU1F6NlF5bXZ2UlJCdGtjSUpiWWpXUFFTREdJNktDaHNLT1NqenJNTmw0eXl2QU5zSXB5N3hFX1dtQTVpaTJKNlUzMFV1eXBJR20xbG1tV3RhcUZCNUNJZjVwV3JIRFVNTFY4Y3lkdVc0dUxPSjBNZWRLeVpfVVYyNGJUNkRkZUpPWHFjaEMxNnpwR3BhZkpXUU81OTdvR2NDMHR4STRrbVRV?oc=5"
     },
     {
-      "title": "¡No guardes la cobija! Frente frío 6 mantiene el frío en todo México; clima hoy 15 de noviembre",
-      "time": "hace 1 d",
+      "title": "¡¿Una nave extraterrestre?! Captan supuesto OVNI en Querétaro y sorprende a todos.",
+      "time": "hace 2 d",
       "source": "ADN40",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNV2hQRFYyNC1WNlM4aGtCUk5aOEVTMWI4bjdKZWw2dk83RmlRUl9rSmlVNnNNaEZ5bDFrSDZZdFE1NnA1YmFrQkJCMnpnT1Nhb3U3aU9XMmNSUk5MTVhUS2doWUdBWUlzV21EbEp5SnFzTjE5WTEtN1hsQ0NVVlZrcjVQMGhDRTdjVlBKbklDZVE2X3lCZlRJb0tCbU41dXJCUGtoZ2tYVU9tS2FDVTA1eFFVQmpRMHBnNnBjdkh1Mzh4R1VRUEl4VV9PVFQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOem9vWFJRajllRU5CMU9OeFlPOEU3aUR3emR1YkJRUXV4bHItSE9vYmFrYjcwZDlFQ1NDMHl6RUV0QWg2ek9iWDc3TVhyRkM5VXVza252eWl5eTNRMmpZYmphVWtkN2FURFNCZjZpc1NpNC1KOHp6QVY5M3E5ZHVUbWxacWRJczFYVjFOVTA5WS1pSFowelBKQUM4SmloeE90MkpZNVlGTHo1SlJSWGE1MHRSbzNKdw?oc=5"
     }
   ],
-  "updated": "2026-11-16 14:50 UTC",
+  "updated": "2026-11-16 23:58 UTC",
   "failed": []
 }
