@@ -3,90 +3,90 @@
   "source": "varias fuentes",
   "news": [
     {
-      "title": "British hacker who stole $11m through text message scheme jailed for six years in US",
-      "time": "hace 16 min",
-      "source": "BBC Tech",
-      "link": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss"
+      "title": "The first Nvidia RTX Spark mini PCs launch today from Asus, Dell, and MSI",
+      "time": "hace 4 min",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/tech/1036880/nvidia-rtx-spark-ai-mini-pc-desktops"
     },
     {
-      "title": "Lammy urges Burnham take UK back into the EU",
-      "time": "hace 41 min",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/cm9q8jx05q3go?at_medium=RSS&at_campaign=rss"
+      "title": "The \"shameful\" measles data that lost the US its elimination status",
+      "time": "hace 8 min",
+      "source": "Ars Technica",
+      "link": "https://arstechnica.com/health/2026/11/the-shameful-measles-data-that-lost-the-us-its-elimination-status/"
     },
     {
-      "title": "Loop Earplugs Discount Codes: 25% Off",
-      "time": "hace 3 h",
+      "title": "Will Wright's next simulation will use AI to mine content from your memories",
+      "time": "hace 28 min",
+      "source": "Ars Technica",
+      "link": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/"
+    },
+    {
+      "title": "The US Lost Its Measles Elimination Status. It’ll Take Years to Get It Back",
+      "time": "hace 46 min",
       "source": "Wired",
-      "link": "https://www.wired.com/story/loop-earplugs-discount-code/"
+      "link": "https://www.wired.com/story/us-lost-measles-elimination-status-years-to-recover/"
+    },
+    {
+      "title": "Amazon Offering $100 Off Nearly All M4 iPad Air Models",
+      "time": "hace 49 min",
+      "source": "MacRumors",
+      "link": "https://www.macrumors.com/2026/11/18/amazon-100-off-m4-ipad-air-models/"
+    },
+    {
+      "title": "Apple's Fall Creator Studio Updates Now Live",
+      "time": "hace 55 min",
+      "source": "MacRumors",
+      "link": "https://www.macrumors.com/2026/11/18/apple-fall-creator-studio-updates/"
+    },
+    {
+      "title": "Grand Theft Auto 6 is a masterpiece, say critics",
+      "time": "hace 1 h",
+      "source": "BBC Tech",
+      "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "¿Por qué el primer avistaje en 30 años de indígenas awá en Brasil aviva los temores por la Amazonía?",
+      "time": "hace 1 h",
+      "source": "France 24 Español",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261118-por-qu%C3%A9-el-primer-avistaje-en-30-a%C3%B1os-de-ind%C3%ADgenas-aw%C3%A1-en-brasil-aviva-los-temores-por-la-amazon%C3%ADa"
+    },
+    {
+      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+      "time": "hace 1 h",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Pre-auth RCE in Nginx HTTP/2 handling",
+      "time": "hace 3 h",
+      "source": "Hacker News",
+      "link": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities"
     },
     {
       "title": "Por qué la histórica cumbre entre Trump, Putin y Xi preocupa a Europa (y qué puede significar para el resto del mundo)",
-      "time": "hace 5 h",
+      "time": "hace 14 h",
       "source": "BBC Mundo",
       "link": "https://www.bbc.com/mundo/articles/cmwy98z3727vo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "¿Qué hay detrás de las recientes interrupciones informáticas en Estados Unidos?",
-      "time": "hace 7 h",
-      "source": "France 24 Español",
-      "link": "https://www.france24.com/es/video/20261118-qu%C3%A9-hay-detr%C3%A1s-de-las-recientes-interrupciones-inform%C3%A1ticas-en-estados-unidos"
-    },
-    {
-      "title": "Satya Nadella says he’s AGI-pilled now",
-      "time": "hace 7 h",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now"
-    },
-    {
-      "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
-      "time": "hace 9 h",
-      "source": "Ars Technica",
-      "link": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/"
-    },
-    {
-      "title": "Aqara Debuts Six Matter Smart Lights That Work With Apple Home",
-      "time": "hace 9 h",
-      "source": "MacRumors",
-      "link": "https://www.macrumors.com/2026/11/17/aqara-matter-lights-apple-home/"
-    },
-    {
-      "title": "Disney+ and Hulu Will Fully Merge Into One App in December",
-      "time": "hace 9 h",
-      "source": "MacRumors",
-      "link": "https://www.macrumors.com/2026/11/17/disney-hulu-merge-december/"
-    },
-    {
-      "title": "San Diego dumps both Flock cameras and smart streetlights",
-      "time": "hace 10 h",
-      "source": "Ars Technica",
-      "link": "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/"
-    },
-    {
-      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
-      "time": "hace 12 h",
-      "source": "Hacker News",
-      "link": "https://calif.io/java4shell/"
-    },
-    {
       "title": "Oleada de ciberataques afecta a multitud de grandes empresas de todo el mundo",
-      "time": "hace 13 h",
+      "time": "hace 22 h",
       "source": "DW Español",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUHZTR19yRmpvY19fejlhNmNvLWZWSEp0Umh0a2R6TkJBZHlvOGRjcllRM0NaZWVNS2ZZTUxUYTg0N3o0UlAwR0xWZlVHc1A5Y0I4dmhNOTk4QVF3b3RKYXZLWFFaZHZTNlBONnlfT0R6VURSb0FOeHR6TjdHS0JUQkNXQlVEamtDaWFlSlg0VkhDUF9OMWxNWHBFZXFybkpLMWhjM1NjbXdtdjdSbC03anhuVEpUR1JLMEZaQUxtT3h6eFVS0gHEAUFVX3lxTE1Bd25SNFFPSUgxNHhkOWVJdjU3ekRIRkwycU5IU0g0a3BzZ2JWQ0Q3M1NaZkdEVzhOby01OXVUTU52Wk9wMDBOQUVzU3VZX0s2NHBOSFBIM2xnWkh4YlM4aHctUldkbDNjdTNFQTI0RVJUb0Fjelg0NHdGbUhad0JFTlFlSU1BMEVYdmFuYW5vcGExbElfcHZ1M0V1STZJWFlJUW9NSXEwU3NVVDVIVjVSUWxCRU9yTDhCa2JCUDFSNXNzVUQ?oc=5"
     },
     {
-      "title": "Mario Alberto Alejo y Anahí Silva Tosca, parte del personal de Taddei, renuncian al INE",
-      "time": "hace 16 h",
-      "source": "El Universal",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPam0zNThHNWVqSHVJZDlXOUVHMnZBOHJCUlZqSm9TVmk4ZnVzYk5ncHhoRjIwQnVSMURIb05WQUNoX0pTdk1tYWdqVlhwcW1CVS1XNDJCc1lVQ3VTTDY1U2RvZFkzVHlTSkZYZTV2N3V5ajJYUEVLSWU2dDYzeFJRTnJJNmZsNDFra2x5RHhIcUthcWVJczlNTXVFOXBXdDJKejF2WWlsdE9fd1VCSUx3bzZvbjhDUdIBygFBVV95cUxQRDFTRjV4ZDhDWUVCdE1hZWlqSmpKcDJDMzBCRWp5WkNJVnhWU2ZoUGI3V0tycnJhUnBqYUdiWEVaTTlfekptUzJzRTVMMm5HZm0zUzhtcFFJNzdvUzFWeUhDYTJ6R0tVSjZyQl9Ycy1Ld3RrWU9NS2VKbEY1MTFDVWVEMWlOcm0xZjYzYlQ1OFJabTZfb3ZnRUZiNktuWEVrQzZmbFpvZ0NrUV9IQXVCbnhTS2JTYkpwaHk2RXpEZXk4SGowMndrRlpR?oc=5"
+      "title": "adn Noticias | Información de última hora y EN VIVO",
+      "time": "hace 2945 d",
+      "source": "ADN40",
+      "link": "https://news.google.com/rss/articles/CBMiOEFVX3lxTE00R2pGUEZZU1VxYUhER3oyY0U0VDF2Y3p1aUhaTFliVXVnYU5DMlBOTU9rVko5Q3lq?oc=5"
     },
     {
-      "title": "¡No guardes la cobija! Frente frío 6 mantiene el frío en todo México; clima hoy 15 de noviembre",
-      "time": "hace 2 d",
-      "source": "ADN40",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNV2hQRFYyNC1WNlM4aGtCUk5aOEVTMWI4bjdKZWw2dk83RmlRUl9rSmlVNnNNaEZ5bDFrSDZZdFE1NnA1YmFrQkJCMnpnT1Nhb3U3aU9XMmNSUk5MTVhUS2doWUdBWUlzV21EbEp5SnFzTjE5WTEtN1hsQ0NVVlZrcjVQMGhDRTdjVlBKbklDZVE2X3lCZlRJb0tCbU41dXJCUGtoZ2tYVU9tS2FDVTA1eFFVQmpRMHBnNnBjdkh1Mzh4R1VRUEl4VV9PVFQ?oc=5"
+      "title": "El Universal | El periódico de México líder en noticias y clasificados",
+      "time": "hace 3078 d",
+      "source": "El Universal",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB3a0tkaHFGV3d3bXQzQ29WS3E5SGVuZDBobHJyVWJYSFVXN2JsMVdyenRRNjhrVFZfaDcyOGhybnVkSGpGbVE?oc=5"
     }
   ],
-  "updated": "2026-11-18 09:44 UTC",
+  "updated": "2026-11-18 18:39 UTC",
   "failed": []
 }
