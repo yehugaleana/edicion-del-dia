@@ -3,90 +3,90 @@
   "source": "varias fuentes",
   "news": [
     {
-      "title": "Inside Microsoft’s giant Outlook outage",
-      "time": "hace 22 min",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/tech/1035364/microsoft-outlook-outage-notepad"
+      "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+      "time": "hace 5 min",
+      "source": "BBC Tech",
+      "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "VSCO Is Gunning for Adobe Lightroom With Its New Desktop App",
-      "time": "hace 23 min",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/vsco-is-gunning-for-adobe-lightroom-with-its-new-desktop-app/"
-    },
-    {
-      "title": "Apple Moves Ahead With Better Dual SIM Support for Apps",
-      "time": "hace 24 min",
-      "source": "MacRumors",
-      "link": "https://www.macrumors.com/2026/11/17/apple-moves-ahead-with-better-dual-sim-support/"
-    },
-    {
-      "title": "Google makes it easier to use Gemini without training AI on your data",
-      "time": "hace 33 min",
+      "title": "Microsoft calls Copilot \"the new OS for work\" at Ignite keynote",
+      "time": "hace 5 min",
       "source": "Ars Technica",
-      "link": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/"
+      "link": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/"
     },
     {
-      "title": "¿Por qué preocupa el plan europeo de construir un centro de deportación de migrantes en Ruanda?",
-      "time": "hace 52 min",
-      "source": "France 24 Español",
-      "link": "https://f24.my/CI1x"
-    },
-    {
-      "title": "Former Apple Chairman Plans to Sell $32 Million in Apple Stock",
-      "time": "hace 53 min",
+      "title": "Aqara Debuts Six Matter Smart Lights That Work With Apple Home",
+      "time": "hace 10 min",
       "source": "MacRumors",
-      "link": "https://www.macrumors.com/2026/11/17/former-apple-chairman-to-sell-32-million-in-stock/"
+      "link": "https://www.macrumors.com/2026/11/17/aqara-matter-lights-apple-home/"
     },
     {
-      "title": "House Democrats promise a US return to global climate talks",
+      "title": "Disney+ and Hulu Will Fully Merge Into One App in December",
+      "time": "hace 36 min",
+      "source": "MacRumors",
+      "link": "https://www.macrumors.com/2026/11/17/disney-hulu-merge-december/"
+    },
+    {
+      "title": "Satya Nadella says he’s AGI-pilled now",
+      "time": "hace 49 min",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now"
+    },
+    {
+      "title": "Review: Nubia Redmagic 12 Pro | Camera",
+      "time": "hace 58 min",
+      "source": "Wired",
+      "link": "https://www.wired.com/gallery/review-nubia-redmagic-12-pro-or-camera/"
+    },
+    {
+      "title": "Xi fortalece lazos con líderes de América antes de la cumbre de APEC",
+      "time": "hace 1 h",
+      "source": "France 24 Español",
+      "link": "https://www.france24.com/es/video/20261117-xi-fortalece-lazos-con-l%C3%ADderes-de-am%C3%A9rica-antes-de-la-cumbre-de-apec"
+    },
+    {
+      "title": "San Diego dumps both Flock cameras and smart streetlights",
       "time": "hace 1 h",
       "source": "Ars Technica",
-      "link": "https://arstechnica.com/tech-policy/2026/11/house-democrats-promise-a-us-return-to-global-climate-talks/"
+      "link": "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/"
     },
     {
-      "title": "What is the best harness for each model?",
-      "time": "hace 2 h",
+      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+      "time": "hace 3 h",
       "source": "Hacker News",
-      "link": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/"
+      "link": "https://calif.io/java4shell/"
     },
     {
-      "title": "How new US chip restrictions on South East Asia will hit China",
-      "time": "hace 2 h",
-      "source": "BBC Tech",
-      "link": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "EE.UU. amenaza con \"todo el peso de la ley\" a Megaspeed por desvío de chips de Nvidia a China",
-      "time": "hace 4 h",
-      "source": "DW Español",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS2lJTC05NW8taXoybTRuRW1pajdYY3dCTVFzV2R0Y1h2am96VDJjdmhNY1FUNjNjUkF2UUtDbmVFUzNvNm5HSFZZSEVYNmNEYnpWS2lzQ0JYV0RoVXNacHdGX2NMUmVRNlQ0Y04yT3RLZGdTdUNnUEkxbkdWRTFHdlp2d0xONFFSLUg2UVI0b2s5bndIc3haUFZJeG9ZUEhYRkHSAaIBQVVfeXFMUHVmOUFPaVF3RmFyNnVST3Y1d2hMNEY0WlJCaFRuRTVXc2p5cTRBTHFtTHdka0ItVnJRWXdYeEpVRDhBZGpaZ0FqR1ZMcmxzdzZNM3FSZ3JfM1hiTnR2eFNjZTRqZi1iUnF4RTlWdWZUSFVXLVl5VXQ3SmRuRFd0RzhNV2RxZmNSczRzRkl3dXBheDMySTFMVVhJNUl1WU0tNUJR?oc=5"
-    },
-    {
-      "title": "\"Vi decenas de cadáveres para reconocer a mi hermano de 14 años tras los terremotos de Venezuela y aún no sé si está enterrado o desaparecido\"",
-      "time": "hace 5 h",
-      "source": "BBC Mundo",
-      "link": "https://www.bbc.com/mundo/articles/cwm25nnnp5yxo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "At a glance: Key proposals from Milburn's Neets report",
+      "title": "Government backs welfare shake-up to prevent 'lost generation'",
       "time": "hace 5 h",
       "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/cq074grvdpz2o?at_medium=RSS&at_campaign=rss"
+      "link": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Sheinbaum sostiene primera reunión bilateral con Xi Jinping; plantean intercambio en sectores estratégicos",
-      "time": "hace 8 h",
+      "title": "Mario Alberto Alejo y Anahí Silva Tosca, parte del personal de Taddei, renuncian al INE",
+      "time": "hace 6 h",
       "source": "El Universal",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQ3liVmM1ejU2a3ZaSm9mN0NRckt6RVNva09zSzNkSXc4UG1pOGRPTXhUSFhIa0c5dFAweWpzdHZvRU1DOE5Kenc0czBrSHF2Wl85c1pCWUVzVlZOYlRXbVJIaURjcGJwWDZyd3N5d09Ydm5zOERwZWtJYVZMNWpteE5JTlJnTHB3WjlnT2FtSEFfbFdCSzM5VTFtT2FhX1ZUMXNkRU03RmRQWHBCclZaMGJMWTh2d3hSb3lLRE1WZGhqb1I1c0xHakxTOVFKcGRxTXYzNm1mQ1pjRm5kZ19EV0hkMF9VekdkQVE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPam0zNThHNWVqSHVJZDlXOUVHMnZBOHJCUlZqSm9TVmk4ZnVzYk5ncHhoRjIwQnVSMURIb05WQUNoX0pTdk1tYWdqVlhwcW1CVS1XNDJCc1lVQ3VTTDY1U2RvZFkzVHlTSkZYZTV2N3V5ajJYUEVLSWU2dDYzeFJRTnJJNmZsNDFra2x5RHhIcUthcWVJczlNTXVFOXBXdDJKejF2WWlsdE9fd1VCSUx3bzZvbjhDUdIBygFBVV95cUxQRDFTRjV4ZDhDWUVCdE1hZWlqSmpKcDJDMzBCRWp5WkNJVnhWU2ZoUGI3V0tycnJhUnBqYUdiWEVaTTlfekptUzJzRTVMMm5HZm0zUzhtcFFJNzdvUzFWeUhDYTJ6R0tVSjZyQl9Ycy1Ld3RrWU9NS2VKbEY1MTFDVWVEMWlOcm0xZjYzYlQ1OFJabTZfb3ZnRUZiNktuWEVrQzZmbFpvZ0NrUV9IQXVCbnhTS2JTYkpwaHk2RXpEZXk4SGowMndrRlpR?oc=5"
     },
     {
-      "title": "¡¿Una nave extraterrestre?! Captan supuesto OVNI en Querétaro y sorprende a todos.",
+      "title": "Xi recibe a Trump y Putin en Shenzhen, \"la ciudad de los sueños\" de China: esto es lo que no verán",
+      "time": "hace 8 h",
+      "source": "BBC Mundo",
+      "link": "https://www.bbc.com/mundo/articles/cqevrg8yr429o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "¡No guardes la cobija! Frente frío 6 mantiene el frío en todo México; clima hoy 15 de noviembre",
       "time": "hace 2 d",
       "source": "ADN40",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOem9vWFJRajllRU5CMU9OeFlPOEU3aUR3emR1YkJRUXV4bHItSE9vYmFrYjcwZDlFQ1NDMHl6RUV0QWg2ek9iWDc3TVhyRkM5VXVza252eWl5eTNRMmpZYmphVWtkN2FURFNCZjZpc1NpNC1KOHp6QVY5M3E5ZHVUbWxacWRJczFYVjFOVTA5WS1pSFowelBKQUM4SmloeE90MkpZNVlGTHo1SlJSWGE1MHRSbzNKdw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNV2hQRFYyNC1WNlM4aGtCUk5aOEVTMWI4bjdKZWw2dk83RmlRUl9rSmlVNnNNaEZ5bDFrSDZZdFE1NnA1YmFrQkJCMnpnT1Nhb3U3aU9XMmNSUk5MTVhUS2doWUdBWUlzV21EbEp5SnFzTjE5WTEtN1hsQ0NVVlZrcjVQMGhDRTdjVlBKbklDZVE2X3lCZlRJb0tCbU41dXJCUGtoZ2tYVU9tS2FDVTA1eFFVQmpRMHBnNnBjdkh1Mzh4R1VRUEl4VV9PVFQ?oc=5"
+    },
+    {
+      "title": "ACTUALIDAD",
+      "time": "hace 3087 d",
+      "source": "DW Español",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52SUUwMUhCWG1PNkphVXdiYjhKOGRVZjlFVF9TMGFuWGNob2tCc0FBQi1WM1ZCbl9WYjYwY0wxaHdkaDRlaXNxdGs3MW9lSDZQUUE?oc=5"
     }
   ],
-  "updated": "2026-11-17 17:23 UTC",
+  "updated": "2026-11-18 00:33 UTC",
   "failed": []
 }
