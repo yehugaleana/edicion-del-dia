@@ -3,90 +3,90 @@
   "source": "varias fuentes",
   "news": [
     {
-      "title": "The first Nvidia RTX Spark mini PCs launch today from Asus, Dell, and MSI",
-      "time": "hace 4 min",
+      "title": "Elon Musk tries to explain what&#8217;s going on with Ukraine and Starlink",
+      "time": "hace 3 min",
       "source": "The Verge",
-      "link": "https://www.theverge.com/tech/1036880/nvidia-rtx-spark-ai-mini-pc-desktops"
+      "link": "https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook"
     },
     {
-      "title": "The \"shameful\" measles data that lost the US its elimination status",
-      "time": "hace 8 min",
-      "source": "Ars Technica",
-      "link": "https://arstechnica.com/health/2026/11/the-shameful-measles-data-that-lost-the-us-its-elimination-status/"
-    },
-    {
-      "title": "Will Wright's next simulation will use AI to mine content from your memories",
-      "time": "hace 28 min",
-      "source": "Ars Technica",
-      "link": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/"
-    },
-    {
-      "title": "The US Lost Its Measles Elimination Status. It’ll Take Years to Get It Back",
-      "time": "hace 46 min",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/us-lost-measles-elimination-status-years-to-recover/"
-    },
-    {
-      "title": "Amazon Offering $100 Off Nearly All M4 iPad Air Models",
-      "time": "hace 49 min",
+      "title": "Instagram Now Lets You Save Songs to Apple Music",
+      "time": "hace 23 min",
       "source": "MacRumors",
-      "link": "https://www.macrumors.com/2026/11/18/amazon-100-off-m4-ipad-air-models/"
+      "link": "https://www.macrumors.com/2026/11/18/apple-music-instagram-playlist/"
     },
     {
-      "title": "Apple's Fall Creator Studio Updates Now Live",
-      "time": "hace 55 min",
-      "source": "MacRumors",
-      "link": "https://www.macrumors.com/2026/11/18/apple-fall-creator-studio-updates/"
-    },
-    {
-      "title": "Grand Theft Auto 6 is a masterpiece, say critics",
+      "title": "The Best Early Black Friday Deals On Laptops I've Tested Myself (2026)",
       "time": "hace 1 h",
-      "source": "BBC Tech",
-      "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss"
+      "source": "Wired",
+      "link": "https://www.wired.com/story/best-early-black-friday-laptop-deals-11-18-26/"
     },
     {
-      "title": "¿Por qué el primer avistaje en 30 años de indígenas awá en Brasil aviva los temores por la Amazonía?",
+      "title": "Informe desde Caracas: EE. UU. y Venezuela firman acuerdo de cooperación militar",
       "time": "hace 1 h",
       "source": "France 24 Español",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261118-por-qu%C3%A9-el-primer-avistaje-en-30-a%C3%B1os-de-ind%C3%ADgenas-aw%C3%A1-en-brasil-aviva-los-temores-por-la-amazon%C3%ADa"
+      "link": "https://www.france24.com/es/video/20261118-informe-desde-caracas-ee-uu-y-venezuela-firman-acuerdo-de-cooperaci%C3%B3n-militar"
+    },
+    {
+      "title": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
+      "time": "hace 1 h",
+      "source": "BBC Tech",
+      "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote",
+      "time": "hace 2 h",
+      "source": "Ars Technica",
+      "link": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-led-committee-approves-trump-fcc-nominee-15-0-as-democrats-boycott-vote/"
+    },
+    {
+      "title": "Apple Releases Safari Technology Preview 257 With Bug Fixes and Performance Improvements",
+      "time": "hace 2 h",
+      "source": "MacRumors",
+      "link": "https://www.macrumors.com/2026/11/18/apple-releases-safari-technology-preview-257/"
+    },
+    {
+      "title": "Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits",
+      "time": "hace 2 h",
+      "source": "Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/"
+    },
+    {
+      "title": "Gemini 4 Neon",
+      "time": "hace 4 h",
+      "source": "Hacker News",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+    },
+    {
+      "title": "Exconsejeros del INE piden al Congreso nombrar su presidencia a la brevedad",
+      "time": "hace 6 h",
+      "source": "El Universal",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxON0w2eXpBVk84SzZwdlAyaVpPWVJuYndpZ3V0cFVqTk5XM3dYRkNndjJ6M21DYVRldVQ3eGhEOWxxcmxWM2gyZ016WTk2Y3JIcGZheWdOOG13eVhhRExTYVB6ZUdmU2ZCaTVvX2E1dGZ5cldqbWhNODNsdS1kOTkzUUxyM3o0ZllybXhDekNlZ2l2emp1SlhrQjM1SHdzRHZjM3Bjbmd5S0xvS1lwNzdtZ3hVRGlGZU13YmtySU9RUWxqV2xkTVEtQUxuejI2ci1GWHVGM2tGWnZHLWVMTU1USDRQMG5PMFdjUXdwLWh3S1QzNFFIQTVr0gGLAkFVX3lxTE5DVURnalM1ZldTWEVUZ3VadzRoSC1TU0ZreC1iUENxX3h4WmlTU0lFOUxydVdib3N6MHVnb0JYeFhDTEMwd0VteHVPbC1oRXcwaHUwM1lBV21qRFFUSTg3OTJlUDdLOE9nQ2dWTXFpM3JyREZfYlhmeFNqbE53cy1UeHhlcVRiSXR1dG1fc0FEMFZxSFBKM2FVeHRWYi1YTHViakxWM0F1cXN1azZ0aktOYTJCVzRXSjJ6bFpzclk5UFJzNnZZcTFTUm5fTHlSc0pkTDlEWndGclE3OUlqQXlIRTlMTFl1Y1pUMEUzWDMwblhSUy15elNLdFJZY2c5b2V2N0d6QUNqWmxlTQ?oc=5"
     },
     {
       "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-      "time": "hace 1 h",
+      "time": "hace 8 h",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Pre-auth RCE in Nginx HTTP/2 handling",
-      "time": "hace 3 h",
-      "source": "Hacker News",
-      "link": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities"
+      "title": "Xi, Trump y Putin: un saludo y una \"foto de familia\" antes de su cumbre trilateral",
+      "time": "hace 13 h",
+      "source": "DW Español",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNkVJeFc0TkxoWFVzSFBrU3piM0kyajVuemFZTnlIbGM5RE5DSE9BbWlGRG5ROHdiUlhaakoyU2FpLURoVmdKaS11WFEwUVVaWXliLUt5VWtfVWRKcVNYRzI0VmZVZGtNeUJ1WWlTbHh3ZXlHN3hwbUhRcDNEVDQwRXZUaU5wUmFHNWkxcHA3c1VxbTJxbHk5TlZxNEZHLVpqTDJaVzkwQ0d0bWc4MzdSSUVXdkZpWHc4S2Q40gG7AUFVX3lxTFBZM3l4dzFIanFRdWlpVzFESUw1TFROZi1BODlCVHlYT3RXVlBEdC1LWnJ4ZWlmWHNkU1QwNFY4Yl9CQ3dMY09wekFxNWJiTUdDMU5tYmRtU2FuTWs1SlJpUWVpNWhpV3E3M0l5QkstRWNtaVNObUxLaTBpc0xrQXMtc1FDTjM1bmhWNmNkVlZsN0FNQ3pRUVVfcmRWS3B5eDV3ZHFUT1o5aXM4bGI0OFhsLXZoM1dBV3V3T2M?oc=5"
     },
     {
       "title": "Por qué la histórica cumbre entre Trump, Putin y Xi preocupa a Europa (y qué puede significar para el resto del mundo)",
-      "time": "hace 14 h",
+      "time": "hace 21 h",
       "source": "BBC Mundo",
       "link": "https://www.bbc.com/mundo/articles/cmwy98z3727vo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Oleada de ciberataques afecta a multitud de grandes empresas de todo el mundo",
-      "time": "hace 22 h",
-      "source": "DW Español",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUHZTR19yRmpvY19fejlhNmNvLWZWSEp0Umh0a2R6TkJBZHlvOGRjcllRM0NaZWVNS2ZZTUxUYTg0N3o0UlAwR0xWZlVHc1A5Y0I4dmhNOTk4QVF3b3RKYXZLWFFaZHZTNlBONnlfT0R6VURSb0FOeHR6TjdHS0JUQkNXQlVEamtDaWFlSlg0VkhDUF9OMWxNWHBFZXFybkpLMWhjM1NjbXdtdjdSbC03anhuVEpUR1JLMEZaQUxtT3h6eFVS0gHEAUFVX3lxTE1Bd25SNFFPSUgxNHhkOWVJdjU3ekRIRkwycU5IU0g0a3BzZ2JWQ0Q3M1NaZkdEVzhOby01OXVUTU52Wk9wMDBOQUVzU3VZX0s2NHBOSFBIM2xnWkh4YlM4aHctUldkbDNjdTNFQTI0RVJUb0Fjelg0NHdGbUhad0JFTlFlSU1BMEVYdmFuYW5vcGExbElfcHZ1M0V1STZJWFlJUW9NSXEwU3NVVDVIVjVSUWxCRU9yTDhCa2JCUDFSNXNzVUQ?oc=5"
     },
     {
       "title": "adn Noticias | Información de última hora y EN VIVO",
       "time": "hace 2945 d",
       "source": "ADN40",
       "link": "https://news.google.com/rss/articles/CBMiOEFVX3lxTE00R2pGUEZZU1VxYUhER3oyY0U0VDF2Y3p1aUhaTFliVXVnYU5DMlBOTU9rVko5Q3lq?oc=5"
-    },
-    {
-      "title": "El Universal | El periódico de México líder en noticias y clasificados",
-      "time": "hace 3078 d",
-      "source": "El Universal",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB3a0tkaHFGV3d3bXQzQ29WS3E5SGVuZDBobHJyVWJYSFVXN2JsMVdyenRRNjhrVFZfaDcyOGhybnVkSGpGbVE?oc=5"
     }
   ],
-  "updated": "2026-11-18 18:39 UTC",
+  "updated": "2026-11-19 01:42 UTC",
   "failed": []
 }
