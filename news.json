@@ -3,90 +3,90 @@
   "source": "varias fuentes",
   "news": [
     {
-      "title": "iPhone Duo vs. Samsung Galaxy Z Fold8: Which is Better?",
-      "time": "hace 1 min",
-      "source": "MacRumors",
-      "link": "https://www.macrumors.com/2026/11/19/iphone-duo-vs-samsung-galaxy-z-fold8/"
-    },
-    {
-      "title": "LLMs will provide accurate climate info, except when they won’t",
-      "time": "hace 7 min",
-      "source": "Ars Technica",
-      "link": "https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/"
-    },
-    {
-      "title": "Sonos is taking up to 30 percent off speakers and soundbars right now",
-      "time": "hace 19 min",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/gadgets/1037042/sonos-black-friday-2026-speaker-soundbar-deals-sale"
-    },
-    {
-      "title": "AirPods Black Friday Deals Hit Pro 3 at $179 and Max 2 at $429",
-      "time": "hace 24 min",
-      "source": "MacRumors",
-      "link": "https://www.macrumors.com/2026/11/19/airpods-black-friday-deals/"
-    },
-    {
-      "title": "Directo Latam y el supuesto rechazo de De la Espriella a la cooperación militar con Estados Unidos",
-      "time": "hace 50 min",
+      "title": "“Tenemos tiempo”: ¿resistirá Trump la presión de Netanyahu por retomar las hostilidades contra Irán?",
+      "time": "hace 21 min",
       "source": "France 24 Español",
-      "link": "https://www.france24.com/es/video/20261119-directo-latam-y-el-supuesto-rechazo-de-de-la-espriella-a-la-cooperaci%C3%B3n-militar-con-estados-unidos"
+      "link": "https://www.france24.com/es/medio-oriente/20261120-tenemos-tiempo-resistir%C3%A1-trump-la-presi%C3%B3n-de-netanyahu-por-retomar-las-hostilidades-contra-ir%C3%A1n"
     },
     {
-      "title": "Google will launch Android app verification requirement globally in January 2027",
-      "time": "hace 51 min",
-      "source": "Ars Technica",
-      "link": "https://arstechnica.com/gadgets/2026/11/google-will-launch-android-app-verification-requirement-globally-in-january-2027/"
-    },
-    {
-      "title": "Men guilty of abusing woman drugged and advertised for sex by husband",
-      "time": "hace 1 h",
+      "title": "Woman drugged and advertised for sex by husband speaks out as abusers found guilty",
+      "time": "hace 26 min",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/articles/crq5n5pe935no?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Anthropic hits $2T in Nasdaq debut",
+      "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
       "time": "hace 1 h",
+      "source": "BBC Tech",
+      "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Apple is hiring engineers to build its own AI agent",
+      "time": "hace 2 h",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing"
+    },
+    {
+      "title": "Dudes Online Are So Mad That ‘Grand Theft Auto 6’ Makes Them Respect Women",
+      "time": "hace 2 h",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/dudes-online-are-so-mad-that-gta-vi-makes-them-respect-women/"
+    },
+    {
+      "title": "Black Friday Deal: Apple TV Streaming Service for $6.99/Month",
+      "time": "hace 2 h",
+      "source": "MacRumors",
+      "link": "https://www.macrumors.com/2026/11/19/apple-tv-black-friday-streaming-deal/"
+    },
+    {
+      "title": "MacBook Pro Black Friday Deals Are Here: Get Up to $250 Off M6 and PROLED XDR",
+      "time": "hace 2 h",
+      "source": "MacRumors",
+      "link": "https://www.macrumors.com/2026/11/19/macbook-pro-black-friday-deals-3/"
+    },
+    {
+      "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
+      "time": "hace 3 h",
+      "source": "Ars Technica",
+      "link": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/"
+    },
+    {
+      "title": "MAHA PAC spent more on steak, luxury club than candidates, report shows",
+      "time": "hace 4 h",
+      "source": "Ars Technica",
+      "link": "https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/"
+    },
+    {
+      "title": "Anthropic: por qué el mayor debut bursátil de la historia pone a prueba \"la burbuja\" de la IA y la posibilidad de que estalle",
+      "time": "hace 5 h",
+      "source": "BBC Mundo",
+      "link": "https://www.bbc.com/mundo/articles/cqm2ln990v10o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Anthropic’s Nasdaq debut",
+      "time": "hace 8 h",
       "source": "Hacker News",
       "link": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/"
     },
     {
-      "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
-      "time": "hace 1 h",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/"
-    },
-    {
-      "title": "Dutch watchdog tells people not to buy AI smart glasses",
-      "time": "hace 2 h",
-      "source": "BBC Tech",
-      "link": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "¿Cómo va el Metro y Metrobús CDMX hoy?: así están las líneas y estaciones este jueves 19 de noviembre",
-      "time": "hace 6 h",
-      "source": "ADN40",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQekczRUo2SVZvNnlIMHVLdnhhTG1nZUdTV3ZoQmo2Um54RlppQVI2VHJRTC1pSlJHWmVPa3BNOFR0NVJmX2h6dV9oTDNzYWVjTERwRXlKRHMyVjhOaUtWNnhNeDdUSWxUMmp5eVJqYzlvMWNaRzF0RmdLX0pDN1lScWdfY3hpalAzNzNIeU1wTW5ZSnZ6RnVScjA4QjZ5MXlkNkwzYXEwbGFYblVsQ2xDMWhLOGR0QWctbndaNzZZd0xQZWFQbjV1aU1hdzdrMzVQcm0xeQ?oc=5"
-    },
-    {
-      "title": "China, Rusia y EE.UU. \"deben dar ejemplo\" y \"mantener la paz\": lo que Trump, Putin y Xi dijeron en su histórica cumbre",
-      "time": "hace 6 h",
-      "source": "BBC Mundo",
-      "link": "https://www.bbc.com/mundo/articles/cw1md5mzjj4vo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Trump, Xi y Putin firman \"Declaración de Paz\" sobre reforma de la ONU, desarme nuclear y petróleo",
-      "time": "hace 6 h",
-      "source": "DW Español",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWmNhOURjUUc1d1A0a3d3em1wQ2RwNnpjMDVEaW9vV29EdTIxLXpTV3M3VWpOVU5FVEhwREhDTldtOEhnM09nUDhHYkIyMmZ1SXhTbVdiQXVuTWFtT252RVQzM1RnQjRuOHF3SGwxZFcxUktvQ200SlJyVGJXdHFTeURfVGJyZGpWenQ2aXNqQ0FQdEkxVEs4UGVHRW9Ickd4eGJUV3gxQ2tmZ3dSa2dUb0pLNHgxLUlvVFZPMGF3cXI4N2QxN1VoVnFubUY0N1VhT0NR0gHTAUFVX3lxTE93T1AtNVNCQVJDX2VKVGQ3Zzc1SVBCajh3dGc4T2t0aVI5QzN2T09mcTJDYTRWN0c5S2NYSjEwSEZpQ29yeGo2NkR2TDlCOGx3RDFydWtsQzJZUFNxZmFlUXhvYk9aY09rZ3dsc2l4SERBMmtmeERfalFkN0VKNlZwMmh2Y2t5bnJ5QUZNV2ItNUpsQ0JRWGFGOHNhbmQyWlpRU09tcHhIalFiWU81YnI5dkZEZ0tUaV9UYnVXSXpLTFpVTmd2Rk5VbTlCWjM5MTRSazQ?oc=5"
-    },
-    {
-      "title": "Carta de Ariadna Montiel a la columna Serpientes y Escaleras",
-      "time": "hace 14 h",
+      "title": "Familia denuncia al IMSS por entregar sin órganos el cuerpo de joven que murió durante el parto",
+      "time": "hace 9 h",
       "source": "El Universal",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdXBrcENDM2tmQVpKVzZQNjNGbF9tbnYxLXJqUURuZkNWYkFxUEdyR2NYTHJLNjMzdEpjeWRacm5ZOThjb2JFSVFEY0k0RUtNeko2dHhBN082SE9MUHJja3dnLW1uZUZYYW9tNnNIckJmNEtGWURfdDNCZDlnaXZsMVA1dl9BWGFqaTNqZWZQejNZd0hHX2x4bTB1YWg5UG9W0gG0AUFVX3lxTE9JVlJ2NTJHTUVmdGJFSC14aTNBaVJPeUh6Q1h5ZkV5dUctS19DQ2JkMlRfQXVxVFFCS0JHMGJ2UW5GRGl4cTZYUDNQNHMtaHZnS05FamZ3cDJaWlN2dFFfUllWYzlJdTR5dmtvakhScU9GOF84enZzTXFlbjRNNjByblNDbkxkUHFDTFhvbnZvV1d4dzBsZWZ0eXVfSzBBSnZiVzIxWXBBUDhjRjVvM2FMaWV5bw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQejI5cVJ2RTV1ZmtORWpOajRYSVgwNl9ZTllTanZGRXVDRXdicHJYbk5kVjFTU0dVcFdvZjhwZ2hUMHRQNllvbkdsd2x5ZzZFM0lpM2djVVFySTdUaWpWcGVKc0hIejNwNTBTU3lBMEFEMWtSSmZGT0owaXB0SEtNcXE0NEZsbnJQZGI1LXRxSGp2WFlrUmJzekR4Ync3cXppOS1xUkNzcmNxNUhEOXRZaFpWNUZvSW0xcnhqbW9CZDAtaEIzNzFkRXF2dXRDc2R6U2h1RUx2YzduZDhOdjlYdE5UM00yX2d1UzcwVTZXWUhfenNneEtrWVBwQmLSAZACQVVfeXFMTjRzX3MzNGdoV2F1c0VRSHg4SjRpUEk5U2N2Mjg2Ujk3NmtEczVCbDlVWG5WYXFWYkt2Uk9kLVBkT1NsUDZ0YVBkYmg1WDlGTnJkd0s5MVNRMklQREhQZEFnN3VpRzZ5NXpFWFU1dXFUVVZBc2RVLTZ3MXdObXZYWldTckxEMEJVd3dpT19PTDJ5d1prSGoyOFdNaEFLaS1HS3kzN2NvTmo4d01aVFVNWmZaQjYxdmRxX2R2RzFqSEUwQ1BOMUpGS0dsaDdmei1uVDU3OTVPSE4xSlZQTDd0M050VzkxdXFiM3prYTZjWlBCcEsxbzZ5WXdXLWJ6SXBORjBqeVpBZkM0Z25oVk1oLTA?oc=5"
+    },
+    {
+      "title": "¡El calor no da tregua! Estos estados de México llegarán a los 40 grados",
+      "time": "hace 23 h",
+      "source": "ADN40",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZ1FXMGJ1T0U5U0FkYjNUT1lJS28zaU03dExOME53bFlfMnZPd05SSHR2WWJDcXRMcEJiMm82NFJyYUpjVGlfSXBfUTZ2TDdQM3RYNGFoNnQzS04yZ3Jpd3o5SVpTZGVtODIxQXE5YnVodHdpd1NPU2JtZ25pWTJyTmJxR2tMNGdQS2NNU3VqNVFJRk1qNDB0T3ZqQjExLVFaU0NueVpoTmdPM1JsazBIeGxKNTNtYUQ3QnpaQk16b3FJaEJLckg2VXJB?oc=5"
+    },
+    {
+      "title": "Pete Hegseth visitará Colombia para discutir seguridad y cooperación militar",
+      "time": "hace 1 d",
+      "source": "DW Español",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcHVJYk5JSHp5WXc5LU5lMkdKam56X1JzQlJRSS0xWk5rZUpTQ0Vmd2RQZFE0SEZpaTJUVkx0cVFCcmswM2d4RElsWXp4aFYtYjBob205R0haSE8yVG9Qa01aczFzMkhJOHotS0VGNWJMZzFOT2ZORGNVUlh1dlR0VWJXbDhMc2I0VEdaaXVGOTgtQzV6SzJQQlVheFhCTmZIZk0zbkhvZzNmbmZjb3dYSzY2NnVVWlRGOFFDeTRnOFNSbWFqTWhhTnNleExrQ3dj0gHQAUFVX3lxTE1ycjV0VmpjN2NCZ01PcHpCaGRwcXNBOEZJaVNfYzIwSk9kRnhwV0U0WWVSMnZodjNDTEc2MVhpdUlGeW5KaHEyMVlYbXVGb1RjdEFTazItYWJTbFRScFRRc0hKVEMzWGxVc0FINW5JckNXenZIaWhWdFZQc2JHc3o4cC1sSDZIbEVRaThPWk9ZVk1FWUg0bEc1U0s4a2FsRTZUZ0lKYUpTUWxkSlQzZDZnWXBMa2EtY3l2LTYxQ3lobnM4R3gxNUx2b0tlcE1obU0?oc=5"
     }
   ],
-  "updated": "2026-11-19 18:52 UTC",
+  "updated": "2026-11-20 01:39 UTC",
   "failed": []
 }
