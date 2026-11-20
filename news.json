@@ -3,90 +3,90 @@
   "source": "varias fuentes",
   "news": [
     {
-      "title": "“Tenemos tiempo”: ¿resistirá Trump la presión de Netanyahu por retomar las hostilidades contra Irán?",
-      "time": "hace 21 min",
-      "source": "France 24 Español",
-      "link": "https://www.france24.com/es/medio-oriente/20261120-tenemos-tiempo-resistir%C3%A1-trump-la-presi%C3%B3n-de-netanyahu-por-retomar-las-hostilidades-contra-ir%C3%A1n"
-    },
-    {
-      "title": "Woman drugged and advertised for sex by husband speaks out as abusers found guilty",
-      "time": "hace 26 min",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/crq5n5pe935no?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
-      "time": "hace 1 h",
+      "title": "White House removes cyber-security chief after series of tech outages",
+      "time": "hace 3 min",
       "source": "BBC Tech",
-      "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss"
+      "link": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "What the Brussels summit could mean for the Brexit deal",
+      "time": "hace 1 h",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/videos/c6lymr5x4ye5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
+      "time": "hace 2 h",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/"
+    },
+    {
+      "title": "\"Aquí los drones no vuelan\": la BBC en el interior del gasoducto desde el que Ucrania libra una guerra subterránea contra Rusia",
+      "time": "hace 5 h",
+      "source": "BBC Mundo",
+      "link": "https://www.bbc.com/mundo/articles/c6wy418my1mlo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "¿Qué dejó el cara a cara entre Sánchez y Feijóo a diez días de las elecciones en España?",
+      "time": "hace 7 h",
+      "source": "France 24 Español",
+      "link": "https://www.france24.com/es/video/20261120-qu%C3%A9-dej%C3%B3-el-cara-a-cara-entre-s%C3%A1nchez-y-feij%C3%B3o-a-diez-d%C3%ADas-de-las-elecciones-en-espa%C3%B1a"
+    },
+    {
+      "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+      "time": "hace 7 h",
+      "source": "Hacker News",
+      "link": "https://github.com/openssl/openssl/pull/33652"
     },
     {
       "title": "Apple is hiring engineers to build its own AI agent",
-      "time": "hace 2 h",
+      "time": "hace 10 h",
       "source": "The Verge",
       "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing"
     },
     {
-      "title": "Dudes Online Are So Mad That ‘Grand Theft Auto 6’ Makes Them Respect Women",
-      "time": "hace 2 h",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/dudes-online-are-so-mad-that-gta-vi-makes-them-respect-women/"
-    },
-    {
       "title": "Black Friday Deal: Apple TV Streaming Service for $6.99/Month",
-      "time": "hace 2 h",
+      "time": "hace 10 h",
       "source": "MacRumors",
       "link": "https://www.macrumors.com/2026/11/19/apple-tv-black-friday-streaming-deal/"
     },
     {
       "title": "MacBook Pro Black Friday Deals Are Here: Get Up to $250 Off M6 and PROLED XDR",
-      "time": "hace 2 h",
+      "time": "hace 10 h",
       "source": "MacRumors",
       "link": "https://www.macrumors.com/2026/11/19/macbook-pro-black-friday-deals-3/"
     },
     {
       "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
-      "time": "hace 3 h",
+      "time": "hace 11 h",
       "source": "Ars Technica",
       "link": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/"
     },
     {
       "title": "MAHA PAC spent more on steak, luxury club than candidates, report shows",
-      "time": "hace 4 h",
+      "time": "hace 12 h",
       "source": "Ars Technica",
       "link": "https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/"
     },
     {
-      "title": "Anthropic: por qué el mayor debut bursátil de la historia pone a prueba \"la burbuja\" de la IA y la posibilidad de que estalle",
-      "time": "hace 5 h",
-      "source": "BBC Mundo",
-      "link": "https://www.bbc.com/mundo/articles/cqm2ln990v10o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Anthropic’s Nasdaq debut",
-      "time": "hace 8 h",
-      "source": "Hacker News",
-      "link": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/"
+      "title": "Al menos 34 miembros de una banda armada mueren en una operación de la policía de Haití",
+      "time": "hace 14 h",
+      "source": "DW Español",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPelU4cVB5bWIxTjFUd3ZVVU4zb195ZHAzRGJDWHpraWV4OTVJOG54V0tKc3A3Q2tVdktPa3Q3TDlGUDJGa2xTeFJMNC01Tk9NcWpnUDJIVkU5UDZMQlBheUhEUVdxT2VmbTZseFN0WmFNWlVBY2dYak5IOGNWVWV5WGFSV3VMY1J1MWx0VXY4VGJpN1lyTjRzZEwxZHVPeldORnNLVXFzSl9WQdIBqgFBVV95cUxPR0RYaGZSNVFyQlR1Y002VTc1eGE4TFYydVRPcDVpellBM19QWVAyRURfcF90SWlheHFOakpiNV9SMUVmLW8zSEVKT21mX0kzLWhqbkpDYlhzemFqSjJ3MjJKb3c2T0c5bU4zZjM5c3hjUjAwT1JNX3pPeVNzSC1WNllTRU50ZURmNzkzSTBIOTNIQTlveEpTdlBxeVpwUmFuSkNiUDNZT0laQQ?oc=5"
     },
     {
       "title": "Familia denuncia al IMSS por entregar sin órganos el cuerpo de joven que murió durante el parto",
-      "time": "hace 9 h",
+      "time": "hace 17 h",
       "source": "El Universal",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQejI5cVJ2RTV1ZmtORWpOajRYSVgwNl9ZTllTanZGRXVDRXdicHJYbk5kVjFTU0dVcFdvZjhwZ2hUMHRQNllvbkdsd2x5ZzZFM0lpM2djVVFySTdUaWpWcGVKc0hIejNwNTBTU3lBMEFEMWtSSmZGT0owaXB0SEtNcXE0NEZsbnJQZGI1LXRxSGp2WFlrUmJzekR4Ync3cXppOS1xUkNzcmNxNUhEOXRZaFpWNUZvSW0xcnhqbW9CZDAtaEIzNzFkRXF2dXRDc2R6U2h1RUx2YzduZDhOdjlYdE5UM00yX2d1UzcwVTZXWUhfenNneEtrWVBwQmLSAZACQVVfeXFMTjRzX3MzNGdoV2F1c0VRSHg4SjRpUEk5U2N2Mjg2Ujk3NmtEczVCbDlVWG5WYXFWYkt2Uk9kLVBkT1NsUDZ0YVBkYmg1WDlGTnJkd0s5MVNRMklQREhQZEFnN3VpRzZ5NXpFWFU1dXFUVVZBc2RVLTZ3MXdObXZYWldTckxEMEJVd3dpT19PTDJ5d1prSGoyOFdNaEFLaS1HS3kzN2NvTmo4d01aVFVNWmZaQjYxdmRxX2R2RzFqSEUwQ1BOMUpGS0dsaDdmei1uVDU3OTVPSE4xSlZQTDd0M050VzkxdXFiM3prYTZjWlBCcEsxbzZ5WXdXLWJ6SXBORjBqeVpBZkM0Z25oVk1oLTA?oc=5"
     },
     {
-      "title": "¡El calor no da tregua! Estos estados de México llegarán a los 40 grados",
-      "time": "hace 23 h",
+      "title": "adn Noticias | Información de última hora y EN VIVO",
+      "time": "hace 2947 d",
       "source": "ADN40",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZ1FXMGJ1T0U5U0FkYjNUT1lJS28zaU03dExOME53bFlfMnZPd05SSHR2WWJDcXRMcEJiMm82NFJyYUpjVGlfSXBfUTZ2TDdQM3RYNGFoNnQzS04yZ3Jpd3o5SVpTZGVtODIxQXE5YnVodHdpd1NPU2JtZ25pWTJyTmJxR2tMNGdQS2NNU3VqNVFJRk1qNDB0T3ZqQjExLVFaU0NueVpoTmdPM1JsazBIeGxKNTNtYUQ3QnpaQk16b3FJaEJLckg2VXJB?oc=5"
-    },
-    {
-      "title": "Pete Hegseth visitará Colombia para discutir seguridad y cooperación militar",
-      "time": "hace 1 d",
-      "source": "DW Español",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcHVJYk5JSHp5WXc5LU5lMkdKam56X1JzQlJRSS0xWk5rZUpTQ0Vmd2RQZFE0SEZpaTJUVkx0cVFCcmswM2d4RElsWXp4aFYtYjBob205R0haSE8yVG9Qa01aczFzMkhJOHotS0VGNWJMZzFOT2ZORGNVUlh1dlR0VWJXbDhMc2I0VEdaaXVGOTgtQzV6SzJQQlVheFhCTmZIZk0zbkhvZzNmbmZjb3dYSzY2NnVVWlRGOFFDeTRnOFNSbWFqTWhhTnNleExrQ3dj0gHQAUFVX3lxTE1ycjV0VmpjN2NCZ01PcHpCaGRwcXNBOEZJaVNfYzIwSk9kRnhwV0U0WWVSMnZodjNDTEc2MVhpdUlGeW5KaHEyMVlYbXVGb1RjdEFTazItYWJTbFRScFRRc0hKVEMzWGxVc0FINW5JckNXenZIaWhWdFZQc2JHc3o4cC1sSDZIbEVRaThPWk9ZVk1FWUg0bEc1U0s4a2FsRTZUZ0lKYUpTUWxkSlQzZDZnWXBMa2EtY3l2LTYxQ3lobnM4R3gxNUx2b0tlcE1obU0?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiOEFVX3lxTE00R2pGUEZZU1VxYUhER3oyY0U0VDF2Y3p1aUhaTFliVXVnYU5DMlBOTU9rVko5Q3lq?oc=5"
     }
   ],
-  "updated": "2026-11-20 01:39 UTC",
+  "updated": "2026-11-20 09:41 UTC",
   "failed": []
 }
