@@ -3,80 +3,80 @@
   "source": "varias fuentes",
   "news": [
     {
-      "title": "White House removes cyber-security chief after series of tech outages",
-      "time": "hace 3 min",
-      "source": "BBC Tech",
-      "link": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss"
+      "title": "El Salvador, bajo la amenaza de una crisis alimentaria por la sequía",
+      "time": "hace 5 min",
+      "source": "France 24 Español",
+      "link": "https://www.france24.com/es/programas/enlace/20261120-el-salvador-bajo-la-amenaza-de-una-crisis-alimentaria-por-la-sequ%C3%ADa"
     },
     {
-      "title": "What the Brussels summit could mean for the Brexit deal",
+      "title": "Internet Archive Staffers Are Unionizing",
+      "time": "hace 20 min",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/internet-archive-staffers-are-unionizing/"
+    },
+    {
+      "title": "Multiplying your Switch 2’s storage costs less than usual right now",
+      "time": "hace 31 min",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/gadgets/1037749/microsd-express-card-nintendo-switch-2-black-friday-2026-deal-sale"
+    },
+    {
+      "title": "Anker's Black Friday Steals: The Lowest Prices Yet on MagSafe Favorites",
+      "time": "hace 40 min",
+      "source": "MacRumors",
+      "link": "https://www.macrumors.com/2026/11/20/ankers-black-friday-steals/"
+    },
+    {
+      "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+      "time": "hace 43 min",
+      "source": "BBC Tech",
+      "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Apple Black Friday Deals Available Now: AirPods, Apple Watches, MacBooks, and More",
+      "time": "hace 45 min",
+      "source": "MacRumors",
+      "link": "https://www.macrumors.com/2026/11/20/apple-black-friday-deals-available-now-2026/"
+    },
+    {
+      "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
       "time": "hace 1 h",
       "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/videos/c6lymr5x4ye5o?at_medium=RSS&at_campaign=rss"
+      "link": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
-      "time": "hace 2 h",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/"
-    },
-    {
-      "title": "\"Aquí los drones no vuelan\": la BBC en el interior del gasoducto desde el que Ucrania libra una guerra subterránea contra Rusia",
-      "time": "hace 5 h",
-      "source": "BBC Mundo",
-      "link": "https://www.bbc.com/mundo/articles/c6wy418my1mlo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "¿Qué dejó el cara a cara entre Sánchez y Feijóo a diez días de las elecciones en España?",
-      "time": "hace 7 h",
-      "source": "France 24 Español",
-      "link": "https://www.france24.com/es/video/20261120-qu%C3%A9-dej%C3%B3-el-cara-a-cara-entre-s%C3%A1nchez-y-feij%C3%B3o-a-diez-d%C3%ADas-de-las-elecciones-en-espa%C3%B1a"
-    },
-    {
-      "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
-      "time": "hace 7 h",
+      "title": "Language Models Can Rewrite Their Own Weights",
+      "time": "hace 1 h",
       "source": "Hacker News",
-      "link": "https://github.com/openssl/openssl/pull/33652"
+      "link": "https://arxiv.org/abs/2611.21885"
     },
     {
-      "title": "Apple is hiring engineers to build its own AI agent",
-      "time": "hace 10 h",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing"
-    },
-    {
-      "title": "Black Friday Deal: Apple TV Streaming Service for $6.99/Month",
-      "time": "hace 10 h",
-      "source": "MacRumors",
-      "link": "https://www.macrumors.com/2026/11/19/apple-tv-black-friday-streaming-deal/"
-    },
-    {
-      "title": "MacBook Pro Black Friday Deals Are Here: Get Up to $250 Off M6 and PROLED XDR",
-      "time": "hace 10 h",
-      "source": "MacRumors",
-      "link": "https://www.macrumors.com/2026/11/19/macbook-pro-black-friday-deals-3/"
-    },
-    {
-      "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
-      "time": "hace 11 h",
+      "title": "Valve says it might have to raise the price of supply-limited Steam Machines",
+      "time": "hace 2 h",
       "source": "Ars Technica",
-      "link": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/"
+      "link": "https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/"
     },
     {
-      "title": "MAHA PAC spent more on steak, luxury club than candidates, report shows",
-      "time": "hace 12 h",
+      "title": "US will soon announce root cause behind FAA nationwide ground stop",
+      "time": "hace 3 h",
       "source": "Ars Technica",
-      "link": "https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/"
+      "link": "https://arstechnica.com/gadgets/2026/11/how-faa-can-modernize-us-national-airspace-system-without-emergency-ground-stops/"
+    },
+    {
+      "title": "Qué pasó con las FARC 10 años después del acuerdo de paz que puso fin a más de 50 años de conflicto con el Estado en Colombia",
+      "time": "hace 6 h",
+      "source": "BBC Mundo",
+      "link": "https://www.bbc.com/mundo/articles/c8zxl4rd6nq5o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Al menos 34 miembros de una banda armada mueren en una operación de la policía de Haití",
-      "time": "hace 14 h",
+      "time": "hace 22 h",
       "source": "DW Español",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPelU4cVB5bWIxTjFUd3ZVVU4zb195ZHAzRGJDWHpraWV4OTVJOG54V0tKc3A3Q2tVdktPa3Q3TDlGUDJGa2xTeFJMNC01Tk9NcWpnUDJIVkU5UDZMQlBheUhEUVdxT2VmbTZseFN0WmFNWlVBY2dYak5IOGNWVWV5WGFSV3VMY1J1MWx0VXY4VGJpN1lyTjRzZEwxZHVPeldORnNLVXFzSl9WQdIBqgFBVV95cUxPR0RYaGZSNVFyQlR1Y002VTc1eGE4TFYydVRPcDVpellBM19QWVAyRURfcF90SWlheHFOakpiNV9SMUVmLW8zSEVKT21mX0kzLWhqbkpDYlhzemFqSjJ3MjJKb3c2T0c5bU4zZjM5c3hjUjAwT1JNX3pPeVNzSC1WNllTRU50ZURmNzkzSTBIOTNIQTlveEpTdlBxeVpwUmFuSkNiUDNZT0laQQ?oc=5"
     },
     {
       "title": "Familia denuncia al IMSS por entregar sin órganos el cuerpo de joven que murió durante el parto",
-      "time": "hace 17 h",
+      "time": "hace 1 d",
       "source": "El Universal",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQejI5cVJ2RTV1ZmtORWpOajRYSVgwNl9ZTllTanZGRXVDRXdicHJYbk5kVjFTU0dVcFdvZjhwZ2hUMHRQNllvbkdsd2x5ZzZFM0lpM2djVVFySTdUaWpWcGVKc0hIejNwNTBTU3lBMEFEMWtSSmZGT0owaXB0SEtNcXE0NEZsbnJQZGI1LXRxSGp2WFlrUmJzekR4Ync3cXppOS1xUkNzcmNxNUhEOXRZaFpWNUZvSW0xcnhqbW9CZDAtaEIzNzFkRXF2dXRDc2R6U2h1RUx2YzduZDhOdjlYdE5UM00yX2d1UzcwVTZXWUhfenNneEtrWVBwQmLSAZACQVVfeXFMTjRzX3MzNGdoV2F1c0VRSHg4SjRpUEk5U2N2Mjg2Ujk3NmtEczVCbDlVWG5WYXFWYkt2Uk9kLVBkT1NsUDZ0YVBkYmg1WDlGTnJkd0s5MVNRMklQREhQZEFnN3VpRzZ5NXpFWFU1dXFUVVZBc2RVLTZ3MXdObXZYWldTckxEMEJVd3dpT19PTDJ5d1prSGoyOFdNaEFLaS1HS3kzN2NvTmo4d01aVFVNWmZaQjYxdmRxX2R2RzFqSEUwQ1BOMUpGS0dsaDdmei1uVDU3OTVPSE4xSlZQTDd0M050VzkxdXFiM3prYTZjWlBCcEsxbzZ5WXdXLWJ6SXBORjBqeVpBZkM0Z25oVk1oLTA?oc=5"
     },
@@ -87,6 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMiOEFVX3lxTE00R2pGUEZZU1VxYUhER3oyY0U0VDF2Y3p1aUhaTFliVXVnYU5DMlBOTU9rVko5Q3lq?oc=5"
     }
   ],
-  "updated": "2026-11-20 09:41 UTC",
+  "updated": "2026-11-20 18:20 UTC",
   "failed": []
 }
