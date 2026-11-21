@@ -3,76 +3,76 @@
   "source": "varias fuentes",
   "news": [
     {
-      "title": "El Salvador, bajo la amenaza de una crisis alimentaria por la sequía",
-      "time": "hace 5 min",
+      "title": "Alcaraz alivia las preocupaciones por su lesión y Medvedev se clasifica para semifinales de la ATP",
+      "time": "hace 34 min",
       "source": "France 24 Español",
-      "link": "https://www.france24.com/es/programas/enlace/20261120-el-salvador-bajo-la-amenaza-de-una-crisis-alimentaria-por-la-sequ%C3%ADa"
+      "link": "https://www.france24.com/es/deportes/20261121-alcaraz-alivia-las-preocupaciones-por-su-lesi%C3%B3n-y-medvedev-se-clasifica-para-semifinales-de-la-atp"
     },
     {
-      "title": "Internet Archive Staffers Are Unionizing",
-      "time": "hace 20 min",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/internet-archive-staffers-are-unionizing/"
-    },
-    {
-      "title": "Multiplying your Switch 2’s storage costs less than usual right now",
-      "time": "hace 31 min",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/gadgets/1037749/microsd-express-card-nintendo-switch-2-black-friday-2026-deal-sale"
-    },
-    {
-      "title": "Anker's Black Friday Steals: The Lowest Prices Yet on MagSafe Favorites",
-      "time": "hace 40 min",
-      "source": "MacRumors",
-      "link": "https://www.macrumors.com/2026/11/20/ankers-black-friday-steals/"
-    },
-    {
-      "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
-      "time": "hace 43 min",
+      "title": "Can AI really help spot Black Friday deals? We put it to the test",
+      "time": "hace 59 min",
       "source": "BBC Tech",
-      "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
+      "link": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop",
+      "time": "hace 1 h",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/"
+    },
+    {
+      "title": "La bolsa de Wall Street cae con fuerza en medio del desplome de las acciones de las tecnológicas y registra su peor semana desde la pandemia",
+      "time": "hace 1 h",
+      "source": "BBC Mundo",
+      "link": "https://www.bbc.com/mundo/articles/cm8791vvwelno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
+      "time": "hace 2 h",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement"
+    },
+    {
+      "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
+      "time": "hace 2 h",
+      "source": "Ars Technica",
+      "link": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/"
+    },
+    {
+      "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
+      "time": "hace 2 h",
+      "source": "Ars Technica",
+      "link": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/"
+    },
+    {
+      "title": "Siri Recap Hands-On: Private, But Not Very Useful",
+      "time": "hace 3 h",
+      "source": "MacRumors",
+      "link": "https://www.macrumors.com/2026/11/20/siri-recap-hands-on/"
+    },
+    {
+      "title": "Hurried Announcement: Alessandro Masullo GRH",
+      "time": "hace 6 h",
+      "source": "Hacker News",
+      "link": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/"
+    },
+    {
+      "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+      "time": "hace 7 h",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Apple Black Friday Deals Available Now: AirPods, Apple Watches, MacBooks, and More",
-      "time": "hace 45 min",
+      "time": "hace 7 h",
       "source": "MacRumors",
       "link": "https://www.macrumors.com/2026/11/20/apple-black-friday-deals-available-now-2026/"
     },
     {
-      "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
-      "time": "hace 1 h",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Language Models Can Rewrite Their Own Weights",
-      "time": "hace 1 h",
-      "source": "Hacker News",
-      "link": "https://arxiv.org/abs/2611.21885"
-    },
-    {
-      "title": "Valve says it might have to raise the price of supply-limited Steam Machines",
-      "time": "hace 2 h",
-      "source": "Ars Technica",
-      "link": "https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/"
-    },
-    {
-      "title": "US will soon announce root cause behind FAA nationwide ground stop",
-      "time": "hace 3 h",
-      "source": "Ars Technica",
-      "link": "https://arstechnica.com/gadgets/2026/11/how-faa-can-modernize-us-national-airspace-system-without-emergency-ground-stops/"
-    },
-    {
-      "title": "Qué pasó con las FARC 10 años después del acuerdo de paz que puso fin a más de 50 años de conflicto con el Estado en Colombia",
-      "time": "hace 6 h",
-      "source": "BBC Mundo",
-      "link": "https://www.bbc.com/mundo/articles/c8zxl4rd6nq5o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Al menos 34 miembros de una banda armada mueren en una operación de la policía de Haití",
-      "time": "hace 22 h",
+      "title": "Rusia lanza uno de los \"mayores ataques\" contra Ucrania desde que comenzó la guerra en 2022",
+      "time": "hace 8 h",
       "source": "DW Español",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPelU4cVB5bWIxTjFUd3ZVVU4zb195ZHAzRGJDWHpraWV4OTVJOG54V0tKc3A3Q2tVdktPa3Q3TDlGUDJGa2xTeFJMNC01Tk9NcWpnUDJIVkU5UDZMQlBheUhEUVdxT2VmbTZseFN0WmFNWlVBY2dYak5IOGNWVWV5WGFSV3VMY1J1MWx0VXY4VGJpN1lyTjRzZEwxZHVPeldORnNLVXFzSl9WQdIBqgFBVV95cUxPR0RYaGZSNVFyQlR1Y002VTc1eGE4TFYydVRPcDVpellBM19QWVAyRURfcF90SWlheHFOakpiNV9SMUVmLW8zSEVKT21mX0kzLWhqbkpDYlhzemFqSjJ3MjJKb3c2T0c5bU4zZjM5c3hjUjAwT1JNX3pPeVNzSC1WNllTRU50ZURmNzkzSTBIOTNIQTlveEpTdlBxeVpwUmFuSkNiUDNZT0laQQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQXh0UGFvaFNGUGFua2E1T18zNXNrRVp4a1pyVS1LbVFiOFRNSkx1aEVqS2FDS0M4WDhob01WMkMwQy1PQUx4SnRjaGpvbTNyQzlWRTZuVXlHOEpZUGNSQmJKR2h0NVdFa1Q1QTJ5XzJCZG9CYU1rWVJ6ZnVrT1VtLW45VXZxcTc5akNuYzYyeGh1OWc1TTM1ZnNwd0xSV0RTSXU4MUo2bUFBTDc5aTU3dkVvZVM5a3FCd0FfRkYwTdIBvwFBVV95cUxPMlUwQ1k2dEVyMmM4clpqVjRQN0VEdWV0VFJqNktpV3lzdUhaMUJkOFc3cjJHd0txcGpkbjU1cnNJd1E5b3J3a0syMzZjalZUVEJjdmZmY2FNRzQtRlVlNVhhb1RNODlvRlRjcVpTbG01R2VTdy1iVjE1VkRHRW1sZi0wSmRETDk5VlY1Vkl6T2MtcjJSTW95ei1UdnNBRnl2WlRBTFE0RkFweW9qZ0Z3SGZ1S1RiUjRoRC1ITWlzZw?oc=5"
     },
     {
       "title": "Familia denuncia al IMSS por entregar sin órganos el cuerpo de joven que murió durante el parto",
@@ -87,6 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMiOEFVX3lxTE00R2pGUEZZU1VxYUhER3oyY0U0VDF2Y3p1aUhaTFliVXVnYU5DMlBOTU9rVko5Q3lq?oc=5"
     }
   ],
-  "updated": "2026-11-20 18:20 UTC",
+  "updated": "2026-11-21 01:05 UTC",
   "failed": []
 }
