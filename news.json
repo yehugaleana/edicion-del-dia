@@ -3,64 +3,70 @@
   "source": "varias fuentes",
   "news": [
     {
-      "title": "Toyota, Nissan, and Honda to Standardize Parts to Lower Costs",
+      "title": "En directo: Ucrania busca 14 desaparecidos tras un ataque ruso contra un edificio cerca de Kiev",
+      "time": "hace 34 min",
+      "source": "France 24 Español",
+      "link": "https://www.france24.com/es/europa/20261122-en-directo-ucrania-busca-14-desaparecidos-tras-un-ataque-ruso-contra-un-edificio-cerca-de-kiev"
+    },
+    {
+      "title": "Nintendo’s Switch 2 console is $50 off for Black Friday",
       "time": "hace 1 h",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/gadgets/1038181/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle-2026-sale"
+    },
+    {
+      "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
+      "time": "hace 1 h",
+      "source": "Ars Technica",
+      "link": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/"
+    },
+    {
+      "title": "8 Best Travel Adapters (2026): 20+ Models Tested",
+      "time": "hace 2 h",
+      "source": "Wired",
+      "link": "https://www.wired.com/gallery/best-travel-adapters/"
+    },
+    {
+      "title": "Theresa May 'aghast' at Burnham's EU plans and says 'Brexit is done'",
+      "time": "hace 2 h",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/cvj6l8y3x1x4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "\"Fui coaccionada para tener un hijo\": cómo un multimillonario engañó a la exitosa DJ Liv Nervo para que quedara embarazada",
+      "time": "hace 3 h",
+      "source": "BBC Mundo",
+      "link": "https://www.bbc.com/mundo/articles/cqm2ly382ylxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Murciélagos y Lobos cazaron al \"Chapo Isidro\"; así son los cuerpos de Fuerzas Especiales",
+      "time": "hace 8 h",
+      "source": "El Universal",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYWdYZ1hfVzZsTWdHdEJLa3FsaERCTnRKS2JfZncySndUTXRRb096X0pDZjRILURtRXNpekk4bzdIbDVvNklOX2p6VVFMd0lvUnFwU25QRzNORVhncXVDUlh0UE8yRk5ZNzY1MUYtUERuektPX2NXRDNhbndZMDBjWk91eF91UVJxcnBrOW95ZFQwUjhHN2t0WUN2UlZocTliUXI0bTJISlZLWjB2aExaNU9KdEs5OGh4SjVRVkRCWGhOQdIB1gFBVV95cUxOV0VyT0dkT3hjOFNMY0VKWHpwc2lhTFktWnM2d1RKZURrNXhtcEdRbUJPQVNra3RmT3FlSVlBR2ozV0hmSXFyWEtvNXF5V1dZZ1hzaUJHb0l2VEdyVzM4S3BhSnRLdlk4UVN5djVIeEVna0RGSXc5NklxRU8wN0Vibk8wNXVoSmhDbXZuc2VybWt6X3lyQk1CMTNZakJwU0JNb3hIWmpEWno4YXRQQVVnNlk2T0JrTnZzdzRveWhON2RSNVFPbDM1SjNaZ3hvbEE5b05XMXNn?oc=5"
+    },
+    {
+      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+      "time": "hace 9 h",
       "source": "Hacker News",
       "link": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/"
     },
     {
-      "title": "Fossil fuel dispute threatens to derail COP31 climate deal",
-      "time": "hace 1 h",
-      "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Diez años del acuerdo de paz en Colombia: la guerra que terminó y las promesas que quedaron a medias",
-      "time": "hace 2 h",
-      "source": "France 24 Español",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261122-diez-a%C3%B1os-del-acuerdo-de-paz-en-colombia-la-guerra-que-termin%C3%B3-y-las-promesas-que-quedaron-a-medias"
+      "title": "Trump confirma ciberataque al FBI y teme se destapen \"engaños\" contra él",
+      "time": "hace 13 h",
+      "source": "DW Español",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUzJEWUJUSExIelQ0NGNyZ2tUZ1RxNWZlN1k1TWw5MWxIVUdvdFU3NUdGRHRudGtwa29OZ1NlRzNPMmE4WVViODFLdi1rWExkZTJ6cmNaQjJrc2Ntb0R2eXRGMGM1Q21GY0dvNTNwa21ibHNOcUE5ZkRfZ25UN0pPaGxQeXUweWdxeFJ3amFEY1Z6UURSX3ZtQVJ0VFp2YUx6YjFNVG1ibG1aV3dZNnZNeFlNdUU0Uk9Vd1UyZTVnbjlYYnB4SjJDNk9UamtfR2RsTEHSAdIBQVVfeXFMT09YRkc5bnh4NlZMSE93cm9CRzdNRmZ6Z3pCR25vWW1uV1F3cXI0UzN0ZEExUGJWQXBxeHVEUkRCS3JwWFNfQkQ5ZzVDMDY2NG9HXzVXbVJ4MTVJTHJrNEJ2ck1KT2N1WlI5Q29aWGNuV1Z6M3VMWk5vMjR5UzJRNVMxY2JDM1ctZmlWZ1g2bHdSM01PaVY1VGNCOXdOclJKMFdfYW9ScjdZdG1EczJhNlVwYXdILXJrZEUwM1pXbHFBeXpDUGdKRkVXbFlaLXdkQ2pn?oc=5"
     },
     {
       "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
-      "time": "hace 6 h",
+      "time": "hace 15 h",
       "source": "Ars Technica",
       "link": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/"
     },
     {
-      "title": "Amazon is complaining about NYC Council on shipping labels, too",
-      "time": "hace 7 h",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label"
-    },
-    {
-      "title": "Ingresan al expresidente Jair Bolsonaro a terapia intensiva debido a una obstrucción intestinal",
-      "time": "hace 9 h",
-      "source": "DW Español",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYm9LUUxWSVdSQXdxd3U2YklaNzAxdjlFNEc0ajBKYnhWZ3EyaV94RlVGaU9rNzZtaFA2QVJqaUcyU2tKZFZVZjFHV180akNMLUhaMF9XY0NEV005eDQ3SzlmUWpMRjJ1d21ybVB1VzVJVXZ5Rkx2NDhOUjlRRDRnNDBYczEwV24yTVZhQ1BFZ2VuYlQ3R2VCOFlkTGkzaXlEcENQVXlKb2xQd9IBqgFBVV95cUxOZ3BjRWREUGlKRW1pbUhpUUtmUWVjWjVHVEJ5YzE3REtOM25kTVVxNkRwMWJra0FORkFaRGN4M1FuOTNWdzRwM2tTM2l3XzNhT0xkLXh3Q0U3enl4SUhzQzNBUHFpQXlZcm10TlpsdzI4VmxfMGNLLWJ3b1RaU29yaGtHQjNOdTJiRk5TZ0E1QkFfODRUQW9RTmF2SHJuYVZ3azJMcHVRa2RrQQ?oc=5"
-    },
-    {
-      "title": "\"La utopía socialista\" que llevó a un grupo de australianos idealistas a Paraguay hace más de 130 años (y en qué terminó la experiencia)",
-      "time": "hace 10 h",
-      "source": "BBC Mundo",
-      "link": "https://www.bbc.com/mundo/articles/cr5yny54gvy3o?at_medium=RSS&at_campaign=rss"
-    },
-    {
       "title": "Apple Store in UK Permanently Closing Today",
-      "time": "hace 11 h",
+      "time": "hace 20 h",
       "source": "MacRumors",
       "link": "https://www.macrumors.com/2026/11/21/apple-store-in-uk-permanently-closing-today/"
-    },
-    {
-      "title": "The Outages Are Just Getting Started",
-      "time": "hace 16 h",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/"
-    },
-    {
-      "title": "“Race realism” isn’t realistic—and it isn’t good science",
-      "time": "hace 17 h",
-      "source": "Ars Technica",
-      "link": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/"
     },
     {
       "title": "La Granja VIP 2026: Los nominados DEFINITIVOS tras la traición de Ivonne Montero hoy 20 de noviembre",
@@ -79,14 +85,8 @@
       "time": "hace 1 d",
       "source": "MacRumors",
       "link": "https://www.macrumors.com/2026/11/21/apple-black-friday-deals-available-now-2026/"
-    },
-    {
-      "title": "El Universal | El periódico de México líder en noticias y clasificados",
-      "time": "hace 3081 d",
-      "source": "El Universal",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB3a0tkaHFGV3d3bXQzQ29WS3E5SGVuZDBobHJyVWJYSFVXN2JsMVdyenRRNjhrVFZfaDcyOGhybnVkSGpGbVE?oc=5"
     }
   ],
-  "updated": "2026-11-22 05:09 UTC",
+  "updated": "2026-11-22 14:04 UTC",
   "failed": []
 }
