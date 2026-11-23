@@ -3,74 +3,80 @@
   "source": "varias fuentes",
   "news": [
     {
-      "title": "Alcaraz conquista el Masters ATP y a sus 23 años entra al club de Djokovic, Federer y Agassi",
+      "title": "'Los juegos del hambre': la saga que sigue inspirando a los manifestantes en el mundo",
       "time": "hace 11 min",
       "source": "France 24 Español",
-      "link": "https://www.france24.com/es/deportes/20261122-alcaraz-conquista-el-masters-atp-y-a-sus-23-a%C3%B1os-entra-al-club-de-djokovic-federer-y-agassi"
+      "link": "https://www.france24.com/es/programas/cultura/20261123-los-juegos-del-hambre-la-saga-que-sigue-inspirando-a-los-manifestantes-en-el-mundo"
     },
     {
-      "title": "iPhone Duo Could Get More Lock Screen Widgets, Leak Suggests",
-      "time": "hace 54 min",
-      "source": "MacRumors",
-      "link": "https://www.macrumors.com/2026/11/22/iphone-duo-could-get-more-lock-screen-widgets/"
-    },
-    {
-      "title": "Gurman: Siri Layoffs Spared Newer AI Systems, But Problems Persist",
+      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
       "time": "hace 1 h",
-      "source": "MacRumors",
-      "link": "https://www.macrumors.com/2026/11/22/siri-layoffs-spared-newer-ai-systems/"
+      "source": "Hacker News",
+      "link": "https://spelunkr.tv"
     },
     {
-      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
-      "time": "hace 2 h",
-      "source": "Hacker News",
-      "link": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife"
+      "title": "We haven’t seen the last of the major tech outages",
+      "time": "hace 1 h",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/tech/1039851/major-tech-outages"
     },
     {
       "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-      "time": "hace 3 h",
+      "time": "hace 1 h",
       "source": "BBC News",
       "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Delta flights in and out of Atlanta delayed due to system outage",
-      "time": "hace 3 h",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage"
+      "title": "Despiden a Humberto Padgett tras su muerte, Ciro Gómez Leyva destaca su legado periodístico",
+      "time": "hace 1 h",
+      "source": "El Universal",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcDNkVVd5QmM0WGZZUEdqdGpoQWI0ajlWNjVaMk1Wbl9tUzAxdDd0cTRiTVRhem9OWWtIZ3dwUWhDZWZ2SmwzQlhPN3lXb3BaTmd3SHdkY0t4eXRhdUZ6Z3g4RXFaaER3NXdkU3d2ZmhZaEo4NkFDYy1YX2FGenlBSkJ3cndTRTIxZ3Jxbkpsc3BxSVJobzNKbTlGVkprYjVzcm1IZnIyU21qTjNoWnUxNmN3dFN6dUJhRDZJNHVlVkUtbE1ObHdRMg?oc=5"
+    },
+    {
+      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "time": "hace 2 h",
+      "source": "BBC Tech",
+      "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "AirPods Pro 3 Drop to $169.99 in Amazon Black Friday Sale",
+      "time": "hace 5 h",
+      "source": "MacRumors",
+      "link": "https://www.macrumors.com/2026/11/22/airpods-pro-3-169/"
+    },
+    {
+      "title": "iPhone Duo Could Get More Lock Screen Widgets, Leak Suggests",
+      "time": "hace 5 h",
+      "source": "MacRumors",
+      "link": "https://www.macrumors.com/2026/11/22/iphone-duo-could-get-more-lock-screen-widgets/"
     },
     {
       "title": "Pasé más de 10 años llevando por las montañas de Colombia los mensajes secretos que hicieron posible el acuerdo de paz entre el gobierno y las FARC",
-      "time": "hace 7 h",
+      "time": "hace 12 h",
       "source": "BBC Mundo",
       "link": "https://www.bbc.com/mundo/articles/ckz74v0n4rydo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
-      "time": "hace 9 h",
+      "time": "hace 14 h",
       "source": "Ars Technica",
       "link": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/"
     },
     {
       "title": "8 Best Travel Adapters (2026): 20+ Models Tested",
-      "time": "hace 9 h",
+      "time": "hace 14 h",
       "source": "Wired",
       "link": "https://www.wired.com/gallery/best-travel-adapters/"
     },
     {
-      "title": "Nido de las Águilas, el epicentro de los narcodrones espías",
-      "time": "hace 11 h",
-      "source": "El Universal",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeWNoUkNZNmpDWXlKLUFvWlBKSHJBUDk1emxwcG04NlR5VjBCaGpvZTVDb0ZOVU55dXgtRDQxaHlCSlpMMk5uYjRBT256SC14bjZ4OXRMcHVaVEx4THZKcVd6ckE3SDEtSXktdXAxYndfVmNzM0NRakgyelNsRk5DUlFXekZvVHJoRzY1clMxeFg2aEhHaVJmc2pxREFyd9IBsgFBVV95cUxNdVN2MXNBNmFVUHpBZVoza1g5ZWFOcDIwNE9ab3hNa3dwRzNIeno5Tnp0NVdTQzJuRlNFTi1EZjdRWDAwY0ROMTZsQ3hfRnl1XzVPSzZseGk0Q0hNQjN4M1NsMERMcXRHU0JUVHRoR3oxNUp5eURKbDFWNHJSLUpzYU5UOVJTSTJHUXZhTUxLMmNJZGMwWXVRTUN5amdIT2hTOE11UENjc3lWUGtoTVFyR0dn?oc=5"
-    },
-    {
       "title": "Trump confirma ciberataque al FBI y teme se destapen \"engaños\" contra él",
-      "time": "hace 20 h",
+      "time": "hace 23 h",
       "source": "DW Español",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUzJEWUJUSExIelQ0NGNyZ2tUZ1RxNWZlN1k1TWw5MWxIVUdvdFU3NUdGRHRudGtwa29OZ1NlRzNPMmE4WVViODFLdi1rWExkZTJ6cmNaQjJrc2Ntb0R2eXRGMGM1Q21GY0dvNTNwa21ibHNOcUE5ZkRfZ25UN0pPaGxQeXUweWdxeFJ3amFEY1Z6UURSX3ZtQVJ0VFp2YUx6YjFNVG1ibG1aV3dZNnZNeFlNdUU0Uk9Vd1UyZTVnbjlYYnB4SjJDNk9UamtfR2RsTEHSAdIBQVVfeXFMT09YRkc5bnh4NlZMSE93cm9CRzdNRmZ6Z3pCR25vWW1uV1F3cXI0UzN0ZEExUGJWQXBxeHVEUkRCS3JwWFNfQkQ5ZzVDMDY2NG9HXzVXbVJ4MTVJTHJrNEJ2ck1KT2N1WlI5Q29aWGNuV1Z6M3VMWk5vMjR5UzJRNVMxY2JDM1ctZmlWZ1g2bHdSM01PaVY1VGNCOXdOclJKMFdfYW9ScjdZdG1EczJhNlVwYXdILXJrZEUwM1pXbHFBeXpDUGdKRkVXbFlaLXdkQ2pn?oc=5"
     },
     {
       "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
-      "time": "hace 23 h",
+      "time": "hace 1 d",
       "source": "Ars Technica",
       "link": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/"
     },
@@ -79,14 +85,8 @@
       "time": "hace 1 d",
       "source": "ADN40",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNc3QwQmxvTV9VOGVjNEFvYlh0RFltTV9Nc3dFN2Z1U0kxUHZwekVXc3FpclNCd2twLUVoSV9yZDhncjI5SkhDNHBXLVZLMHAtZFZvRkN3VGVyUjhtc0Q2ZVJqRDd3Qkk5VHh4dFhiYjc0S3IybV9hemhsY2pyT3NjbVlxWkxCdzBaLUdHWGlsT2NZNDVSdDBxWXlPOFdvUmlLM0tmaXVlTGdCS0k3Z29pN3dxRURKYkZ5Tkx0bm95YzZ5UDhNVkEwVnlmSnpyUDZSUnhCZzBVdldhQ1phT2tseGVB?oc=5"
-    },
-    {
-      "title": "Can AI really help spot Black Friday deals? We put it to the test",
-      "time": "hace 1 d",
-      "source": "BBC Tech",
-      "link": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss"
     }
   ],
-  "updated": "2026-11-22 21:32 UTC",
+  "updated": "2026-11-23 02:14 UTC",
   "failed": []
 }
