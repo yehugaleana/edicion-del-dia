@@ -3,90 +3,99 @@
   "source": "varias fuentes",
   "news": [
     {
-      "title": "'Los juegos del hambre': la saga que sigue inspirando a los manifestantes en el mundo",
-      "time": "hace 11 min",
+      "title": "F1 in Las Vegas: You've never seen an F1 race like this before",
+      "time": "hace 7 min",
+      "source": "Ars Technica",
+      "link": "https://arstechnica.com/cars/2026/11/f1-in-las-vegas-youve-never-seen-an-f1-race-like-this-before/"
+    },
+    {
+      "title": "Colombia, 10 años de una paz inconclusa",
+      "time": "hace 34 min",
       "source": "France 24 Español",
-      "link": "https://www.france24.com/es/programas/cultura/20261123-los-juegos-del-hambre-la-saga-que-sigue-inspirando-a-los-manifestantes-en-el-mundo"
+      "link": "https://www.france24.com/es/programas/reporteros/20261123-colombia-avances-deudas-y-heridas-abiertas-a-diez-a%C3%B1os-del-acuerdo-de-paz"
     },
     {
-      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
-      "time": "hace 1 h",
-      "source": "Hacker News",
-      "link": "https://spelunkr.tv"
+      "title": "iPhone Air 2 May Not Feature Smaller Dynamic Island",
+      "time": "hace 39 min",
+      "source": "MacRumors",
+      "link": "https://www.macrumors.com/2026/11/23/iphone-air-2-may-not-have-smaller-dynamic-island/"
     },
     {
-      "title": "We haven’t seen the last of the major tech outages",
-      "time": "hace 1 h",
+      "title": "Amazon is taking orders for the Moto Tag 3 before it’s even been announced",
+      "time": "hace 46 min",
       "source": "The Verge",
-      "link": "https://www.theverge.com/tech/1039851/major-tech-outages"
+      "link": "https://www.theverge.com/tech/1039903/motorola-moto-tag-3-tracker-amazon-leak"
     },
     {
-      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+      "title": "Nvidia Is Powering Brain-Computer Interfaces Now",
+      "time": "hace 50 min",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/"
+    },
+    {
+      "title": "iPad Mini 8 Gets First Major Discount for Black Friday at $100 Off",
+      "time": "hace 58 min",
+      "source": "MacRumors",
+      "link": "https://www.macrumors.com/2026/11/23/ipad-mini-8-gets-100-off/"
+    },
+    {
+      "title": "Tri-screen portable monitors aren’t for the faint of heart",
       "time": "hace 1 h",
+      "source": "Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2026/11/a-triple-screen-portable-monitor-means-more-pixels-and-more-bulk/"
+    },
+    {
+      "title": "Submit Your Questions: Will Anyone Keep You Safe From AI?",
+      "time": "hace 2 h",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/livestream-will-anyone-keep-us-safe-from-ai/"
+    },
+    {
+      "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+      "time": "hace 2 h",
       "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
+      "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Despiden a Humberto Padgett tras su muerte, Ciro Gómez Leyva destaca su legado periodístico",
-      "time": "hace 1 h",
-      "source": "El Universal",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcDNkVVd5QmM0WGZZUEdqdGpoQWI0ajlWNjVaMk1Wbl9tUzAxdDd0cTRiTVRhem9OWWtIZ3dwUWhDZWZ2SmwzQlhPN3lXb3BaTmd3SHdkY0t4eXRhdUZ6Z3g4RXFaaER3NXdkU3d2ZmhZaEo4NkFDYy1YX2FGenlBSkJ3cndTRTIxZ3Jxbkpsc3BxSVJobzNKbTlGVkprYjVzcm1IZnIyU21qTjNoWnUxNmN3dFN6dUJhRDZJNHVlVkUtbE1ObHdRMg?oc=5"
+      "title": "The next circle of security hell",
+      "time": "hace 2 h",
+      "source": "Hacker News",
+      "link": "https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/"
+    },
+    {
+      "title": "\"El presidente (De la Espriella) está totalmente equivocado si cree que esta paz es falsa\": Santos y Londoño hablan juntos con BBC Mundo a 10 años del acuerdo que puso fin al conflicto en Colombia",
+      "time": "hace 3 h",
+      "source": "BBC Mundo",
+      "link": "https://www.bbc.com/mundo/watch/cm0evqgj5p4go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+      "time": "hace 3 h",
+      "source": "Hacker News",
+      "link": "https://z.ai/blog/glm-5.4"
     },
     {
       "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
-      "time": "hace 2 h",
+      "time": "hace 13 h",
       "source": "BBC Tech",
       "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "AirPods Pro 3 Drop to $169.99 in Amazon Black Friday Sale",
-      "time": "hace 5 h",
-      "source": "MacRumors",
-      "link": "https://www.macrumors.com/2026/11/22/airpods-pro-3-169/"
-    },
-    {
-      "title": "iPhone Duo Could Get More Lock Screen Widgets, Leak Suggests",
-      "time": "hace 5 h",
-      "source": "MacRumors",
-      "link": "https://www.macrumors.com/2026/11/22/iphone-duo-could-get-more-lock-screen-widgets/"
-    },
-    {
-      "title": "Pasé más de 10 años llevando por las montañas de Colombia los mensajes secretos que hicieron posible el acuerdo de paz entre el gobierno y las FARC",
-      "time": "hace 12 h",
-      "source": "BBC Mundo",
-      "link": "https://www.bbc.com/mundo/articles/ckz74v0n4rydo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
-      "time": "hace 14 h",
-      "source": "Ars Technica",
-      "link": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/"
-    },
-    {
-      "title": "8 Best Travel Adapters (2026): 20+ Models Tested",
-      "time": "hace 14 h",
-      "source": "Wired",
-      "link": "https://www.wired.com/gallery/best-travel-adapters/"
-    },
-    {
       "title": "Trump confirma ciberataque al FBI y teme se destapen \"engaños\" contra él",
-      "time": "hace 23 h",
+      "time": "hace 1 d",
       "source": "DW Español",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUzJEWUJUSExIelQ0NGNyZ2tUZ1RxNWZlN1k1TWw5MWxIVUdvdFU3NUdGRHRudGtwa29OZ1NlRzNPMmE4WVViODFLdi1rWExkZTJ6cmNaQjJrc2Ntb0R2eXRGMGM1Q21GY0dvNTNwa21ibHNOcUE5ZkRfZ25UN0pPaGxQeXUweWdxeFJ3amFEY1Z6UURSX3ZtQVJ0VFp2YUx6YjFNVG1ibG1aV3dZNnZNeFlNdUU0Uk9Vd1UyZTVnbjlYYnB4SjJDNk9UamtfR2RsTEHSAdIBQVVfeXFMT09YRkc5bnh4NlZMSE93cm9CRzdNRmZ6Z3pCR25vWW1uV1F3cXI0UzN0ZEExUGJWQXBxeHVEUkRCS3JwWFNfQkQ5ZzVDMDY2NG9HXzVXbVJ4MTVJTHJrNEJ2ck1KT2N1WlI5Q29aWGNuV1Z6M3VMWk5vMjR5UzJRNVMxY2JDM1ctZmlWZ1g2bHdSM01PaVY1VGNCOXdOclJKMFdfYW9ScjdZdG1EczJhNlVwYXdILXJrZEUwM1pXbHFBeXpDUGdKRkVXbFlaLXdkQ2pn?oc=5"
-    },
-    {
-      "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
-      "time": "hace 1 d",
-      "source": "Ars Technica",
-      "link": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/"
-    },
-    {
-      "title": "La Granja VIP 2026: Los nominados DEFINITIVOS tras la traición de Ivonne Montero hoy 20 de noviembre",
-      "time": "hace 1 d",
-      "source": "ADN40",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNc3QwQmxvTV9VOGVjNEFvYlh0RFltTV9Nc3dFN2Z1U0kxUHZwekVXc3FpclNCd2twLUVoSV9yZDhncjI5SkhDNHBXLVZLMHAtZFZvRkN3VGVyUjhtc0Q2ZVJqRDd3Qkk5VHh4dFhiYjc0S3IybV9hemhsY2pyT3NjbVlxWkxCdzBaLUdHWGlsT2NZNDVSdDBxWXlPOFdvUmlLM0tmaXVlTGdCS0k3Z29pN3dxRURKYkZ5Tkx0bm95YzZ5UDhNVkEwVnlmSnpyUDZSUnhCZzBVdldhQ1phT2tseGVB?oc=5"
     }
   ],
-  "updated": "2026-11-23 02:14 UTC",
-  "failed": []
+  "updated": "2026-11-23 14:01 UTC",
+  "failed": [
+    {
+      "source": "El Universal",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "source": "ADN40",
+      "error": "HTTP Error 429: Too Many Requests"
+    }
+  ]
 }
