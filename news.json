@@ -3,99 +3,90 @@
   "source": "varias fuentes",
   "news": [
     {
-      "title": "F1 in Las Vegas: You've never seen an F1 race like this before",
-      "time": "hace 7 min",
-      "source": "Ars Technica",
-      "link": "https://arstechnica.com/cars/2026/11/f1-in-las-vegas-youve-never-seen-an-f1-race-like-this-before/"
-    },
-    {
-      "title": "Colombia, 10 años de una paz inconclusa",
-      "time": "hace 34 min",
+      "title": "Nvidia dispara Wall Street con el regreso de Jensen Huang y suma más de USD 900.000 millones",
+      "time": "hace 20 min",
       "source": "France 24 Español",
-      "link": "https://www.france24.com/es/programas/reporteros/20261123-colombia-avances-deudas-y-heridas-abiertas-a-diez-a%C3%B1os-del-acuerdo-de-paz"
+      "link": "https://www.france24.com/es/programas/econom%C3%ADa/20261124-nvidia-dispara-wall-street-con-el-regreso-de-jensen-huang-y-suma-m%C3%A1s-de-usd-900-000-millones"
     },
     {
-      "title": "iPhone Air 2 May Not Feature Smaller Dynamic Island",
-      "time": "hace 39 min",
-      "source": "MacRumors",
-      "link": "https://www.macrumors.com/2026/11/23/iphone-air-2-may-not-have-smaller-dynamic-island/"
-    },
-    {
-      "title": "Amazon is taking orders for the Moto Tag 3 before it’s even been announced",
-      "time": "hace 46 min",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/tech/1039903/motorola-moto-tag-3-tracker-amazon-leak"
-    },
-    {
-      "title": "Nvidia Is Powering Brain-Computer Interfaces Now",
-      "time": "hace 50 min",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/"
-    },
-    {
-      "title": "iPad Mini 8 Gets First Major Discount for Black Friday at $100 Off",
-      "time": "hace 58 min",
-      "source": "MacRumors",
-      "link": "https://www.macrumors.com/2026/11/23/ipad-mini-8-gets-100-off/"
-    },
-    {
-      "title": "Tri-screen portable monitors aren’t for the faint of heart",
+      "title": "Inside Nvidia, Not Everyone Is Celebrating Jensen Huang’s Return",
       "time": "hace 1 h",
-      "source": "Ars Technica",
-      "link": "https://arstechnica.com/gadgets/2026/11/a-triple-screen-portable-monitor-means-more-pixels-and-more-bulk/"
-    },
-    {
-      "title": "Submit Your Questions: Will Anyone Keep You Safe From AI?",
-      "time": "hace 2 h",
       "source": "Wired",
-      "link": "https://www.wired.com/story/livestream-will-anyone-keep-us-safe-from-ai/"
+      "link": "https://www.wired.com/story/inside-nvidia-not-everyone-is-celebrating-jensen-huangs-return/"
     },
     {
-      "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
-      "time": "hace 2 h",
+      "title": "How Nvidia is reacting to Jensen Huang's return as CEO",
+      "time": "hace 1 h",
       "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
+      "link": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "The next circle of security hell",
+      "title": "Google alternative Kagi launches an email service",
       "time": "hace 2 h",
-      "source": "Hacker News",
-      "link": "https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/"
+      "source": "The Verge",
+      "link": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative"
     },
     {
-      "title": "\"El presidente (De la Espriella) está totalmente equivocado si cree que esta paz es falsa\": Santos y Londoño hablan juntos con BBC Mundo a 10 años del acuerdo que puso fin al conflicto en Colombia",
+      "title": "OpenAI Brings GPT-6.2 Sol to ChatGPT's Chat Tab",
+      "time": "hace 2 h",
+      "source": "MacRumors",
+      "link": "https://www.macrumors.com/2026/11/23/openai-gpt-6-2-sol-chatgpt/"
+    },
+    {
+      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
       "time": "hace 3 h",
-      "source": "BBC Mundo",
-      "link": "https://www.bbc.com/mundo/watch/cm0evqgj5p4go?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
-      "time": "hace 3 h",
-      "source": "Hacker News",
-      "link": "https://z.ai/blog/glm-5.4"
-    },
-    {
-      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
-      "time": "hace 13 h",
       "source": "BBC Tech",
-      "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss"
+      "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Trump confirma ciberataque al FBI y teme se destapen \"engaños\" contra él",
-      "time": "hace 1 d",
+      "title": "Google Search Gets Wallet Access, With Drive Coming Soon",
+      "time": "hace 4 h",
+      "source": "MacRumors",
+      "link": "https://www.macrumors.com/2026/11/23/google-search-wallet-access/"
+    },
+    {
+      "title": "Trump halts Iowa detonation, says new governor to blame if it blows accidentally",
+      "time": "hace 4 h",
+      "source": "Ars Technica",
+      "link": "https://arstechnica.com/health/2026/11/trump-halts-iowa-detonation-says-new-governor-to-blame-if-it-blows-accidentally/"
+    },
+    {
+      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "time": "hace 5 h",
+      "source": "Ars Technica",
+      "link": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/"
+    },
+    {
+      "title": "El Consejo Administrativo de Nvidia vuelve a nombrar a Jensen Huang como CEO y presidente",
+      "time": "hace 8 h",
       "source": "DW Español",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUzJEWUJUSExIelQ0NGNyZ2tUZ1RxNWZlN1k1TWw5MWxIVUdvdFU3NUdGRHRudGtwa29OZ1NlRzNPMmE4WVViODFLdi1rWExkZTJ6cmNaQjJrc2Ntb0R2eXRGMGM1Q21GY0dvNTNwa21ibHNOcUE5ZkRfZ25UN0pPaGxQeXUweWdxeFJ3amFEY1Z6UURSX3ZtQVJ0VFp2YUx6YjFNVG1ibG1aV3dZNnZNeFlNdUU0Uk9Vd1UyZTVnbjlYYnB4SjJDNk9UamtfR2RsTEHSAdIBQVVfeXFMT09YRkc5bnh4NlZMSE93cm9CRzdNRmZ6Z3pCR25vWW1uV1F3cXI0UzN0ZEExUGJWQXBxeHVEUkRCS3JwWFNfQkQ5ZzVDMDY2NG9HXzVXbVJ4MTVJTHJrNEJ2ck1KT2N1WlI5Q29aWGNuV1Z6M3VMWk5vMjR5UzJRNVMxY2JDM1ctZmlWZ1g2bHdSM01PaVY1VGNCOXdOclJKMFdfYW9ScjdZdG1EczJhNlVwYXdILXJrZEUwM1pXbHFBeXpDUGdKRkVXbFlaLXdkQ2pn?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMmxiaVhlT3lhY1dDakV1MHJ0Y3h2NmZqVXhxWmxSTHAwc2NHM2sxZVh0MHppRjNkZnFCcHBFdGVSbnFPdGxYV2NMLWlGMmI5bURhXzZMWEZmajFEd0hvRTNENlhEY1hOeGFSZmYzSzA5UHV2d25PY0xscUJ1V0tpYjhod0hhWWt3c2ZqMEZPQ3lkUEJibTRHRGhpQ19HUE9GdzRPYkJ2c19RMzkyamxXWVNVMjlKeVhrWFhJSFo2ZEE4ZnlPc04xU2d30gHKAUFVX3lxTE1TRFRsNF9hLWtobm9icnBCOXJaeFZWXzJ5OGRtNFJlMmxBZ0xPb0wxanhmbk1GbTFmMEdiRXRzcloyTmVZZXI0N2ZXV25rRnNqNXRGSXlVZlN3MXp2VkVlcnpQMWtUa200ZVU3dWQ5MjBmMk11M1VPemlaNGdWY3VjZWh4dmFlZEZ2el9KYUN2dG0yTUN4dk04bTJ0V0Z1ZGY2R0xRcWd0ZFlxY2pKdUlZamtNYjZiVnpHTTN6QmpkeDNLTWdMWVpfTGc?oc=5"
+    },
+    {
+      "title": "Con 361 elementos y 14 aeronaves, así fue el operativo Centella para detener a “El Chapo Isidro”",
+      "time": "hace 9 h",
+      "source": "El Universal",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPOGllM0tOSVZYOHY1S05EZTdvVkQ4aWFiSV83SDZEZGZ1TXp1MmRvU3BBTWxDQWJwUkpyekFUNk12Z1lJOXNXcU1wVkF6dUZWRkpsc3JWdUlIVFp2T1psRnlaTlN5bXRENkNKdC0ycVlVMmVPVy1IUnBaUFIyTEt5M2pqVWltOEotSVlsOFZ0V2Nlai1ITFFDNFc4VGVEbjc3dlM1Ml9SZ2ZEQUJpMG9wdkdGcjV3eEdNTzVhNnpzQnBXbU13MlFVT1MwT3c1TDlqT1hJcWFxZ0ItdTlmRURRNGRnSGtVNThEZ1JvT2dDbDRMd9IBhgJBVV95cUxNQm0xVWU3ZUxUWjN2a1dIUFprRnNLRFJzQ1MtaldBWTVjMHFybnlOQnFLcDctVDA3clcxRWRya0t4aGRlQVNacXY1dUQxWnRpZ3hhdFZRUmZRNlFLdGEzVkVvb3NURi1GSTZzcW9kaFpCdFBqSG5NcnNhd3MyS1NHOUdZOElwWnAyRXdNS1B2MERsR202UE1JVlNyR2s2SVFNRDljbU1ndlNwRjdiejdXUUtoeG1FRTJpaVl1MFZ1aXJtbnR2c1Z0MEdHQ2MzczhkajM1bEVLam5MdzhBMXNNRlNIbm5mcGt3cmlrWTYxY1VlXzEtQ0lCdDgzVkhMbkI1c3E4ZThR?oc=5"
+    },
+    {
+      "title": "\"La violencia de hoy no es producto del acuerdo de paz. Es la falta de implementación\": Juan Manuel Santos y Rodrigo Londoño a BBC Mundo",
+      "time": "hace 12 h",
+      "source": "BBC Mundo",
+      "link": "https://www.bbc.com/mundo/articles/c6wy4g48l0g5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Nvidia Reinstates Jensen Huang as CEO",
+      "time": "hace 12 h",
+      "source": "Hacker News",
+      "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html"
+    },
+    {
+      "title": "¡No los lleves! Una semana COMPLETA sin clases; alumnos que se quedan en casa del 23 al 27 de noviembre",
+      "time": "hace 1 d",
+      "source": "ADN40",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQjdBeVRHSFpTOE91YjhnNHlyRXZONVdGaGpLMm4wS2daNEktZldfaVNHbkVjQ0gwMjlFSXRzR2xxb2JSVkN0QWZOTkY4T2hfQUFmcmtmR2pLQlU2YVdZVWNaYlBBNzJmX1V1cEs5cXdSLXpMM2JnR0RpZ0x2OGNPb0FZYmhsMjdlajdjb1c5S3FKV1VSYXhMczBrUGQzZ3ZLVlV0YXN0MU41Q2Q0bXhyOW0xUVRieDg0OXI0MlZRbGU1NGFSb2plYW50a2VySFRMNHYtbS0tNA?oc=5"
     }
   ],
-  "updated": "2026-11-23 14:01 UTC",
-  "failed": [
-    {
-      "source": "El Universal",
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    {
-      "source": "ADN40",
-      "error": "HTTP Error 429: Too Many Requests"
-    }
-  ]
+  "updated": "2026-11-24 02:44 UTC",
+  "failed": []
 }
