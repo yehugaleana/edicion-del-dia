@@ -3,90 +3,90 @@
   "source": "varias fuentes",
   "news": [
     {
-      "title": "Nvidia dispara Wall Street con el regreso de Jensen Huang y suma más de USD 900.000 millones",
+      "title": "Apple to Release Four (RED) Products by Next Week",
+      "time": "hace 1 min",
+      "source": "MacRumors",
+      "link": "https://www.macrumors.com/2026/11/24/apple-to-release-four-red-products/"
+    },
+    {
+      "title": "iPhone Air 2 and iPhone 18 Rumored to Feature Thicker Cameras",
+      "time": "hace 5 min",
+      "source": "MacRumors",
+      "link": "https://www.macrumors.com/2026/11/24/iphone-air-2-and-iphone-18-thicker-cameras/"
+    },
+    {
+      "title": "Harman Kardon’s classic, see-through SoundSticks 4 are half off",
       "time": "hace 20 min",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/gadgets/1040300/harman-kardon-soundsticks-4-speakers-black-friday-2026-deal-sale"
+    },
+    {
+      "title": "Nilo: Egipto y Etiopía, la batalla por el control del río",
+      "time": "hace 22 min",
       "source": "France 24 Español",
-      "link": "https://www.france24.com/es/programas/econom%C3%ADa/20261124-nvidia-dispara-wall-street-con-el-regreso-de-jensen-huang-y-suma-m%C3%A1s-de-usd-900-000-millones"
+      "link": "https://www.france24.com/es/programas/%C3%A1frica-7-d%C3%ADas/20261124-nilo-egipto-y-etiop%C3%ADa-la-batalla-por-el-control-del-r%C3%ADo"
     },
     {
-      "title": "Inside Nvidia, Not Everyone Is Celebrating Jensen Huang’s Return",
-      "time": "hace 1 h",
-      "source": "Wired",
-      "link": "https://www.wired.com/story/inside-nvidia-not-everyone-is-celebrating-jensen-huangs-return/"
-    },
-    {
-      "title": "How Nvidia is reacting to Jensen Huang's return as CEO",
+      "title": "Two arrested on suspicion of burglary at Prince and Princess of Wales's Norfolk home",
       "time": "hace 1 h",
       "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss"
+      "link": "https://www.bbc.co.uk/news/articles/cr9d7qdg24vno?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Google alternative Kagi launches an email service",
+      "title": "LLM agents work for their parent companies, not for you",
+      "time": "hace 1 h",
+      "source": "Hacker News",
+      "link": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/"
+    },
+    {
+      "title": "8 Best Espresso Machines for Home (2026), Tested by Coffee Pros",
       "time": "hace 2 h",
-      "source": "The Verge",
-      "link": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative"
+      "source": "Wired",
+      "link": "https://www.wired.com/gallery/best-espresso-machines/"
     },
     {
-      "title": "OpenAI Brings GPT-6.2 Sol to ChatGPT's Chat Tab",
+      "title": "\"No creo que el narcotráfico sea invencible, pero en la práctica lo es para quienes hoy gobiernan\": por qué la violencia persiste en Colombia 10 años después del acuerdo de paz",
       "time": "hace 2 h",
-      "source": "MacRumors",
-      "link": "https://www.macrumors.com/2026/11/23/openai-gpt-6-2-sol-chatgpt/"
+      "source": "BBC Mundo",
+      "link": "https://www.bbc.com/mundo/articles/cwzr53jr1xnpo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
-      "time": "hace 3 h",
-      "source": "BBC Tech",
-      "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Google Search Gets Wallet Access, With Drive Coming Soon",
-      "time": "hace 4 h",
-      "source": "MacRumors",
-      "link": "https://www.macrumors.com/2026/11/23/google-search-wallet-access/"
-    },
-    {
-      "title": "Trump halts Iowa detonation, says new governor to blame if it blows accidentally",
-      "time": "hace 4 h",
+      "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+      "time": "hace 2 h",
       "source": "Ars Technica",
-      "link": "https://arstechnica.com/health/2026/11/trump-halts-iowa-detonation-says-new-governor-to-blame-if-it-blows-accidentally/"
+      "link": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/"
     },
     {
-      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "title": "One terminal command gave my forgotten Android device a desk job",
+      "time": "hace 2 h",
+      "source": "Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2026/11/one-terminal-command-gave-my-forgotten-android-device-a-desk-job/"
+    },
+    {
+      "title": "Helpful but awkward: My week with Meta's Muse ahead of its UK launch",
       "time": "hace 5 h",
-      "source": "Ars Technica",
-      "link": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/"
+      "source": "BBC Tech",
+      "link": "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "El Consejo Administrativo de Nvidia vuelve a nombrar a Jensen Huang como CEO y presidente",
-      "time": "hace 8 h",
+      "time": "hace 11 h",
       "source": "DW Español",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMmxiaVhlT3lhY1dDakV1MHJ0Y3h2NmZqVXhxWmxSTHAwc2NHM2sxZVh0MHppRjNkZnFCcHBFdGVSbnFPdGxYV2NMLWlGMmI5bURhXzZMWEZmajFEd0hvRTNENlhEY1hOeGFSZmYzSzA5UHV2d25PY0xscUJ1V0tpYjhod0hhWWt3c2ZqMEZPQ3lkUEJibTRHRGhpQ19HUE9GdzRPYkJ2c19RMzkyamxXWVNVMjlKeVhrWFhJSFo2ZEE4ZnlPc04xU2d30gHKAUFVX3lxTE1TRFRsNF9hLWtobm9icnBCOXJaeFZWXzJ5OGRtNFJlMmxBZ0xPb0wxanhmbk1GbTFmMEdiRXRzcloyTmVZZXI0N2ZXV25rRnNqNXRGSXlVZlN3MXp2VkVlcnpQMWtUa200ZVU3dWQ5MjBmMk11M1VPemlaNGdWY3VjZWh4dmFlZEZ2el9KYUN2dG0yTUN4dk04bTJ0V0Z1ZGY2R0xRcWd0ZFlxY2pKdUlZamtNYjZiVnpHTTN6QmpkeDNLTWdMWVpfTGc?oc=5"
     },
     {
-      "title": "Con 361 elementos y 14 aeronaves, así fue el operativo Centella para detener a “El Chapo Isidro”",
-      "time": "hace 9 h",
+      "title": "Alcaldesa de Guasave desconocía operativo contra “El Chapo Isidro”",
+      "time": "hace 17 h",
       "source": "El Universal",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPOGllM0tOSVZYOHY1S05EZTdvVkQ4aWFiSV83SDZEZGZ1TXp1MmRvU3BBTWxDQWJwUkpyekFUNk12Z1lJOXNXcU1wVkF6dUZWRkpsc3JWdUlIVFp2T1psRnlaTlN5bXRENkNKdC0ycVlVMmVPVy1IUnBaUFIyTEt5M2pqVWltOEotSVlsOFZ0V2Nlai1ITFFDNFc4VGVEbjc3dlM1Ml9SZ2ZEQUJpMG9wdkdGcjV3eEdNTzVhNnpzQnBXbU13MlFVT1MwT3c1TDlqT1hJcWFxZ0ItdTlmRURRNGRnSGtVNThEZ1JvT2dDbDRMd9IBhgJBVV95cUxNQm0xVWU3ZUxUWjN2a1dIUFprRnNLRFJzQ1MtaldBWTVjMHFybnlOQnFLcDctVDA3clcxRWRya0t4aGRlQVNacXY1dUQxWnRpZ3hhdFZRUmZRNlFLdGEzVkVvb3NURi1GSTZzcW9kaFpCdFBqSG5NcnNhd3MyS1NHOUdZOElwWnAyRXdNS1B2MERsR202UE1JVlNyR2s2SVFNRDljbU1ndlNwRjdiejdXUUtoeG1FRTJpaVl1MFZ1aXJtbnR2c1Z0MEdHQ2MzczhkajM1bEVLam5MdzhBMXNNRlNIbm5mcGt3cmlrWTYxY1VlXzEtQ0lCdDgzVkhMbkI1c3E4ZThR?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOdk9yQ1lIZjVhdVJoYVA5SUVNVXJDa2wxNFdNS3VuY20zdXZkbzJUMk8tYUpTSUN6UHF1MVZ3VWJBdW9vNGhCaF9qaXBSRDl3bjhaWmFVX2tFV3FfMmtxeGlnYWNaRzFoajdOTjlFV09CZ0RkUzI1Q2JmUi05Y0doXzRrTkozaWVZY05jSDJYRUVpWU4tcm1ueHYwUnM1QktKaGpjWUxMQzFIUC1WTXpYaVhETUVnY1ZLUEF6eG4xTHF6SjNmX0hBazF3ZFVxTGJYbWxsajFHMWF2NVZpWElqdzcwQlJpZlZoZ0tZcNIBgAJBVV95cUxOYXpFU09zZDFHaWNtM0NVeURhQ1JVLWtNcTU5V2FEdEZWMDdZNjg3ZGpvamZ2Q3pWVlZrel9JVXFFMmdTbl9oU0Y5eGltVzl4VDUwVXhtOTNGbnF5VG9LeGpsMGJhSms5a09uWjUxbWNvOGdhWDEySGJtaThGZ1ZNRUl6U0JBZTlIQ2I0dDNRWFFKRnI4SHhHOFFuV3c5cGo3Y3UxYTBfTHVVWHlnVUpLNGJZQXdCSUI4cU9VUEs3Z2ZsU3FmV3VoSHZaYWtwTHp1WGZ6ZmVCbF94VGZ1R09iYjJDYkpadTJ3NG5aTG8zVjV3YWdla2dRTTZtT1NwUHY5?oc=5"
     },
     {
-      "title": "\"La violencia de hoy no es producto del acuerdo de paz. Es la falta de implementación\": Juan Manuel Santos y Rodrigo Londoño a BBC Mundo",
-      "time": "hace 12 h",
-      "source": "BBC Mundo",
-      "link": "https://www.bbc.com/mundo/articles/c6wy4g48l0g5o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Nvidia Reinstates Jensen Huang as CEO",
-      "time": "hace 12 h",
-      "source": "Hacker News",
-      "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html"
-    },
-    {
-      "title": "¡No los lleves! Una semana COMPLETA sin clases; alumnos que se quedan en casa del 23 al 27 de noviembre",
+      "title": "Fuerte accidente en la carretera Chihuahua-Ciudad Juárez deja muertos y heridos; bloqueos paraliza circulación",
       "time": "hace 1 d",
       "source": "ADN40",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQjdBeVRHSFpTOE91YjhnNHlyRXZONVdGaGpLMm4wS2daNEktZldfaVNHbkVjQ0gwMjlFSXRzR2xxb2JSVkN0QWZOTkY4T2hfQUFmcmtmR2pLQlU2YVdZVWNaYlBBNzJmX1V1cEs5cXdSLXpMM2JnR0RpZ0x2OGNPb0FZYmhsMjdlajdjb1c5S3FKV1VSYXhMczBrUGQzZ3ZLVlV0YXN0MU41Q2Q0bXhyOW0xUVRieDg0OXI0MlZRbGU1NGFSb2plYW50a2VySFRMNHYtbS0tNA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSlZFQTZpUGIzOFhna2Z3UGl0WTdialVjdEhIYnJkbjVhZnhGV01TOEZZQk15TUVxWmIzd0ZXMHFTRVhCY09uVUd0emJfbjVNcXhsOU1FVFgxcEhOSFhzTHlVRHJKZHA3WFlkT1F6SDk5V183TjR1S0M3YlJOTGZlQzJmU1lBQURHUUFxSHBXV1ZWNGxxZGpxc1ExWG50V2xfNGtTdE9GZHFXeUVmajRJOWxXSjdNVzZEMmh3UDhvTU1VQnNmUVFRUWRiaVNNaGIzRlNEdlFFSDYyREYyd2thVkphTQ?oc=5"
     }
   ],
-  "updated": "2026-11-24 02:44 UTC",
+  "updated": "2026-11-24 14:33 UTC",
   "failed": []
 }
