@@ -3,82 +3,82 @@
   "source": "varias fuentes",
   "news": [
     {
-      "title": "Apple to Release Four (RED) Products by Next Week",
-      "time": "hace 1 min",
-      "source": "MacRumors",
-      "link": "https://www.macrumors.com/2026/11/24/apple-to-release-four-red-products/"
-    },
-    {
-      "title": "iPhone Air 2 and iPhone 18 Rumored to Feature Thicker Cameras",
-      "time": "hace 5 min",
-      "source": "MacRumors",
-      "link": "https://www.macrumors.com/2026/11/24/iphone-air-2-and-iphone-18-thicker-cameras/"
-    },
-    {
-      "title": "Harman Kardon’s classic, see-through SoundSticks 4 are half off",
-      "time": "hace 20 min",
+      "title": "The Verge’s 2026 gift guide for dads",
+      "time": "hace 21 min",
       "source": "The Verge",
-      "link": "https://www.theverge.com/gadgets/1040300/harman-kardon-soundsticks-4-speakers-black-friday-2026-deal-sale"
+      "link": "https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026"
     },
     {
-      "title": "Nilo: Egipto y Etiopía, la batalla por el control del río",
-      "time": "hace 22 min",
-      "source": "France 24 Español",
-      "link": "https://www.france24.com/es/programas/%C3%A1frica-7-d%C3%ADas/20261124-nilo-egipto-y-etiop%C3%ADa-la-batalla-por-el-control-del-r%C3%ADo"
+      "title": "Missed That $149 AirPods Pro 3 Deal? Amazon Just Brought It Back",
+      "time": "hace 36 min",
+      "source": "MacRumors",
+      "link": "https://www.macrumors.com/2026/11/24/amazon-airpods-pro-3-deal-back/"
     },
     {
-      "title": "Two arrested on suspicion of burglary at Prince and Princess of Wales's Norfolk home",
+      "title": "Tidal Bans AI Music, While Apple Music Sticks to Labels",
+      "time": "hace 36 min",
+      "source": "MacRumors",
+      "link": "https://www.macrumors.com/2026/11/24/tidal-ai-music-ban/"
+    },
+    {
+      "title": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
+      "time": "hace 42 min",
+      "source": "Wired",
+      "link": "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/"
+    },
+    {
+      "title": "Half of NASA's aging Mars fleet knocked offline by technical issues",
+      "time": "hace 1 h",
+      "source": "Ars Technica",
+      "link": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/"
+    },
+    {
+      "title": "Nuclear test veterans will get full truth, says Burnham, as he confirms independent panel",
       "time": "hace 1 h",
       "source": "BBC News",
-      "link": "https://www.bbc.co.uk/news/articles/cr9d7qdg24vno?at_medium=RSS&at_campaign=rss"
+      "link": "https://www.bbc.co.uk/news/articles/c6808k8dxvgko?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "LLM agents work for their parent companies, not for you",
+      "title": "Microsoft's historic cloud outage exposed an engineering “fog of war”",
       "time": "hace 1 h",
-      "source": "Hacker News",
-      "link": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/"
-    },
-    {
-      "title": "8 Best Espresso Machines for Home (2026), Tested by Coffee Pros",
-      "time": "hace 2 h",
-      "source": "Wired",
-      "link": "https://www.wired.com/gallery/best-espresso-machines/"
-    },
-    {
-      "title": "\"No creo que el narcotráfico sea invencible, pero en la práctica lo es para quienes hoy gobiernan\": por qué la violencia persiste en Colombia 10 años después del acuerdo de paz",
-      "time": "hace 2 h",
-      "source": "BBC Mundo",
-      "link": "https://www.bbc.com/mundo/articles/cwzr53jr1xnpo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
-      "time": "hace 2 h",
       "source": "Ars Technica",
-      "link": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/"
+      "link": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/"
     },
     {
-      "title": "One terminal command gave my forgotten Android device a desk job",
-      "time": "hace 2 h",
-      "source": "Ars Technica",
-      "link": "https://arstechnica.com/gadgets/2026/11/one-terminal-command-gave-my-forgotten-android-device-a-desk-job/"
-    },
-    {
-      "title": "Helpful but awkward: My week with Meta's Muse ahead of its UK launch",
-      "time": "hace 5 h",
+      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "time": "hace 1 h",
       "source": "BBC Tech",
-      "link": "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o?at_medium=RSS&at_campaign=rss"
+      "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "El Consejo Administrativo de Nvidia vuelve a nombrar a Jensen Huang como CEO y presidente",
-      "time": "hace 11 h",
-      "source": "DW Español",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMmxiaVhlT3lhY1dDakV1MHJ0Y3h2NmZqVXhxWmxSTHAwc2NHM2sxZVh0MHppRjNkZnFCcHBFdGVSbnFPdGxYV2NMLWlGMmI5bURhXzZMWEZmajFEd0hvRTNENlhEY1hOeGFSZmYzSzA5UHV2d25PY0xscUJ1V0tpYjhod0hhWWt3c2ZqMEZPQ3lkUEJibTRHRGhpQ19HUE9GdzRPYkJ2c19RMzkyamxXWVNVMjlKeVhrWFhJSFo2ZEE4ZnlPc04xU2d30gHKAUFVX3lxTE1TRFRsNF9hLWtobm9icnBCOXJaeFZWXzJ5OGRtNFJlMmxBZ0xPb0wxanhmbk1GbTFmMEdiRXRzcloyTmVZZXI0N2ZXV25rRnNqNXRGSXlVZlN3MXp2VkVlcnpQMWtUa200ZVU3dWQ5MjBmMk11M1VPemlaNGdWY3VjZWh4dmFlZEZ2el9KYUN2dG0yTUN4dk04bTJ0V0Z1ZGY2R0xRcWd0ZFlxY2pKdUlZamtNYjZiVnpHTTN6QmpkeDNLTWdMWVpfTGc?oc=5"
+      "title": "Colombia: atentado en Villavicencio deja más de una decena de heridos",
+      "time": "hace 2 h",
+      "source": "France 24 Español",
+      "link": "https://www.france24.com/es/video/20261124-colombia-atentado-en-villavicencio-deja-m%C3%A1s-de-una-decena-de-heridos"
     },
     {
-      "title": "Alcaldesa de Guasave desconocía operativo contra “El Chapo Isidro”",
-      "time": "hace 17 h",
+      "title": "Ternary Bonsai 2.5 27B",
+      "time": "hace 4 h",
+      "source": "Hacker News",
+      "link": "https://prismml.com/news/bonsai-2-5-27b"
+    },
+    {
+      "title": "Alito Moreno alista denuncia contra Osorio Chong por presunto desvío de 3 mil mdp",
+      "time": "hace 6 h",
       "source": "El Universal",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOdk9yQ1lIZjVhdVJoYVA5SUVNVXJDa2wxNFdNS3VuY20zdXZkbzJUMk8tYUpTSUN6UHF1MVZ3VWJBdW9vNGhCaF9qaXBSRDl3bjhaWmFVX2tFV3FfMmtxeGlnYWNaRzFoajdOTjlFV09CZ0RkUzI1Q2JmUi05Y0doXzRrTkozaWVZY05jSDJYRUVpWU4tcm1ueHYwUnM1QktKaGpjWUxMQzFIUC1WTXpYaVhETUVnY1ZLUEF6eG4xTHF6SjNmX0hBazF3ZFVxTGJYbWxsajFHMWF2NVZpWElqdzcwQlJpZlZoZ0tZcNIBgAJBVV95cUxOYXpFU09zZDFHaWNtM0NVeURhQ1JVLWtNcTU5V2FEdEZWMDdZNjg3ZGpvamZ2Q3pWVlZrel9JVXFFMmdTbl9oU0Y5eGltVzl4VDUwVXhtOTNGbnF5VG9LeGpsMGJhSms5a09uWjUxbWNvOGdhWDEySGJtaThGZ1ZNRUl6U0JBZTlIQ2I0dDNRWFFKRnI4SHhHOFFuV3c5cGo3Y3UxYTBfTHVVWHlnVUpLNGJZQXdCSUI4cU9VUEs3Z2ZsU3FmV3VoSHZaYWtwTHp1WGZ6ZmVCbF94VGZ1R09iYjJDYkpadTJ3NG5aTG8zVjV3YWdla2dRTTZtT1NwUHY5?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbE56UERKX2Vka21jMDBEMXFFa19RQVpOeFN3TE9xT2RpWkJScW9JMmZaRkVRZU9aNUVvUUk0SmMtNWxZT3RNeU10M3dOdGlSWFdJVVZJNHRkb09heE80WGJDSHlGUFIxNElNTW9CQk52RXdGVncwVk01TWNwV2hVMWZYZjNldnZHMVVFUFZDXzI4bDg5RFdSaGZuZ1JBWUUyMWtQaXBGQmpnMVA1Z2t3d1IzaG9Rc0wySDdhUWw4VWxUMVV5RE1zU3poRmJ4Ulo0TW9ONndpNURYMmNodTkzNHl3X2lNcVducWlz0gH_AUFVX3lxTE5IdXJKN0hWRDR1enpFU29QQ0RGZkNqZjAzVzd6QWdDZ19CeU5ENEs5MkxzS0lETEtaQnJmcUlJaUN2ZktCOEpVMUo2UUhnTV96Z2ZqSGpTakxQeDE4LTZfcEpUY0NjeDhub3VTRmhEOGRTMmVCM0Jmem9kdXgybTdaTUpOd3BZNFoxVWdZdWI1akNzaTVMai03M1V2Y2RoUWRBTmItYWZURXVXMUJ2bnJyeUtuMGRETjNySWd5dHUtNmFYVXRTWWFybGQ5T3BlWGpSeXRYLThKSFdDQlJMNXdjSUVzT2ZGMVpsTU1uU2N3N0VDVXFqM1ZfS3YtakpTaw?oc=5"
+    },
+    {
+      "title": "Marte esconde en sus dunas heladas lo que parece un bosque y la NASA lo ha captado desde el espacio",
+      "time": "hace 6 h",
+      "source": "DW Español",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSlRIQlRHcGdrVmhqZDgtU1BBY2ZjYzk3azZtUUlHckV3SThQcC0zU0dQQWwwVnBzUEJ5VVNwR19UUmI5MUdqTmpxR1R2b1hPdVpqSXNJUjRQMHJkNENjSTZObXNjM3lsLVdlSUtGWVo3X0dXOHNWeUhzYmRaOHRTdUJYODRFSGNVWEJ5RHNKM2x2REd6WDFHbGlsb0FSS2ptWl9JT1ZYS2hVSHg0ckd4eklxaE95Uko20gG4AUFVX3lxTE5aVzNRd3hnRmVFeGFQWG5PWEJIcjJ0RFB6Y2xUcHpCOEVnNWpCUmxPS2dXX0xvMHpGRnVhLXZzUnkwYmZ1UXBjdjRqdjlENW5SZzVuaklzVWlGSmswU1R6MnJoLW41ODh3eVB2ZG9LTi1rOS1hNW1Sc3FWWURiYjFQeDkzTVU4R2hMdjE2RWhobzUzYjE2R19TZEo1OWhtaElYSThVSW82NnlDUW1mbHlFcG94bHZJVVg?oc=5"
+    },
+    {
+      "title": "Las lecciones que el regreso de Jensen Huang a Nvidia le enseña a Xi Jinping sobre cómo tratar a Trump",
+      "time": "hace 7 h",
+      "source": "BBC Mundo",
+      "link": "https://www.bbc.com/mundo/articles/cr930kp5eq12o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Fuerte accidente en la carretera Chihuahua-Ciudad Juárez deja muertos y heridos; bloqueos paraliza circulación",
@@ -87,6 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSlZFQTZpUGIzOFhna2Z3UGl0WTdialVjdEhIYnJkbjVhZnhGV01TOEZZQk15TUVxWmIzd0ZXMHFTRVhCY09uVUd0emJfbjVNcXhsOU1FVFgxcEhOSFhzTHlVRHJKZHA3WFlkT1F6SDk5V183TjR1S0M3YlJOTGZlQzJmU1lBQURHUUFxSHBXV1ZWNGxxZGpxc1ExWG50V2xfNGtTdE9GZHFXeUVmajRJOWxXSjdNVzZEMmh3UDhvTU1VQnNmUVFRUWRiaVNNaGIzRlNEdlFFSDYyREYyd2thVkphTQ?oc=5"
     }
   ],
-  "updated": "2026-11-24 14:33 UTC",
+  "updated": "2026-11-25 00:21 UTC",
   "failed": []
 }
